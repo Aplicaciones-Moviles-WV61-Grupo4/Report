@@ -58,6 +58,9 @@ Nuestra visión es ser la plataforma preferida por los organizadores de eventos 
 ## 1.2. Solution Profile
 A continuación, describiremos las características principales y beneficios de nuestra plataforma, así como el modelo de negocio que sustenta su funcionamiento.
 
+**Product Name:** AlquilaFácil
+
+**Product Description:** AlquilaFacil es una plataforma tecnológica que conecta a propietarios de espacios con organizadores de eventos. A través de un modelo de suscripción para propietarios, ofrecemos funcionalidades avanzadas y mayor visibilidad en nuestra plataforma. Los organizadores, por su parte, acceden de forma gratuita a una amplia variedad de espacios y herramientas para gestionar sus eventos de manera eficiente. Nuestro objetivo es crear una comunidad próspera y facilitar la organización de eventos exitosos.
 
 ### 1.2.1. Antecedentes y problemática
 
