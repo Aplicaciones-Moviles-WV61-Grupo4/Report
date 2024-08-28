@@ -1,8 +1,18 @@
 # Capítulo I: Introducción
 
 ## 1.1. StartUp Profile
+En esta sección se describirá la descripción de la Starup y el caso de negocio.
 
 ### 1.1.1. Description de la StartUp
+Alquilafacil es una startup tecnológica fundada en 2024 con el objetivo de revolucionar la industria de los alquileres para eventos. Nuestra plataforma, diseñada por un equipo de jóvenes ingenieros de software, ofrece una amplia gama de funcionalidades, como: búsqueda avanzada, reservas en línea, gestión de pagos, calificaciones y reseñas.
+
+Para esto:
+
+- **Misión:**
+Nuestra misión es crear una comunidad global de propietarios y organizadores de eventos, facilitando la conexión entre ellos y fomentando relaciones duraderas a través de una plataforma confiable y transparente.
+
+- **Visión:**
+Nuestra visión es ser la plataforma preferida por los organizadores de eventos a nivel mundial, ofreciéndoles una amplia gama de opciones de espacios y herramientas para planificar y ejecutar eventos exitosos.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -46,8 +56,8 @@
 </table>    
 
 ## 1.2. Solution Profile
+A continuación, describiremos las características principales y beneficios de nuestra plataforma, así como el modelo de negocio que sustenta su funcionamiento.
 
- 
 
 ### 1.2.1. Antecedentes y problemática
 
