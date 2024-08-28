@@ -66,7 +66,49 @@ A continuación, describiremos las características principales y beneficios de 
 
 ### Antecedentes
 
+La creciente digitalización de la sociedad peruana ha revolucionado la forma en que interactuamos con los servicios, y el sector de eventos no es la excepción. Hoy en día, los peruanos están cada vez más acostumbrados a reservar y adquirir productos y servicios a través de plataformas digitales, tanto en computadoras como en dispositivos móviles.
 
+De hecho, la INEI muestra el aumento de personas que accedieron a internet, estadísticamente, entre el 2019 hasta el 2022.
+
+    "En los primeros tres meses del 2022, 73 de cada 100 personas de 6 y más años de edad accedieron a Internet en el país, cifra que muestra un crecimiento de 5,1 y 17,7 puntos porcentuales al compararla con igual trimestre de los años 2021 (67,4%) y 2019 (54,8%), respectivamente." (INEI, 2022)
+
+Viendo la señalación del incremento del uso del internet, nosotros pensamos que AlquilaFácil se posiciona como la solución ideal para satisfacer esta demanda. Al ofrecer una plataforma digital intuitiva y completa, simplificamos el proceso de búsqueda y reserva de espacios para eventos, brindando a nuestros usuarios una experiencia personalizada y eficiente. Además, nos apoyamos en las últimas tendencias tecnológicas para garantizar la seguridad de las transacciones y la satisfacción de nuestros clientes.
+
+### Problemáticas
+#### 5 'W's y 2 'H's
+
+### What
+- **¿Cuál es el problema?** <br>
+  Organizar un evento, ya que esto implica una ardua tarea al momento de buscar el espacio ideal. La falta de una plataforma unificada dificulta la conexión entre propietarios y organizadores, generando retrasos y frustración en el proceso.
+
+### When
+- **¿Cuándo ocurre el problema** <br>
+  Tanto propietarios como organizadores de eventos se enfrentan constantemente al desafío de conectar sus necesidades. Ya sea para eventos planificados con meses de anticipación o para aquellos que requieren una solución inmediata, la búsqueda de espacios adecuados es una necesidad recurrente.
+
+- **¿Cuándo utiliza el cliente el producto?** <br>
+  Desde la planificación de grandes eventos con meses de anticipación hasta la búsqueda de última hora de un lugar para una reunión pequeña, la necesidad de encontrar el espacio adecuado es constante y diversa.
+
+### Where
+- **¿Dónde está el usuario cuando usa el producto?** <br>
+  El usuario estaría principalmente en el aplicativo móvil.
+
+- **¿Dónde surge el problema?** <br>
+  La principal problemática radica en la complejidad de hallar y reservar espacios que cumplan con los requisitos de un evento, tanto si se planea con anticipación como si se necesita una solución inmediata. Además de poder encontrar un espacio que se ajuste al presupuesto, la capacidad y las características requeridas para un evento específico puede ser una tarea desafiante.
+
+### Why
+- **¿Por qué ocurre este problema?** <br>
+  La carencia de una plataforma única que conecte a quienes ofrecen espacios para eventos con quienes los buscan genera una serie de inconvenientes. La búsqueda se vuelve engorrosa, lo que a menudo conduce a la frustración de ambas partes y a la pérdida de oportunidades de negocio.
+
+### How
+
+- **¿Cómo prefieren los clientes acceder a nuestro servicio?** <br>
+  Los usuarios prefieren acceder al producto a través de un aplicativo móvil por lo conveniente que es usar un app desde su celular, en vez de usar un navegador web.
+
+- **¿Cómo serían las condiciones en la que los usuarios usarían nuestro producto?** <br>
+  En AlquilaFácil, organizadores de eventos, ya sean sociales o corporativos, encuentran el espacio perfecto para sus celebraciones. Al mismo tiempo, propietarios de espacios pueden conectar con una amplia audiencia y rentabilizar sus instalaciones.
+
+### How much
+Nuestros planes de suscripción en AlquilaFácil ofrecen una gama de beneficios adicionales para aquellos que buscan una experiencia más completa y pueden adaptarse a las necesidades de cada usuario. Desde opciones gratuitas hasta planes premium con beneficios adicionales, encontrarás el plan perfecto para tu presupuesto y requerimientos.
 
 ### 1.2.2. Lean UX Process
 
