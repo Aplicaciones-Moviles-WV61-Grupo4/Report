@@ -111,12 +111,15 @@ Viendo la señalación del incremento del uso del internet, nosotros pensamos qu
 Nuestros planes de suscripción en AlquilaFácil ofrecen una gama de beneficios adicionales para aquellos que buscan una experiencia más completa y pueden adaptarse a las necesidades de cada usuario. Desde opciones gratuitas hasta planes premium con beneficios adicionales, encontrarás el plan perfecto para tu presupuesto y requerimientos.
 
 ### 1.2.2. Lean UX Process
-
-
+En esta seccióm, utilizaremos el enfoque Lean UX para diseñar nuestro producto de software y asegurarnos de que se ajuste a nuestra estrategia de negocio. Al priorizar las necesidades de nuestros usuarios, podremos desarrollar una solución que genere valor y contribuya al éxito de nuestra empresa.
 
 #### 1.2.2.1. Lean UX Problem Statements
-
-
+1. **Problema:**
+   - Los organizadores de eventos enfrentan dificultades para encontrar y reservar espacios adecuados para sus eventos de forma eficiente, ya que no existe una plataforma centralizada que reúna todas las opciones disponibles y facilite este proceso.
+  
+   - Los propietarios de espacios tienen dificultades para conectar con organizadores de eventos interesados en sus instalaciones debido a la falta de visibilidad y herramientas adecuadas para la gestión de reservas.
+2. **Declaración del problema:** La falta de una plataforma unificada genera frustración y retrasos para ambos grupos de usuarios, lo que lleva a una experiencia negativa y la pérdida de oportunidades de negocio.
+3. **Solución propuesta:** Una plataforma que facilite la búsqueda, comparación, reserva y pago de espacios para eventos en un solo lugar, reduciendo el tiempo y el esfuerzo necesario para ambas partes.
 
 #### 1.2.2.2. Lean UX Assumptions
 
