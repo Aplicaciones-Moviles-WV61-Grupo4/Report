@@ -123,6 +123,20 @@ En esta seccióm, utilizaremos el enfoque Lean UX para diseñar nuestro producto
 
 #### 1.2.2.2. Lean UX Assumptions
 
+1. **Business Assumptions:**
+   - La búsqueda de espacios para eventos es un proceso frustante y consume mucho tiempo.
+  
+   - La falta de unificación en las opciones de búsqueda y reserva impide a los organizaciones de eventos encontrar opciones adecuadas rápidamente.
+
+2. **Users Assumptions:** 
+   - Los organizadores de eventos prefieren utilizar una aplicación móvil para buscar y reservar espacios, debido a la conveniencia de tener acceso instantáneo desde sus dispositivos.
+  
+   - Los propietarios de espacios desean aumentar la visibilidad de sus instalaciones y optimizar la gestión de reservas a través de herramientas digitales.
+  
+3. **Outcome Assumptions:**
+   - Al ofrecer una plataforma que centralice las opciones de búsqueda y reserva de espacios para eventos, tanto organizadores como propietarios experimentarán una mejora en la eficiencia del proceso.
+  
+   - Una aplicación móvil que incluya búsqueda avanzada, gestión de pagos, calificaciones y reseñas atraerá tanto a organizadores como a propietarios de espacios.
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
