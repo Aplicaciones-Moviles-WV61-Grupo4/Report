@@ -37,7 +37,7 @@ Es una plataforma que permite a los usuarios reservar alojamiento en hoteles, ho
         AlquilaFácil
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="assets/images/logos/logo-alquilafacil.png" alt="AlquilaFacil" width="60px">
+                <img src="assets/images/logos/logo-NestHub.png" alt="NestHub" width="60px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Airbnb
@@ -157,6 +157,30 @@ Es una plataforma que permite a los usuarios reservar alojamiento en hoteles, ho
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
+
+**Entrevista 3:**
+
+Nombres: Erick Ernesto
+
+Apellidos: Guerrero
+
+Edad: 20
+
+Lugar de residencia: Chorrillos, Lima
+
+Entrevistador: Brenda Gamio Upiachihua
+
+Evidencia de la entrevista:  <img src="assets/entrevista2-erick.png">
+[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/Eeakt8f2BWJKqJu8D5wSkyABHCwtA6nc5b7KAq-3Fyp-gw?e=08LWD2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Resumen de la entrevista:
+
+Erick Guerrero es un joven trabajador de 20 años que suele hacer reuniones casuales con su grupo de amigos. Si bien no es el que suele organizar eventos grandes como quinciañeros o coferencias en su trabajo, si se encarga de organizar y encontrar las locales en dónde divertirse con sus amigos.
+
+Lo que más le importa saber sobre el local de que va estar utilizando, es la condición del espacio en donde estará. Cómo se encuentran las tuverías y desagüe para evitar poner en peligro a él y sus amigos. Cómo de seguro es la casa debido a antigüedad, etc.
+
+Por último, menciona que estos servicios de alquiler de centros para eventos, suelen ser a través de organizadores. Esto implica transladarse hasta dónde está el organizador y el local, gastanto dinero en pasajes, gasolina. También que requiere esfuerzo y tiempo. Sin embargo, que un servicio web que facilite todo este proceso le parece una idea muy buena.
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
