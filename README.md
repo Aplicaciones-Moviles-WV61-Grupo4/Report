@@ -154,3 +154,16 @@ En esta seccióm, utilizaremos el enfoque Lean UX para diseñar nuestro producto
 
 # 1.3. Segmentos Objetivo
 
+En esta sección, identificamos los segmentos específicos de clientes a los que AlquilaFácil se dirige, considerando características demográficas, comportamientos y necesidades comunes.
+
+- **Organizadores de Eventos:** <br>
+  Se trata de personas que planifican eventos sociales, como bodas, cumpleaños, reuniones familiares, entre otros, así como individuos que organizan eventos de forma regular, ya sean sociales o corporativos.
+
+  - **Características:** Buscan espacios que se ajusten a sus necesidades particulares, tales como capacidad, ubicación, y servicios disponibles. Además, realizan múltiples reservas a lo largo del año.
+  - **Necesidades:** Requieren una plataforma que facilite la búsqueda y reserva de espacios, con acceso a información detallada sobre instalaciones y servicios, así como programas de fidelización, descuentos por reservas frecuentes y acceso prioritario a espacios exclusivos.
+  
+- **Propiedades de Espacios para eventos:** <br>
+  Incluye a personas o empresas que poseen espacios adecuados para eventos, como salones de banquetes, jardines, locales comerciales, entre otros.
+
+  - **Características:** Cuentan con una variedad de espacios con diferentes capacidades y atributos.
+  - **Necesidades:** Buscan una promoción eficaz de sus espacios, una gestión eficiente de las reservas y acceso a herramientas para administrar sus listados y la planificación de eventos.
