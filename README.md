@@ -29,8 +29,8 @@
             <td>U202120344</td>
         </tr>
         <tr>
-            <td>Luna Capuñay, Italo D'Alessandro</td>
-            <td>U2XXXXXXX</td>
+            <td>Carpio Cornejo, Miguel Ángel</td>
+            <td>U20221c360</td>
         </tr>       
     </table>
 </div>
