@@ -140,8 +140,13 @@ En esta seccióm, utilizaremos el enfoque Lean UX para diseñar nuestro producto
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+- Creemos que al ofrecer una plataforma unificada de búsqueda y reserva de espacios, reduciremos el tiempo de búsqueda para los organizadores de eventos en un 50% durante los primeros tres meses.
 
-
+- Creemos que al implementar una aplicación móvil con funciones avanzadas (búsqueda avanzada, gestión de pagos, calificaciones y reseñas), aumentaremos el uso de la plataforma por parte de organizadores de eventos en un 30% durante los primeros seis meses.
+  
+- Creemos que los organizadores de eventos que actualmente utilizan métodos tradicionales (boca a boca, sitios web individuales, etc.) preferirán nuestra plataforma para sus futuras búsquedas y reservas, ya que será más conveniente y eficiente.
+  
+- Creemos que los propietarios de espacios que desean maximizar sus ingresos y la ocupación de sus instalaciones se suscribirán a nuestros planes premium para obtener una mayor visibilidad y herramientas avanzadas.
 
 #### 1.2.2.4. Lean UX Canvas
 
