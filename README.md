@@ -1,20 +1,20 @@
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
-Después de realizar una investigación de mercado, hemos identificado tres plataformas que ofrecen características similares a las de nuestra aplicación para conectar propietarios de espacios con organizadores de eventos. Estas son:
+Hemos realizado una investigación de mercado y descubrimos tres plataformas que ofrecen funciones similares a las de nuestra aplicación que conectan a los propietarios de espacios con los organizadores de eventos. Estos incluyen:
 1. **Airbnb:**
-Es una plataforma en línea fundada en 2008 que revolucionó la industria hotelera al ofrecer una alternativa a los hoteles tradicionales. Permite a los usuarios alquilar alojamientos a corto plazo, desde habitaciones individuales hasta casas completas, en más de 191 países. Facilita la conexión entre anfitriones que desean alquilar sus propiedades y huéspedes en busca de alojamiento temporal.
+Es una plataforma en línea que, desde su fundación en 2008, ha revolucionado la industria hotelera ofreciendo una alternativa a los hoteles convencionales. En más de 191 países, los usuarios pueden alquilar alojamientos a corto plazo, desde habitaciones individuales hasta casas completas. Facilita la comunicación entre los propietarios que desean alquilar sus propiedades y los visitantes que buscan alojamiento temporal.
 <div style="text-align: center;">
                 <img src="assets/images/logos/logo-airbnb.jpg" alt="Airbnb" style="max-width: 400px; width: 25%;">
 </div>
 
 2. **Vrbo:**
-Es una plataforma en línea fundada en 1995 que facilita el alquiler de alojamientos vacacionales directamente a través de los propietarios. El nombre significa "Vacation Rentals by Owner" (Alquileres Vacacionales por Propietario). Es uno de los principales sitios web para alquileres vacacionales en todo el mundo, donde los usuarios pueden buscar y reservar casas, apartamentos, cabañas y villas en una variedad de destinos. Esto les permite encontrar opciones que se adapten a sus necesidades y preferencias.
+Es una plataforma en línea creada en 1995 que permite a los propietarios alquilar viviendas directamente. El nombre significa "Alquileres de vacaciones por propietario". Es uno de los principales sitios web para alquileres vacacionales en todo el mundo, y los usuarios pueden buscar y reservar casas, apartamentos, cabañas y villas en una variedad de lugares. Esto les da la oportunidad de elegir opciones que se ajusten a sus necesidades y preferencias.
 <div style="text-align: center;">
                 <img src="assets/images/logos/logo-vrbo.png" alt="Vrbo" style="max-width: 400px; width: 25%;">
 </div>
 
 3. **Booking:**
-Es una plataforma que permite a los usuarios reservar alojamiento en hoteles, hostales, apartamentos y otros tipos de alojamiento en todo el mundo. También ofrece la posibilidad de reservar vuelos, alquilar coches y reservar actividades turísticas. Booking.com es una de las mayores plataformas de reserva de alojamiento en línea y ofrece una amplia variedad de opciones para viajeros de todo tipo. Los usuarios pueden buscar alojamientos según sus preferencias y presupuesto, y realizar reservas de manera rápida y conveniente a través de la plataforma.
+Es una plataforma donde los usuarios pueden reservar hoteles, hostales, apartamentos y otros tipos de alojamiento en todo el mundo. Además, tiene la opción de reservar vuelos, coches y actividades turísticas. Una de las principales plataformas en línea para reservar alojamientos es Booking.com, que tiene una amplia gama de opciones para viajeros de todo tipo. Los usuarios pueden buscar alojamientos según sus preferencias y presupuesto, y a través de la plataforma pueden realizar reservas de manera rápida y conveniente.
 <div style="text-align: center;">
                 <img src="assets/images/logos/logo-booking.png" alt="Booking" style="max-width: 400px; width: 25%;">
 </div>
