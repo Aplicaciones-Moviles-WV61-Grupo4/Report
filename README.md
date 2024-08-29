@@ -4,7 +4,7 @@
 En esta sección se describirá la descripción de la Starup y el caso de negocio.
 
 ### 1.1.1. Description de la StartUp
-Alquilafacil es una startup tecnológica fundada en 2024 con el objetivo de revolucionar la industria de los alquileres para eventos. Nuestra plataforma, diseñada por un equipo de jóvenes ingenieros de software, ofrece una amplia gama de funcionalidades, como: búsqueda avanzada, reservas en línea, gestión de pagos, calificaciones y reseñas.
+NestHub es una startup tecnológica fundada en 2024 con el objetivo de revolucionar la industria de los alquileres para eventos. Nuestra plataforma, diseñada por un equipo de jóvenes ingenieros de software, ofrece una amplia gama de funcionalidades, como: búsqueda avanzada, reservas en línea, gestión de pagos, calificaciones y reseñas.
 
 Para esto:
 
@@ -58,9 +58,9 @@ Nuestra visión es ser la plataforma preferida por los organizadores de eventos 
 ## 1.2. Solution Profile
 A continuación, describiremos las características principales y beneficios de nuestra plataforma, así como el modelo de negocio que sustenta su funcionamiento.
 
-**Product Name:** AlquilaFácil
+**Product Name:** NestHub
 
-**Product Description:** AlquilaFacil es una plataforma tecnológica que conecta a propietarios de espacios con organizadores de eventos. A través de un modelo de suscripción para propietarios, ofrecemos funcionalidades avanzadas y mayor visibilidad en nuestra plataforma. Los organizadores, por su parte, acceden de forma gratuita a una amplia variedad de espacios y herramientas para gestionar sus eventos de manera eficiente. Nuestro objetivo es crear una comunidad próspera y facilitar la organización de eventos exitosos.
+**Product Description:** NestHub es una plataforma tecnológica que conecta a propietarios de espacios con organizadores de eventos. A través de un modelo de suscripción para propietarios, ofrecemos funcionalidades avanzadas y mayor visibilidad en nuestra plataforma. Los organizadores, por su parte, acceden de forma gratuita a una amplia variedad de espacios y herramientas para gestionar sus eventos de manera eficiente. Nuestro objetivo es crear una comunidad próspera y facilitar la organización de eventos exitosos.
 
 ### 1.2.1. Antecedentes y problemática
 
@@ -72,7 +72,7 @@ De hecho, la INEI muestra el aumento de personas que accedieron a internet, esta
 
     "En los primeros tres meses del 2022, 73 de cada 100 personas de 6 y más años de edad accedieron a Internet en el país, cifra que muestra un crecimiento de 5,1 y 17,7 puntos porcentuales al compararla con igual trimestre de los años 2021 (67,4%) y 2019 (54,8%), respectivamente." (INEI, 2022)
 
-Viendo la señalación del incremento del uso del internet, nosotros pensamos que AlquilaFácil se posiciona como la solución ideal para satisfacer esta demanda. Al ofrecer una plataforma digital intuitiva y completa, simplificamos el proceso de búsqueda y reserva de espacios para eventos, brindando a nuestros usuarios una experiencia personalizada y eficiente. Además, nos apoyamos en las últimas tendencias tecnológicas para garantizar la seguridad de las transacciones y la satisfacción de nuestros clientes.
+Viendo la señalación del incremento del uso del internet, nosotros pensamos que NestHub se posiciona como la solución ideal para satisfacer esta demanda. Al ofrecer una plataforma digital intuitiva y completa, simplificamos el proceso de búsqueda y reserva de espacios para eventos, brindando a nuestros usuarios una experiencia personalizada y eficiente. Además, nos apoyamos en las últimas tendencias tecnológicas para garantizar la seguridad de las transacciones y la satisfacción de nuestros clientes.
 
 ### Problemáticas
 #### 5 'W's y 2 'H's
@@ -150,7 +150,9 @@ En esta seccióm, utilizaremos el enfoque Lean UX para diseñar nuestro producto
 
 #### 1.2.2.4. Lean UX Canvas
 
+<p align = "center"><img width="800" alt="Lean Ux Canvas (v2)" src="assets/LeanUX_canvas_v5[1].png"></p>
 
+<p align = "center"><em> Fuente: Elaboración propia. </em></p>
 
 # 1.3. Segmentos Objetivo
 
