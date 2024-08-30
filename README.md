@@ -26,15 +26,12 @@ Nuestra visión es ser la plataforma preferida por los organizadores de eventos 
     </thead>
     <body>
         <tr>
-            <!-- DATOS del integrante 1-->
             <td> 
-            <img src="" alt ="" height="120">
-            <br> Nombres y apellidos
+            <img src="assets/miguel-photo.png" alt ="Miguel Carpio" height="120">
+            <br> Miguel Ángel Carpio Cornejo
             </td>
-            <!-- DESCRIPCIÓN del integrante 1-->
-            <td> </td>
-            <!-- CONOCIMIENTOS del integrante 1-->
-            <td> </td>
+            <td> Estudiante de 6to ciclo de la carrera de ingeniería de Software, tengo 20 años y me gusta realizar proyector bien estructurados para una buena comprensión del mismo. </td>
+            <td>Conocimientos en HTML, python, java, C++, SQL. </td>
         </tr>
         <tr>
             <td> 
