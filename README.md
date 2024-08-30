@@ -4,7 +4,7 @@ Hemos realizado una investigación de mercado y descubrimos tres plataformas que
 1. **Airbnb:**
 Es una plataforma en línea que, desde su fundación en 2008, ha revolucionado la industria hotelera ofreciendo una alternativa a los hoteles convencionales. En más de 191 países, los usuarios pueden alquilar alojamientos a corto plazo, desde habitaciones individuales hasta casas completas. Facilita la comunicación entre los propietarios que desean alquilar sus propiedades y los visitantes que buscan alojamiento temporal.
 <div style="text-align: center;">
-                <img src="assets/images/logos/logo-airbnb.jpg" alt="Airbnb" style="max-width: 400px; width: 25%;">
+                <img src="assets/images/logos/logo-airbnb.png" alt="Airbnb" style="max-width: 400px; width: 25%;">
 </div>
 
 2. **Vrbo:**
@@ -34,7 +34,7 @@ Es una plataforma donde los usuarios pueden reservar hoteles, hostales, apartame
   <tr>
     <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
     <td colspan="1" valign="top" style="font-weight: bold;">
-        AlquilaFácil
+        NestHub
         <br>
         <div style="text-align: center; margin-top: 10px;">
                 <img src="assets/images/logos/logo-NestHub.png" alt="NestHub" width="60px">
@@ -42,7 +42,7 @@ Es una plataforma donde los usuarios pueden reservar hoteles, hostales, apartame
     <td colspan="1" valign="top" style="font-weight: bold;">
       Airbnb
         <div style="text-align: center; margin-top: 10px;">
-                <img src="assets/images/logos/logo-airbnb.jpg" alt="Airbnb" width="60px">
+                <img src="assets/images/logos/logo-airbnb.png" alt="Airbnb" width="60px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
@@ -68,7 +68,7 @@ Es una plataforma donde los usuarios pueden reservar hoteles, hostales, apartame
   </tr>
   <tr>
     <td colspan="2">Ventaja competitiva</td>
-    <td colspan="1" valign="top">Tiene una amplia gama de espacios para eventos y una plataforma fácil de usar para gestionar las reservas, lo que lo convierte en una solución completa para la planificación de eventos. Alquila Fácil simplifica el proceso de planificación de eventos para organizadores y propietarios de espacios con características como registro gratuito de espacios, búsqueda avanzada y servicio al cliente dedicado.</td>
+    <td colspan="1" valign="top">Tiene una amplia gama de espacios para eventos y una plataforma fácil de usar para gestionar las reservas, lo que lo convierte en una solución completa para la planificación de eventos. NestHub simplifica el proceso de planificación de eventos para organizadores y propietarios de espacios con características como registro gratuito de espacios, búsqueda avanzada y servicio al cliente dedicado.</td>
     <td colspan="1" valign="top">Ofrece una amplia gama de alojamientos en todo el mundo, desde habitaciones individuales hasta casas completas, junto con experiencias locales únicas organizadas por anfitriones. Como resultado, los viajeros pueden personalizar su experiencia y sumergirse en la cultura local.</td>
     <td colspan="1" valign="top">Se especializa en alquileres vacacionales directamente a través de propietarios, lo que permite a los viajeros disfrutar de una experiencia más genuina y única. Vrbo ofrece una amplia gama de alojamientos vacacionales para todos los gustos y presupuestos.</td>
     <td colspan="1" valign="top">Destaca por su amplia gama de alojamiento y servicios, que incluye hoteles, vuelos, alquiler de automóviles y actividades turísticas. La plataforma fácil de usar permite a los usuarios encontrar y reservar alojamiento de manera rápida y sencilla, brindando a los viajeros una solución completa.</td>
@@ -83,7 +83,7 @@ Es una plataforma donde los usuarios pueden reservar hoteles, hostales, apartame
   </tr>
   <tr>
     <td colspan="2">Estrategias de marketing</td>
-    <td colspan="1" valign="top">Para brindar a los organizadores de eventos soluciones completas, Alquila Fácil se destaca mediante el marketing de contenidos, la participación en eventos de la industria y la colaboración con proveedores de servicios de eventos.</td>
+    <td colspan="1" valign="top">Para brindar a los organizadores de eventos soluciones completas, NestHub se destaca mediante el marketing de contenidos, la participación en eventos de la industria y la colaboración con proveedores de servicios de eventos.</td>
     <td colspan="1" valign="top">Para publicitar destinos y experiencias únicos, Airbnb trabaja con influencers y campañas publicitarias en redes sociales. Además, utiliza programas de referidos para atraer a más usuarios.</td>
     <td colspan="1" valign="top">Vrbo se enfoca en ofrecer contenido educativo en su sitio web, trabajar con agencias de viajes y ofrecer ofertas exclusivas para que familias y grupos de amigos reserven a través de su plataforma.</td>
     <td colspan="1" valign="top">Para atraer tráfico y aumentar la lealtad del cliente a través de una experiencia personalizada, Booking.com utiliza estrategias de SEO y SEM, así como programas de fidelización.</td>
@@ -98,7 +98,7 @@ Es una plataforma donde los usuarios pueden reservar hoteles, hostales, apartame
   </tr>
   <tr>
       <td colspan="2">Precios & Costos</td>
-      <td colspan="1" valign="top">Los precios de AlquilaFácil varían dependiendo del lugar, el tamaño de la propiedad, servicios, y el tiempo de uso.</td>
+      <td colspan="1" valign="top">Los precios de NestHub varían dependiendo del lugar, el tamaño de la propiedad, servicios, y el tiempo de uso.</td>
       <td colspan="1" valign="top">El costo promedio puede variar significativamente dependiendo de varios factores, como la ubicación, el tipo de alojamiento, la época del año y la demanda local.</td>
       <td colspan="1" valign="top">Los precios en VRBO pueden variar significativamente dependiendo de la ubicación, el tamaño de la propiedad, las comodidades ofrecidas y la temporada del año.</td>
       <td colspan="1" valign="top">Los precios pueden variar significativamente según la ubicación, la temporada, la demanda y el tipo de alojamiento.</td>
@@ -146,9 +146,9 @@ Es una plataforma donde los usuarios pueden reservar hoteles, hostales, apartame
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-- **Diferenciación de la plataforma:** Vamos a identificar y destacar las ventajas de AlquilaFácil que la diferencian de otras plataformas de alquiler de espacios para eventos. Esto podría incluir herramientas innovadoras para la gestión de reservas, una interfaz fácil de usar que simplifica la búsqueda y la reserva de espacios, y características adicionales como la personalización de eventos y la integración de servicios de catering o entretenimiento.
+- **Diferenciación de la plataforma:** Vamos a identificar y destacar las ventajas de NestHub que la diferencian de otras plataformas de alquiler de espacios para eventos. Esto podría incluir herramientas innovadoras para la gestión de reservas, una interfaz fácil de usar que simplifica la búsqueda y la reserva de espacios, y características adicionales como la personalización de eventos y la integración de servicios de catering o entretenimiento.
 
-- **Comunidad activa:**  En la plataforma de AlquilaFácil, trabajaremos para fomentar una comunidad activa de propietarios de espacios, organizadores de eventos y clientes. Ofreceremos espacios donde las personas puedan compartir sus experiencias, recomendar lugares y eventos y interactuar entre sí. Esto aumentará la participación de los usuarios y la lealtad a la plataforma.
+- **Comunidad activa:**  En la plataforma de NestHub, trabajaremos para fomentar una comunidad activa de propietarios de espacios, organizadores de eventos y clientes. Ofreceremos espacios donde las personas puedan compartir sus experiencias, recomendar lugares y eventos y interactuar entre sí. Esto aumentará la participación de los usuarios y la lealtad a la plataforma.
 
 - **Marketing dirigido:** Para llegar a nuestro público objetivo, utilizaremos estrategias de marketing digital enfocadas. Esto podría incluir la promoción de la plataforma mediante publicidad en redes sociales dirigida a organizadores de eventos y propietarios de espacios, colaboraciones con organizadores de eventos locales e influyentes en el sector, y participación en ferias comerciales y eventos relevantes.
 
@@ -187,8 +187,8 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 4. Organizando eventos, ¿alguna vez tuvo un problema grave con las políticas de cancelación?
 5. ¿Eres promotor de algún tipo de evento recurrente?
 6. ¿Cada cuanto recurres a alquilar lugares o a usarlos?
-7. ¿Ves necesario una plataforma como Alquilafacil?
-8. ¿De qué maneras ves útil Alquilafacil y cada cuanto lo utilizamos?
+7. ¿Ves necesario una plataforma como NestHub?
+8. ¿De qué maneras ves útil NestHub y cada cuanto lo utilizamos?
 9. ¿Hay alguna otra consideración o solicitud especial que crea que deba adicionarse para hacer un mejor servicio?
 10. ¿Qué tan importante es para ti la flexibilidad de horarios al momento de reservar un espacio para tu evento?
 
