@@ -61,40 +61,40 @@ Es una plataforma donde los usuarios pueden reservar hoteles, hostales, apartame
   <tr>
     <td colspan="1" rowspan="2"><p>Perfil</p></td>
     <td colspan="2">Overview</td>
-    <td colspan="1" valign="top">Es una plataforma en línea que facilita el alquiler de una amplia gama de espacios para eventos, desde salones de eventos hasta casas y alojamientos temporales. Con una interfaz fácil de usar, conecta a propietarios con organizadores, ofreciendo una solución conveniente y eficiente para satisfacer las necesidades de ambos.</td>
-    <td colspan="1" valign="top">Plataforma en línea que revoluciona el alquiler de alojamientos a corto plazo, conectando anfitriones y huéspedes en todo el mundo. Ofrece una amplia variedad de opciones de alojamiento, desde habitaciones individuales hasta casas completas.</td>
-    <td colspan="1" valign="top">Plataforma en línea que permite a los usuarios buscar y reservar alojamientos vacacionales directamente a través de propietarios. Ofrece una variedad de opciones de alojamiento, como casas, apartamentos, cabañas y villas, en diferentes destinos, adaptándose a las necesidades y preferencias de los viajeros.</td>
-    <td colspan="1" valign="top">Booking.com es una plataforma líder para reservar alojamiento y actividades turísticas en todo el mundo. Ofrece una amplia variedad de opciones, desde hoteles hasta apartamentos, y facilita la búsqueda y reserva según las preferencias y presupuesto de los usuarios.</td>
+    <td colspan="1" valign="top">Es una plataforma en línea que permite el alquiler de una variedad de espacios para eventos, incluidos salones de eventos, casas y alojamientos temporales. Con una interfaz fácil de usar, conecta a los propietarios con los organizadores y ofrece una solución económica para satisfacer las necesidades de ambos.</td>
+    <td colspan="1" valign="top">La plataforma en línea que conecta anfitriones y huéspedes en todo el mundo ha revolucionado el alquiler de alojamientos a corto plazo. Desde habitaciones individuales hasta casas completas, hay una amplia gama de opciones de alojamiento disponibles.</td>
+    <td colspan="1" valign="top">Plataforma en línea que permite a los usuarios buscar y reservar viviendas directamente a través de los propietarios Adaptándose a las necesidades y preferencias de los viajeros, ofrece una variedad de opciones de alojamiento, como casas, apartamentos, cabañas y villas, en varios destinos.</td>
+    <td colspan="1" valign="top">Booking.com es una plataforma de reservas líder en todo el mundo para alojamiento y actividades turísticas. Ofrece una amplia gama de opciones, desde hoteles hasta apartamentos, y facilita la búsqueda y reserva según las preferencias y presupuesto del usuario.</td>
   </tr>
   <tr>
     <td colspan="2">Ventaja competitiva</td>
-    <td colspan="1" valign="top">Proporciona una solución completa para la planificación de eventos, ofreciendo una amplia gama de espacios para eventos y una plataforma intuitiva para gestionar reservas. Con características como registro gratuito de espacios, búsqueda avanzada y servicio al cliente dedicado, Alquila Fácil simplifica el proceso de planificación de eventos para organizadores y propietarios de espacios.</td>
-    <td colspan="1" valign="top">Ofrece una amplia variedad de alojamientos en todo el mundo, desde habitaciones individuales hasta casas completas, junto con experiencias locales únicas organizadas por anfitriones. Esto permite a los viajeros personalizar su experiencia y sumergirse en la cultura local.</td>
-    <td colspan="1" valign="top">Se especializa en alquileres vacacionales directamente a través de propietarios, brindando a los viajeros la oportunidad de disfrutar de una experiencia más auténtica y personalizada. Con una amplia selección de alojamientos vacacionales, Vrbo ofrece opciones para todos los gustos y presupuestos.</td>
-    <td colspan="1" valign="top">Destaca por su amplia oferta de alojamiento y servicios, que incluyen hoteles, vuelos, alquiler de coches y actividades turísticas. La plataforma fácil de usar permite a los usuarios encontrar y reservar alojamiento de manera rápida y sencilla, ofreciendo una solución integral para los viajeros.</td>
+    <td colspan="1" valign="top">Tiene una amplia gama de espacios para eventos y una plataforma fácil de usar para gestionar las reservas, lo que lo convierte en una solución completa para la planificación de eventos. Alquila Fácil simplifica el proceso de planificación de eventos para organizadores y propietarios de espacios con características como registro gratuito de espacios, búsqueda avanzada y servicio al cliente dedicado.</td>
+    <td colspan="1" valign="top">Ofrece una amplia gama de alojamientos en todo el mundo, desde habitaciones individuales hasta casas completas, junto con experiencias locales únicas organizadas por anfitriones. Como resultado, los viajeros pueden personalizar su experiencia y sumergirse en la cultura local.</td>
+    <td colspan="1" valign="top">Se especializa en alquileres vacacionales directamente a través de propietarios, lo que permite a los viajeros disfrutar de una experiencia más genuina y única. Vrbo ofrece una amplia gama de alojamientos vacacionales para todos los gustos y presupuestos.</td>
+    <td colspan="1" valign="top">Destaca por su amplia gama de alojamiento y servicios, que incluye hoteles, vuelos, alquiler de automóviles y actividades turísticas. La plataforma fácil de usar permite a los usuarios encontrar y reservar alojamiento de manera rápida y sencilla, brindando a los viajeros una solución completa.</td>
   </tr>
   <tr>
     <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
     <td colspan="2">Mercado objetivo</td>
-    <td colspan="1" valign="top">Dirigido a organizadores de eventos adultos de 18 años en adelante que buscan espacios para eventos sociales, corporativos o especiales, como bodas, conferencias, fiestas de empresa, entre otros. Además, atrae a empresas y organizaciones que buscan espacios para eventos corporativos y reuniones profesionales dirigidas a un público adulto.</td>
-    <td colspan="1" valign="top">Se centra en viajeros adultos de 18 años en adelante, ofreciendo una amplia variedad de alojamientos en todo el mundo, desde habitaciones individuales hasta casas completas, para adaptarse a diferentes necesidades y preferencias de viaje. Además, apunta a grupos de amigos, parejas y familias adultas que buscan opciones de alojamiento que se ajusten a sus requerimientos y presupuestos durante sus vacaciones o escapadas.</td>
-    <td colspan="1" valign="top">Está dirigido a familias y grupos de amigos adultos de 18 años en adelante que buscan alquilar casas, villas o cabañas para vacaciones o escapadas grupales. Además, atrae a parejas y grupos de amigos adultos que buscan alquilar alojamientos vacacionales para eventos especiales, como bodas, reuniones familiares o celebraciones de cumpleaños.</td>
-    <td colspan="1" valign="top">Orientado a viajeros adultos de 18 años en adelante, busca ofrecer una amplia gama de opciones de alojamiento para adaptarse a diversas necesidades y preferencias durante sus viajes. También se dirige a personas que viajan por negocios, parejas en escapadas románticas, grupos de amigos en vacaciones y familias en busca de opciones de alojamiento cómodas y convenientes.</td>
+    <td colspan="1" valign="top">Dirigido a organizadores de eventos adultos de 18 años en adelante que buscan espacios para eventos sociales, corporativos o especiales, como bodas, conferencias y fiestas de empresa, entre otros. Además, atrae a empresas y organizaciones que buscan espacios para reuniones profesionales y corporativas dirigidas a adultos.</td>
+    <td colspan="1" valign="top">Se enfoca en los viajeros adultos de 18 años en adelante y ofrece una amplia gama de opciones de alojamiento en todo el mundo, desde habitaciones individuales hasta casas completas, para satisfacer las necesidades y preferencias de cada viajero. Además, está dirigido a grupos de amigos, parejas y familias adultas que buscan opciones de alojamiento que cumplan con sus necesidades y presupuestos durante sus vacaciones o escapadas.</td>
+    <td colspan="1" valign="top">Se dirige a familias y grupos de amigos de 18 años en adelante que buscan alquilar casas, villas o cabañas para vacaciones o escapadas grupales. Además, atrae a parejas y grupos de amigos adultos que buscan alquilar alojamientos vacacionales para eventos especiales como bodas, reuniones familiares o cumpleaños.</td>
+    <td colspan="1" valign="top">Se dirige a viajeros adultos de 18 años en adelante y ofrece una amplia gama de opciones de alojamiento para satisfacer diversas necesidades y preferencias durante sus viajes. Se dirige también a personas que viajan por negocios, parejas en escapadas románticas, grupos de amigos en vacaciones y familias que buscan opciones de alojamiento convenientes y cómodas.</td>
   </tr>
   <tr>
     <td colspan="2">Estrategias de marketing</td>
-    <td colspan="1" valign="top">Alquila Fácil destaca con marketing de contenidos, participación en eventos de la industria y alianzas con proveedores de servicios de eventos para ofrecer soluciones completas a organizadores de eventos.</td>
-    <td colspan="1" valign="top">Airbnb emplea campañas publicitarias en redes sociales y colaboraciones con influencers para promocionar destinos y experiencias únicas. También utiliza programas de referidos para aumentar su base de usuarios.</td>
-    <td colspan="1" valign="top">Vrbo se centra en contenido educativo en su sitio web, colaboraciones con agencias de viajes y ofertas exclusivas para atraer a familias y grupos de amigos a reservar a través de su plataforma.</td>
-    <td colspan="1" valign="top">Booking.com utiliza estrategias de SEO y SEM, junto con programas de fidelización, para atraer tráfico y fomentar la lealtad del cliente a través de una experiencia personalizada.</td>
+    <td colspan="1" valign="top">Para brindar a los organizadores de eventos soluciones completas, Alquila Fácil se destaca mediante el marketing de contenidos, la participación en eventos de la industria y la colaboración con proveedores de servicios de eventos.</td>
+    <td colspan="1" valign="top">Para publicitar destinos y experiencias únicos, Airbnb trabaja con influencers y campañas publicitarias en redes sociales. Además, utiliza programas de referidos para atraer a más usuarios.</td>
+    <td colspan="1" valign="top">Vrbo se enfoca en ofrecer contenido educativo en su sitio web, trabajar con agencias de viajes y ofrecer ofertas exclusivas para que familias y grupos de amigos reserven a través de su plataforma.</td>
+    <td colspan="1" valign="top">Para atraer tráfico y aumentar la lealtad del cliente a través de una experiencia personalizada, Booking.com utiliza estrategias de SEO y SEM, así como programas de fidelización.</td>
   </tr>
   <tr>
     <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
     <td colspan="2">Productos & Servicios</td>
-    <td colspan="1" valign="top">Aplicación web que conecta a propietarios de diversos espacios, como salones de eventos, jardines y locales comerciales, con organizadores de eventos que buscan alquilar estos espacios para celebrar eventos sociales, corporativos o especiales. Proporciona una variedad de herramientas y servicios para facilitar la búsqueda, reserva y gestión de espacios para eventos.</td>
-    <td colspan="1" valign="top">Plataforma en línea donde los usuarios pueden alquilar una variedad de alojamientos a corto plazo, desde habitaciones individuales hasta casas completas, en todo el mundo. Además de alojamiento, Airbnb también proporciona experiencias locales únicas organizadas por anfitriones, como recorridos gastronómicos, clases de cocina y excursiones.</td>
-    <td colspan="1" valign="top">Plataforma para alquilar alojamientos vacacionales directamente a través de los propietarios. Los usuarios pueden encontrar y reservar una amplia gama de propiedades, que van desde casas y apartamentos hasta cabañas y villas, para sus vacaciones o escapadas en todo el mundo.</td>
-    <td colspan="1" valign="top">Plataforma en línea que permite a los usuarios reservar una variedad de alojamientos, incluyendo hoteles, hostales, apartamentos y otros tipos de hospedaje en todo el mundo. Además de alojamiento, Booking.com ofrece la posibilidad de reservar vuelos, alquilar coches y reservar actividades turísticas para completar la experiencia de viaje del usuario.</td>
+    <td colspan="1" valign="top">Aplicación móvil que conecta a organizadores de eventos con propietarios de diferentes espacios, como salones de eventos, jardines y locales comerciales, que buscan alquilarlos para eventos sociales, corporativos o especiales. Proporciona una variedad de herramientas y servicios que ayudan a encontrar, reservar y administrar espacios para eventos.</td>
+    <td colspan="1" valign="top">Plataforma en línea que permite a los usuarios alquilar una variedad de alojamientos a corto plazo en todo el mundo, desde habitaciones individuales hasta casas completas. Además de brindar alojamiento, Airbnb también ofrece experiencias locales personalizadas, como excursiones, recorridos gastronómicos y clases de cocina.</td>
+    <td colspan="1" valign="top">Plataforma para alquilar viviendas directamente a través de los propietarios Para sus vacaciones o escapadas en todo el mundo, los usuarios pueden encontrar y reservar una amplia gama de propiedades, que van desde casas y apartamentos hasta cabañas y villas.</td>
+    <td colspan="1" valign="top">La plataforma en línea permite a los usuarios reservar una variedad de tipos de alojamiento, incluidos hoteles, hostales, apartamentos y otros en todo el mundo. Para completar la experiencia de viaje del usuario, Booking.com le permite reservar vuelos, alquilar autos y actividades turísticas.</td>
   </tr>
   <tr>
       <td colspan="2">Precios & Costos</td>
@@ -105,7 +105,7 @@ Es una plataforma donde los usuarios pueden reservar hoteles, hostales, apartame
   </tr>
   <tr>
     <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
-    <td colspan="1" valign="top">Redes sociales y aplicación web donde los usuarios pueden poner en renta su espacio o alquilar un espacio para eventos.</td>
+    <td colspan="1" valign="top">Redes sociales y aplicación móvil donde los usuarios pueden poner en renta su espacio o alquilar un espacio para eventos.</td>
     <td colspan="1" valign="top">Sitio web de Airbnb, aplicación móvil de Airbnb, socios afiliados y asociaciones, redes sociales y marketing digital.</td>
     <td colspan="1" valign="top">Principalmente su sitio web y su aplicación móvil, así como acuerdos de distribución con otros sitios web de viajes o agencias de viajes en línea.</td>
     <td colspan="1" valign="top">Sitio web de Booking.com, aplicación móvil de Booking, agencias de viajes en línea, alianzas con compañías de viajes, afiliados y asociados.</td>
@@ -146,16 +146,52 @@ Es una plataforma donde los usuarios pueden reservar hoteles, hostales, apartame
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-- **Diferenciación de la plataforma:** Identificaremos y destacaremos las características únicas de AlquilaFácil que la distinguen de otras plataformas de alquiler de espacios para eventos. Esto podría incluir herramientas innovadoras para la gestión de reservas, una interfaz fácil de usar que simplifica el proceso de búsqueda y reserva de espacios, y características adicionales como la personalización de eventos y la integración de servicios de catering o entretenimiento.
+- **Diferenciación de la plataforma:** Vamos a identificar y destacar las ventajas de AlquilaFácil que la diferencian de otras plataformas de alquiler de espacios para eventos. Esto podría incluir herramientas innovadoras para la gestión de reservas, una interfaz fácil de usar que simplifica la búsqueda y la reserva de espacios, y características adicionales como la personalización de eventos y la integración de servicios de catering o entretenimiento.
 
-- **Comunidad activa:** Fomentaremos una comunidad activa de propietarios de espacios, organizadores de eventos y usuarios en la plataforma de AlquilaFácil. Ofreceremos espacios para que compartan sus experiencias, recomienden espacios y eventos, e interactúen entre sí. Esto no solo aumentará el compromiso de los usuarios, sino que también generará confianza y lealtad hacia la plataforma.
+- **Comunidad activa:**  En la plataforma de AlquilaFácil, trabajaremos para fomentar una comunidad activa de propietarios de espacios, organizadores de eventos y clientes. Ofreceremos espacios donde las personas puedan compartir sus experiencias, recomendar lugares y eventos y interactuar entre sí. Esto aumentará la participación de los usuarios y la lealtad a la plataforma.
 
-- **Marketing dirigido:** Utilizaremos estrategias de marketing digital dirigidas para llegar a nuestro público objetivo. Esto podría incluir publicidad en redes sociales dirigida a organizadores de eventos y propietarios de espacios, colaboraciones con organizadores de eventos locales e influencers en la industria de eventos, y la participación en ferias comerciales y eventos relevantes para promover la plataforma.
+- **Marketing dirigido:** Para llegar a nuestro público objetivo, utilizaremos estrategias de marketing digital enfocadas. Esto podría incluir la promoción de la plataforma mediante publicidad en redes sociales dirigida a organizadores de eventos y propietarios de espacios, colaboraciones con organizadores de eventos locales e influyentes en el sector, y participación en ferias comerciales y eventos relevantes.
 
-- **Monetización creativa:** Exploraremos diferentes modelos de monetización para diversificar nuestras fuentes de ingresos y ofrecer opciones flexibles a nuestros usuarios. Además de las tarifas estándar por el uso de la plataforma, podríamos ofrecer servicios premium para propietarios de espacios, como la promoción destacada de sus listados o herramientas avanzadas de gestión de reservas. También podríamos considerar la inclusión de servicios adicionales, como la coordinación de catering o la organización de servicios de entretenimiento, con una tarifa adicional. La publicidad no intrusiva y los patrocinios de eventos también podrían ser oportunidades de monetización a explorar.
+- **Monetización creativa:** Para diversificar nuestras fuentes de ingresos y brindar a nuestros usuarios opciones adaptables, investigaremos varios modelos de monetización. Podríamos ofrecer a los propietarios de espacios servicios premium, como herramientas de gestión de reservas avanzadas o promociones destacadas en sus listados, además de las tarifas estándar por el uso de la plataforma. Además, podríamos considerar incluir servicios adicionales, como la organización de catering o servicios de entretenimiento, por un precio adicional. Los patrocinios de eventos y la publicidad no intrusiva también podrían ser oportunidades de monetización a considerar.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
+
+**Preguntas generales:**
+
+1. ¿Cuál es tu nombre?
+2. ¿Qué edad tienes?
+3. ¿Dónde vives actualmente?
+4. ¿A qué te dedicas?
+
+**Preguntas Segmento 1: Propietarios**
+
+1. ¿Qué desafíos enfrenta actualmente al promocionar y gestionar reservas para su espacio?
+2. ¿Qué tipo de propiedades suele alquilar o publicitar? (apartamentos, casas, locales comerciales, terrenos, etc.)
+3. De tener experiencia en alquilar su propiedad, ¿cómo ha realizado los pagos de los centros en alquiler?
+4. ¿Cómo promociona su espacio para atraer a potenciales clientes? ¿Qué estrategias de marketing ha encontrado más efectivas?
+5. ¿Qué te parece más importante al alquilar una propiedad: la facilidad de uso de la plataforma, la seguridad de las transacciones, la diversidad de opciones disponibles, u otros aspectos?
+6. ¿Cuáles son las principales características que busca en una plataforma de alquiler de espacios para eventos?
+7. ¿Qué incentivos o beneficios podrían motivar a utilizar una plataforma de alquiler de espacios de manera más frecuente?
+8. ¿Ha tenido alguna experiencia previa con plataformas similares de alquiler de espacios para eventos?¿Qué aspectos le gustaron?
+9. ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a publicitar o alquilar tu propiedad de manera más eficiente?
+10. ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
+
+**Preguntas Segmento 2: Organizadores**
+
+1. ¿Qué tipo de propiedades alquila regularmente para sus reuniones?
+2. ¿Alguna vez has necesitado un lugar de encuentro o festivo de emergencia?
+3. ¿Qué tipo de información te gustaría que viniera en las características del local/propiedad? (ej. licencias de eventos, capacidad máxima de gente, etc.)
+4. Organizando eventos, ¿alguna vez tuvo un problema grave con las políticas de cancelación?
+5. ¿Eres promotor de algún tipo de evento recurrente?
+6. ¿Cada cuanto recurres a alquilar lugares o a usarlos?
+7. ¿Ves necesario una plataforma como Alquilafacil?
+8. ¿De qué maneras ves útil Alquilafacil y cada cuanto lo utilizamos?
+9. ¿Hay alguna otra consideración o solicitud especial que crea que deba adicionarse para hacer un mejor servicio?
+10. ¿Qué tan importante es para ti la flexibilidad de horarios al momento de reservar un espacio para tu evento?
+
 ### 2.2.2. Registro de entrevistas
 
 **Entrevista 3:**
