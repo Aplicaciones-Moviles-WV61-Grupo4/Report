@@ -193,6 +193,30 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 10. ¿Qué tan importante es para ti la flexibilidad de horarios al momento de reservar un espacio para tu evento?
 
 ### 2.2.2. Registro de entrevistas
+**Entrevista 1:**
+
+Nombres: Miguel Ángel
+
+Apellidos: Alvizuri
+
+Edad: 24
+
+Lugar de residencia: Chorrillos, Lima
+
+Entrevistador: Miguel Carpio Cornejo
+
+Evidencia de la entrevista:  <img src="assets/entrevista1-miguel.png">
+[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c360_upc_edu_pe/Ef5cabeHfFBLqiaOZrxatsIByBMU0CnLw_F7hNGOMQR9SQ?e=Smle5l)
+
+Resumen de la entrevista:
+
+Miguel Alvizuri enfrenta varios desafíos al promocionar y gestionar reservas para sus espacios. La competencia es fuerte y es crucial coordinar y confirmar reservas sin errores para mantener una buena reputación. Suele alquilar salones de eventos y casas de campo, ideales para bodas, fiestas y eventos corporativos.
+
+En cuanto a los pagos, prefiere utilizar transferencias bancarias o plataformas de pago en línea por su seguridad y comodidad. Para atraer a potenciales clientes, utiliza redes sociales, anuncios en Google, y colaboraciones con organizadores de eventos. Las estrategias más efectivas han sido las redes sociales por su capacidad de mostrar imágenes atractivas y recibir retroalimentación directa.
+
+Considera que la seguridad de las transacciones es fundamental, seguida de la facilidad de uso de la plataforma. Busca características como seguridad, facilidad de uso, buen soporte al cliente, y visibilidad en motores de búsqueda y redes sociales en una plataforma de alquiler de espacios. Incentivos como descuentos en comisiones y programas de fidelidad podrían motivarlo a usar la plataforma más frecuentemente.
+
+Ha tenido experiencias previas con plataformas como Airbnb, valorando su facilidad de uso, visibilidad, y seguridad en las transacciones. Estaría dispuesto a pagar una tarifa por una aplicación que mejore la publicidad y gestión de sus propiedades. Sugiere mejoras como integraciones avanzadas con redes sociales, herramientas de análisis de mercado, opciones de personalización de anuncios y soporte técnico 24/7.
 
 **Entrevista 3:**
 
