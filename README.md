@@ -519,7 +519,649 @@ En esta sección, identificamos los segmentos específicos de clientes a los que
   - **Características:** Cuentan con una variedad de espacios con diferentes capacidades y atributos.
   - **Necesidades:** Buscan una promoción eficaz de sus espacios, una gestión eficiente de las reservas y acceso a herramientas para administrar sus listados y la planificación de eventos.
 
+  # Capítulo II: Requirements Elicitation & Analysis
+## 2.1. Competidores
+Hemos realizado una investigación de mercado y descubrimos tres plataformas que ofrecen funciones similares a las de nuestra aplicación que conectan a los propietarios de espacios con los organizadores de eventos. Estos incluyen:
+1. **Airbnb:**
+Es una plataforma en línea que, desde su fundación en 2008, ha revolucionado la industria hotelera ofreciendo una alternativa a los hoteles convencionales. En más de 191 países, los usuarios pueden alquilar alojamientos a corto plazo, desde habitaciones individuales hasta casas completas. Facilita la comunicación entre los propietarios que desean alquilar sus propiedades y los visitantes que buscan alojamiento temporal.
+<div style="text-align: center;">
+                <img src="assets/images/logos/logo-airbnb.png" alt="Airbnb" style="max-width: 400px; width: 25%;">
+</div>
+
+2. **Vrbo:**
+Es una plataforma en línea creada en 1995 que permite a los propietarios alquilar viviendas directamente. El nombre significa "Alquileres de vacaciones por propietario". Es uno de los principales sitios web para alquileres vacacionales en todo el mundo, y los usuarios pueden buscar y reservar casas, apartamentos, cabañas y villas en una variedad de lugares. Esto les da la oportunidad de elegir opciones que se ajusten a sus necesidades y preferencias.
+<div style="text-align: center;">
+                <img src="assets/images/logos/logo-vrbo.png" alt="Vrbo" style="max-width: 400px; width: 25%;">
+</div>
+
+3. **Booking:**
+Es una plataforma donde los usuarios pueden reservar hoteles, hostales, apartamentos y otros tipos de alojamiento en todo el mundo. Además, tiene la opción de reservar vuelos, coches y actividades turísticas. Una de las principales plataformas en línea para reservar alojamientos es Booking.com, que tiene una amplia gama de opciones para viajeros de todo tipo. Los usuarios pueden buscar alojamientos según sus preferencias y presupuesto, y a través de la plataforma pueden realizar reservas de manera rápida y conveniente.
+<div style="text-align: center;">
+                <img src="assets/images/logos/logo-booking.png" alt="Booking" style="max-width: 400px; width: 25%;">
+</div>
+
+### 2.1.1. Análisis competitivo
+<table>
+  <tr>
+    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+  </tr>
+  <tr>
+    <td colspan="5">Este análisis se realizó con la finalidad de poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de estos.</td>
+  </tr>
+  <tr>
+    <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        NestHub
+        <br>
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/images/logos/logo-NestHub.png" alt="NestHub" width="60px">
+        </div>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      Airbnb
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/images/logos/logo-airbnb.png" alt="Airbnb" width="60px">
+        </div>
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      Vrbo
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/images/logos/logo-vrbo.png" alt="Vrbo" width="60px">
+            </div>
+        </td>
+    <td colspan="1" valign="top" style="font-weight: bold;" >
+      Booking
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/images/logos/logo-booking.png" alt="Booking" width="60px">
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil</p></td>
+    <td colspan="2">Overview</td>
+    <td colspan="1" valign="top">Es una plataforma en línea que permite el alquiler de una variedad de espacios para eventos, incluidos salones de eventos, casas y alojamientos temporales. Con una interfaz fácil de usar, conecta a los propietarios con los organizadores y ofrece una solución económica para satisfacer las necesidades de ambos.</td>
+    <td colspan="1" valign="top">La plataforma en línea que conecta anfitriones y huéspedes en todo el mundo ha revolucionado el alquiler de alojamientos a corto plazo. Desde habitaciones individuales hasta casas completas, hay una amplia gama de opciones de alojamiento disponibles.</td>
+    <td colspan="1" valign="top">Plataforma en línea que permite a los usuarios buscar y reservar viviendas directamente a través de los propietarios Adaptándose a las necesidades y preferencias de los viajeros, ofrece una variedad de opciones de alojamiento, como casas, apartamentos, cabañas y villas, en varios destinos.</td>
+    <td colspan="1" valign="top">Booking.com es una plataforma de reservas líder en todo el mundo para alojamiento y actividades turísticas. Ofrece una amplia gama de opciones, desde hoteles hasta apartamentos, y facilita la búsqueda y reserva según las preferencias y presupuesto del usuario.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Ventaja competitiva</td>
+    <td colspan="1" valign="top">Tiene una amplia gama de espacios para eventos y una plataforma fácil de usar para gestionar las reservas, lo que lo convierte en una solución completa para la planificación de eventos. NestHub simplifica el proceso de planificación de eventos para organizadores y propietarios de espacios con características como registro gratuito de espacios, búsqueda avanzada y servicio al cliente dedicado.</td>
+    <td colspan="1" valign="top">Ofrece una amplia gama de alojamientos en todo el mundo, desde habitaciones individuales hasta casas completas, junto con experiencias locales únicas organizadas por anfitriones. Como resultado, los viajeros pueden personalizar su experiencia y sumergirse en la cultura local.</td>
+    <td colspan="1" valign="top">Se especializa en alquileres vacacionales directamente a través de propietarios, lo que permite a los viajeros disfrutar de una experiencia más genuina y única. Vrbo ofrece una amplia gama de alojamientos vacacionales para todos los gustos y presupuestos.</td>
+    <td colspan="1" valign="top">Destaca por su amplia gama de alojamiento y servicios, que incluye hoteles, vuelos, alquiler de automóviles y actividades turísticas. La plataforma fácil de usar permite a los usuarios encontrar y reservar alojamiento de manera rápida y sencilla, brindando a los viajeros una solución completa.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+    <td colspan="2">Mercado objetivo</td>
+    <td colspan="1" valign="top">Dirigido a organizadores de eventos adultos de 18 años en adelante que buscan espacios para eventos sociales, corporativos o especiales, como bodas, conferencias y fiestas de empresa, entre otros. Además, atrae a empresas y organizaciones que buscan espacios para reuniones profesionales y corporativas dirigidas a adultos.</td>
+    <td colspan="1" valign="top">Se enfoca en los viajeros adultos de 18 años en adelante y ofrece una amplia gama de opciones de alojamiento en todo el mundo, desde habitaciones individuales hasta casas completas, para satisfacer las necesidades y preferencias de cada viajero. Además, está dirigido a grupos de amigos, parejas y familias adultas que buscan opciones de alojamiento que cumplan con sus necesidades y presupuestos durante sus vacaciones o escapadas.</td>
+    <td colspan="1" valign="top">Se dirige a familias y grupos de amigos de 18 años en adelante que buscan alquilar casas, villas o cabañas para vacaciones o escapadas grupales. Además, atrae a parejas y grupos de amigos adultos que buscan alquilar alojamientos vacacionales para eventos especiales como bodas, reuniones familiares o cumpleaños.</td>
+    <td colspan="1" valign="top">Se dirige a viajeros adultos de 18 años en adelante y ofrece una amplia gama de opciones de alojamiento para satisfacer diversas necesidades y preferencias durante sus viajes. Se dirige también a personas que viajan por negocios, parejas en escapadas románticas, grupos de amigos en vacaciones y familias que buscan opciones de alojamiento convenientes y cómodas.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Estrategias de marketing</td>
+    <td colspan="1" valign="top">Para brindar a los organizadores de eventos soluciones completas, NestHub se destaca mediante el marketing de contenidos, la participación en eventos de la industria y la colaboración con proveedores de servicios de eventos.</td>
+    <td colspan="1" valign="top">Para publicitar destinos y experiencias únicos, Airbnb trabaja con influencers y campañas publicitarias en redes sociales. Además, utiliza programas de referidos para atraer a más usuarios.</td>
+    <td colspan="1" valign="top">Vrbo se enfoca en ofrecer contenido educativo en su sitio web, trabajar con agencias de viajes y ofrecer ofertas exclusivas para que familias y grupos de amigos reserven a través de su plataforma.</td>
+    <td colspan="1" valign="top">Para atraer tráfico y aumentar la lealtad del cliente a través de una experiencia personalizada, Booking.com utiliza estrategias de SEO y SEM, así como programas de fidelización.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+    <td colspan="2">Productos & Servicios</td>
+    <td colspan="1" valign="top">Aplicación móvil que conecta a organizadores de eventos con propietarios de diferentes espacios, como salones de eventos, jardines y locales comerciales, que buscan alquilarlos para eventos sociales, corporativos o especiales. Proporciona una variedad de herramientas y servicios que ayudan a encontrar, reservar y administrar espacios para eventos.</td>
+    <td colspan="1" valign="top">Plataforma en línea que permite a los usuarios alquilar una variedad de alojamientos a corto plazo en todo el mundo, desde habitaciones individuales hasta casas completas. Además de brindar alojamiento, Airbnb también ofrece experiencias locales personalizadas, como excursiones, recorridos gastronómicos y clases de cocina.</td>
+    <td colspan="1" valign="top">Plataforma para alquilar viviendas directamente a través de los propietarios Para sus vacaciones o escapadas en todo el mundo, los usuarios pueden encontrar y reservar una amplia gama de propiedades, que van desde casas y apartamentos hasta cabañas y villas.</td>
+    <td colspan="1" valign="top">La plataforma en línea permite a los usuarios reservar una variedad de tipos de alojamiento, incluidos hoteles, hostales, apartamentos y otros en todo el mundo. Para completar la experiencia de viaje del usuario, Booking.com le permite reservar vuelos, alquilar autos y actividades turísticas.</td>
+  </tr>
+  <tr>
+      <td colspan="2">Precios & Costos</td>
+      <td colspan="1" valign="top">Los precios de NestHub varían dependiendo del lugar, el tamaño de la propiedad, servicios, y el tiempo de uso.</td>
+      <td colspan="1" valign="top">El costo promedio puede variar significativamente dependiendo de varios factores, como la ubicación, el tipo de alojamiento, la época del año y la demanda local.</td>
+      <td colspan="1" valign="top">Los precios en VRBO pueden variar significativamente dependiendo de la ubicación, el tamaño de la propiedad, las comodidades ofrecidas y la temporada del año.</td>
+      <td colspan="1" valign="top">Los precios pueden variar significativamente según la ubicación, la temporada, la demanda y el tipo de alojamiento.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+    <td colspan="1" valign="top">Redes sociales y aplicación móvil donde los usuarios pueden poner en renta su espacio o alquilar un espacio para eventos.</td>
+    <td colspan="1" valign="top">Sitio web de Airbnb, aplicación móvil de Airbnb, socios afiliados y asociaciones, redes sociales y marketing digital.</td>
+    <td colspan="1" valign="top">Principalmente su sitio web y su aplicación móvil, así como acuerdos de distribución con otros sitios web de viajes o agencias de viajes en línea.</td>
+    <td colspan="1" valign="top">Sitio web de Booking.com, aplicación móvil de Booking, agencias de viajes en línea, alianzas con compañías de viajes, afiliados y asociados.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+    <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Fortalezas</td>
+    <td colspan="1" valign="top">Solución completa para la planificación de eventos.</td>
+    <td colspan="1" valign="top">Gran comunidad de anfitriones y usuarios.</td>
+    <td colspan="1" valign="top">Variedad de alojamientos en todo el mundo.</td>
+    <td colspan="1" valign="top">Interfaz fácil de usar y experiencia intuitiva del usuario.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Debilidades</td>
+    <td colspan="1" valign="top">Dependencia de la disponibilidad de espacios para eventos.</td>
+    <td colspan="1" valign="top">Dependencia de la reputación y opiniones de los usuarios.</td>
+    <td colspan="1" valign="top">Posible saturación del mercado de alquiler vacacional.</td>
+    <td colspan="1" valign="top">Competencia intensa con otras plataformas de alquiler de alojamiento.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Oportunidades</td>
+    <td colspan="1" valign="top">Expansión a nuevos mercados y nichos de eventos.</td>
+    <td colspan="1" valign="top">Desarrollo de nuevas características y servicios para mejorar la experiencia del usuario.</td>
+    <td colspan="1" valign="top">Alianzas estratégicas con proveedores de servicios de eventos.</td>
+    <td colspan="1" valign="top">Aprovechamiento de la tendencia creciente del turismo y los viajes.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Amenazas</td>
+    <td colspan="1" valign="top">Cambios en la regulación de alquileres vacacionales y eventos.</td>
+    <td colspan="1" valign="top">Posible disminución de la demanda de viajes debido a crisis económicas o sanitarias.</td>
+    <td colspan="1" valign="top">Innovaciones tecnológicas que podrían ser adoptadas por competidores.</td>
+    <td colspan="1" valign="top">Posible pérdida de confianza del usuario debido a problemas de seguridad o calidad del servicio.</td>
+  </tr>
+</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+- **Diferenciación de la plataforma:** Vamos a identificar y destacar las ventajas de NestHub que la diferencian de otras plataformas de alquiler de espacios para eventos. Esto podría incluir herramientas innovadoras para la gestión de reservas, una interfaz fácil de usar que simplifica la búsqueda y la reserva de espacios, y características adicionales como la personalización de eventos y la integración de servicios de catering o entretenimiento.
+
+- **Comunidad activa:**  En la plataforma de NestHub, trabajaremos para fomentar una comunidad activa de propietarios de espacios, organizadores de eventos y clientes. Ofreceremos espacios donde las personas puedan compartir sus experiencias, recomendar lugares y eventos y interactuar entre sí. Esto aumentará la participación de los usuarios y la lealtad a la plataforma.
+
+- **Marketing dirigido:** Para llegar a nuestro público objetivo, utilizaremos estrategias de marketing digital enfocadas. Esto podría incluir la promoción de la plataforma mediante publicidad en redes sociales dirigida a organizadores de eventos y propietarios de espacios, colaboraciones con organizadores de eventos locales e influyentes en el sector, y participación en ferias comerciales y eventos relevantes.
+
+- **Monetización creativa:** Para diversificar nuestras fuentes de ingresos y brindar a nuestros usuarios opciones adaptables, investigaremos varios modelos de monetización. Podríamos ofrecer a los propietarios de espacios servicios premium, como herramientas de gestión de reservas avanzadas o promociones destacadas en sus listados, además de las tarifas estándar por el uso de la plataforma. Además, podríamos considerar incluir servicios adicionales, como la organización de catering o servicios de entretenimiento, por un precio adicional. Los patrocinios de eventos y la publicidad no intrusiva también podrían ser oportunidades de monetización a considerar.
+
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
+
+**Preguntas generales:**
+
+1. ¿Cuál es tu nombre?
+2. ¿Qué edad tienes?
+3. ¿Dónde vives actualmente?
+4. ¿A qué te dedicas?
+
+**Preguntas Segmento 1: Propietarios**
+
+1. ¿Qué desafíos enfrenta actualmente al promocionar y gestionar reservas para su espacio?
+2. ¿Qué tipo de propiedades suele alquilar o publicitar? (apartamentos, casas, locales comerciales, terrenos, etc.)
+3. De tener experiencia en alquilar su propiedad, ¿cómo ha realizado los pagos de los centros en alquiler?
+4. ¿Cómo promociona su espacio para atraer a potenciales clientes? ¿Qué estrategias de marketing ha encontrado más efectivas?
+5. ¿Qué te parece más importante al alquilar una propiedad: la facilidad de uso de la plataforma, la seguridad de las transacciones, la diversidad de opciones disponibles, u otros aspectos?
+6. ¿Cuáles son las principales características que busca en una plataforma de alquiler de espacios para eventos?
+7. ¿Qué incentivos o beneficios podrían motivar a utilizar una plataforma de alquiler de espacios de manera más frecuente?
+8. ¿Ha tenido alguna experiencia previa con plataformas similares de alquiler de espacios para eventos?¿Qué aspectos le gustaron?
+9. ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a publicitar o alquilar tu propiedad de manera más eficiente?
+10. ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
+
+**Preguntas Segmento 2: Organizadores**
+
+1. ¿Qué tipo de propiedades alquila regularmente para sus reuniones?
+2. ¿Alguna vez has necesitado un lugar de encuentro o festivo de emergencia?
+3. ¿Qué tipo de información te gustaría que viniera en las características del local/propiedad? (ej. licencias de eventos, capacidad máxima de gente, etc.)
+4. Organizando eventos, ¿alguna vez tuvo un problema grave con las políticas de cancelación?
+5. ¿Eres promotor de algún tipo de evento recurrente?
+6. ¿Cada cuanto recurres a alquilar lugares o a usarlos?
+7. ¿Ves necesario una plataforma como NestHub?
+8. ¿De qué maneras ves útil NestHub y cada cuanto lo utilizamos?
+9. ¿Hay alguna otra consideración o solicitud especial que crea que deba adicionarse para hacer un mejor servicio?
+10. ¿Qué tan importante es para ti la flexibilidad de horarios al momento de reservar un espacio para tu evento?
+
+### 2.2.2. Registro de entrevistas
+**Entrevista 1:**
+
+Nombres: Miguel Ángel
+
+Apellidos: Alvizuri
+
+Edad: 24
+
+Lugar de residencia: Chorrillos, Lima
+
+Entrevistador: Miguel Carpio Cornejo
+
+Evidencia de la entrevista:  <img src="assets/entrevista1-miguel.png">
+[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c360_upc_edu_pe/Ef5cabeHfFBLqiaOZrxatsIByBMU0CnLw_F7hNGOMQR9SQ?e=Smle5l)
+
+Resumen de la entrevista:
+
+Miguel Alvizuri enfrenta varios desafíos al promocionar y gestionar reservas para sus espacios. La competencia es fuerte y es crucial coordinar y confirmar reservas sin errores para mantener una buena reputación. Suele alquilar salones de eventos y casas de campo, ideales para bodas, fiestas y eventos corporativos.
+
+En cuanto a los pagos, prefiere utilizar transferencias bancarias o plataformas de pago en línea por su seguridad y comodidad. Para atraer a potenciales clientes, utiliza redes sociales, anuncios en Google, y colaboraciones con organizadores de eventos. Las estrategias más efectivas han sido las redes sociales por su capacidad de mostrar imágenes atractivas y recibir retroalimentación directa.
+
+Considera que la seguridad de las transacciones es fundamental, seguida de la facilidad de uso de la plataforma. Busca características como seguridad, facilidad de uso, buen soporte al cliente, y visibilidad en motores de búsqueda y redes sociales en una plataforma de alquiler de espacios. Incentivos como descuentos en comisiones y programas de fidelidad podrían motivarlo a usar la plataforma más frecuentemente.
+
+Ha tenido experiencias previas con plataformas como Airbnb, valorando su facilidad de uso, visibilidad, y seguridad en las transacciones. Estaría dispuesto a pagar una tarifa por una aplicación que mejore la publicidad y gestión de sus propiedades. Sugiere mejoras como integraciones avanzadas con redes sociales, herramientas de análisis de mercado, opciones de personalización de anuncios y soporte técnico 24/7.
+
+**Entrevista 3:**
+
+Nombres: Erick Ernesto
+
+Apellidos: Guerrero
+
+Edad: 20
+
+Lugar de residencia: Chorrillos, Lima
+
+Entrevistador: Brenda Gamio Upiachihua
+
+Evidencia de la entrevista:  <img src="assets/entrevista2-erick.png">
+[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/Eeakt8f2BWJKqJu8D5wSkyABHCwtA6nc5b7KAq-3Fyp-gw?e=08LWD2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Resumen de la entrevista:
+
+Erick Guerrero es un joven trabajador de 20 años que suele hacer reuniones casuales con su grupo de amigos. Si bien no es el que suele organizar eventos grandes como quinciañeros o coferencias en su trabajo, si se encarga de organizar y encontrar las locales en dónde divertirse con sus amigos.
+
+Lo que más le importa saber sobre el local de que va estar utilizando, es la condición del espacio en donde estará. Cómo se encuentran las tuverías y desagüe para evitar poner en peligro a él y sus amigos. Cómo de seguro es la casa debido a antigüedad, etc.
+
+Por último, menciona que estos servicios de alquiler de centros para eventos, suelen ser a través de organizadores. Esto implica transladarse hasta dónde está el organizador y el local, gastanto dinero en pasajes, gasolina. También que requiere esfuerzo y tiempo. Sin embargo, que un servicio web que facilite todo este proceso le parece una idea muy buena.
+
+### 2.2.3. Análisis de entrevistas
+Las entrevistas ofrecen una visión detallada y matizada sobre las expectativas y requisitos de los distintos actores involucrados en el ámbito de las apps móviles para el alquiler de locales destinados a eventos. Tanto los propietarios, los organizadores de eventos, como los usuarios finales resaltan la importancia de contar con sistemas que garanticen la seguridad en las transacciones financieras, la claridad en los acuerdos contractuales y una comunicación fluida y eficaz. La facilidad de uso y la intuitividad de la interfaz se identifican como características clave para una experiencia positiva para todos los participantes, mientras que la disponibilidad de una amplia gama de opciones de espacios para eventos resulta esencial para satisfacer diversas necesidades y preferencias. Además, se observa que algunos usuarios están dispuestos a pagar por servicios premium que ofrezcan beneficios adicionales, como una mayor visibilidad de sus espacios dentro de la app.
+
+Los propietarios de espacios para eventos tienen preocupaciones y necesidades particulares al utilizar apps móviles de alquiler. Para ellos, es fundamental la seguridad en las transacciones financieras y la integridad de los contratos. También valoran la posibilidad de promocionar efectivamente sus propiedades, buscando una app que les permita llegar a un público amplio y relevante. La comunicación clara y fluida con los organizadores de eventos es crucial para evitar malentendidos y conflictos. Por último, algunos propietarios están dispuestos a invertir en servicios premium que les otorguen ventajas adicionales, como una mayor visibilidad de sus espacios en la app. En resumen, los propietarios buscan apps que les ofrezcan seguridad, visibilidad, comunicación eficiente y opciones para maximizar el rendimiento de sus espacios para eventos.
+
+Los organizadores de eventos también presentan necesidades específicas al utilizar apps móviles para alquilar locales. Para ellos, la facilidad para encontrar y reservar espacios adecuados es primordial, especialmente en situaciones de emergencia o cambios de última hora. Valoran la transparencia en los contratos y la comunicación efectiva con los propietarios para evitar malentendidos y asegurar una experiencia sin inconvenientes. Asimismo, buscan apps que ofrezcan una amplia variedad de opciones de espacios para eventos que se adapten a sus necesidades específicas y horarios. La disponibilidad de herramientas avanzadas de búsqueda y filtrado es igualmente importante para localizar el lugar ideal. En resumen, los organizadores de eventos buscan apps que les proporcionen facilidad de uso, transparencia en los procesos, comunicación eficiente y una amplia gama de opciones de espacios para eventos.
+
+## 2.3. Needfinding
+### 2.3.1. User Personas
+**Segmento propietario:**
+
+<img src="assets/userpersona-maria.png" alt="Segmento objetivo propietario">
+
+**Segmento organizador:**
+
+<img src="assets/userpersona-eduardo.png" alt="Segmento objetivo organizador">
+
+### 2.3.2. User Task Matrix
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>User Persona</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>María Pérez</b> </br>Propietaria de un local para eventos
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Organizar eventos y administrar reservas
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Promocionar la ubicación a través de canales de marketing como las redes sociales
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mantener el lugar limpio y bien mantenido
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Comunicarse de manera efectiva con clientes y proveedores
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Explorar nuevas oportunidades de crecimiento y negocios
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            Medium
+        </td>
+    </tr>
+</table>
+
+</br></br>
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>User Persona</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan=2>
+            <b>Eduardo Robles</b> </br>Organizador de Eventos
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Task</b>
+        </td>
+        <td>
+            <b>Frequency</b>
+        </td>
+        <td>
+            <b>Importance</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Buscar y reservar espacios para eventos
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Contactar a los dueños de los espacios
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            La diversidad de los tipos de espacios disponibles debe ser buscada.
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Reservar espacios para diferentes tipos de eventos
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Estar dispuesto a pagar por una experiencia de plataforma mejorada
+        </td>
+        <td>
+            Medium
+        </td>
+        <td>
+            Medium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Utilizar una plataforma que es simple de usar y fácil de entender
+        </td>
+        <td>
+            High
+        </td>
+        <td>
+            High
+        </td>
+    </tr>
+</table>
+
+### 2.3.3. User Journey Mapping
+**Segmento propietario:**
+
+<img src="assets/journeymap-segment1.png" alt="Segmento objetivo propietario">
+
+**Segmento organizador:**
+
+<img src="assets/journeymap-segment2.png" alt="Segmento objetivo organizador">
+
+### 2.3.4. Empathy Mapping
+**Segmento propietario:**
+
+<img src="assets/empathymap-maria.png" alt="Segmento objetivo propietario">
+
+**Segmento organizador:**
+
+<img src="assets/empathymap-eduardo.png" alt="Segmento objetivo organizador">
+
+### 2.3.5. As-is Scenario Mapping
+
+**Segmento propietario:**
+
+<img src="assets/as-is-scenario/as-is-scenario-propietario.jpg" alt="Segmento objetivo propietario">
+
+**Segmento organizador:**
+
+<img src="assets/as-is-scenario/as-is-scenario-organizador.jpg" alt="Segmento objetivo organizador">
+
+## 2.4. Requirements specifications
+### 2.4.1. To-Be Scenario Mapping
+**Propietario de Espacio para Eventos**
+![toBePropietario](/assets/to-be-scenario/Tobe_Scenario_Mapping_Propietario_png.png)
+
+**Usuario para Búsqueda de Espacio para Eventos**
+![tobeUsuario](/assets/to-be-scenario/Tobe_Scenario_Mapping_Usuario_png.png)
+### 2.4.2. User Stories
+
+<table>
+    <thead>
+        <tr>
+            <th>Epic / Story ID</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Criterios de Aceptación</th>
+            <th>Relacionado con (Epic ID)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US02</td>
+            <td>Registro de Propietario</td>
+            <td>Como propietario de un espacio para eventos, quiero poder registrarme fácilmente en NestHub para ofrecer mi espacio en alquiler y llegar a más clientes potenciales.</td>
+            <td>
+                <h5>Escenario 01: Registro exitoso</h5>
+                Dado que un propietario desea registrar su espacio en NestHub. Cuando el propietario completa el formulario de registro con la información requerida. Entonces el propietario recibe una confirmación de registro y puede acceder a su cuenta.
+                <h5>Escenario 02: Validación de datos</h5>
+                Dado que un propietario completa el formulario de registro en NestHub. Cuando el propietario envía el formulario. Entonces los datos proporcionados se validan para garantizar la precisión y la autenticidad.
+            </td>
+            <td>EP01</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Búsqueda y Filtrado de Espacios</td>
+            <td>Como organizador de eventos, quiero poder buscar y filtrar fácilmente espacios disponibles en NestHub para encontrar el lugar perfecto para mi evento, según mis criterios específicos.</td>
+            <td>
+                <h5>Escenario 01: Búsqueda por ubicación</h5>
+                Dado que un organizador busca un espacio para eventos en una ubicación específica. Cuando el organizador ingresa la ubicación deseada en el campo de búsqueda. Entonces se muestran los espacios disponibles en esa ubicación.
+                <h5>Escenario 02: Filtrado por capacidad</h5>
+                Dado que un organizador desea un espacio con capacidad para un número específico de personas. Cuando el organizador aplica un filtro de capacidad en la búsqueda. Entonces se muestran solo los espacios que cumplen con ese criterio.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Reservas de Espacios</td>
+            <td>Como organizador de eventos, quiero poder reservar un espacio para mi evento en NestHub para garantizar su disponibilidad en la fecha deseada.</td>
+            <td>
+                <h5>Escenario 01: Proceso de Reserva</h5>
+                Dado que un organizador ha encontrado el espacio ideal en NestHub. Cuando el organizador selecciona el espacio y la fecha deseada. Entonces se muestra un formulario de reserva para completar los detalles del evento.
+                <h5>Escenario 02: Confirmación de Reserva</h5>
+                Dado que un organizador ha completa do el formulario de reserva en NestHub. Cuando el organizador envía la solicitud de reserva. Entonces recibe una confirmación de reserva y los detalles se actualizan en su cuenta.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Calificaciones y Comentarios sobre Espacios</td>
+            <td>Como organizador de eventos, quiero poder ver las calificaciones y comentarios de otros usuarios sobre los espacios en NestHub para tomar una decisión informada al seleccionar un espacio para mi evento.</td>
+            <td>
+                <h5>Escenario 01: Visualización de Calificaciones</h5>
+                Dado que un organizador está revisando las opciones de espacios en NestHub. Cuando el organizador selecciona un espacio en particular. Entonces se muestran las calificaciones y comentarios de otros usuarios sobre ese espacio.
+                <h5>Escenario 02: Aporte de Comentarios</h5>
+                Dado que un organizador ha utilizado un espacio reservado a través de NestHub. Cuando el evento ha concluido. Entonces el organizador puede dejar un comentario y una calificación sobre su experiencia en ese espacio.
+            </td>
+            <td>EP05</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Calidad de Servicio Garantizada</td>
+            <td>Como organizador de eventos en NestHub, quiero tener la certeza de que los espacios disponibles cumplen con altos estándares de calidad y seguridad para garantizar una experiencia positiva para mis invitados.</td>
+            <td>
+                <h5>Escenario 01: Verificación de Espacios</h5>
+                Dado que un organizador está buscando un espacio para su evento en NestHub. Cuando revisa los detalles y características de los espacios disponibles. Entonces encuentra información detallada sobre las medidas de seguridad, comodidades y servicios ofrecidos.
+                <h5>Escenario 02: Garantía de Satisfacción</h5>
+                Dado que un organizador ha reservado un espacio a través de NestHub. Cuando concluye el evento. Entonces tiene la opción de dejar una reseña y calificación sobre la calidad del servicio recibido.
+            </td>
+            <td>EP06</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Comunicación Directa con Propietarios</td>
+            <td>Como organizador de eventos en NestHub, quiero poder comunicarme directamente con los propietarios de los espacios para aclarar dudas, coordinar detalles y resolver cualquier problema de manera rápida y efectiva.</td>
+            <td>
+                <h5>Escenario 01: Mensajería Instantánea</h5>
+                Dado que un organizador ha reservado un espacio en NestHub. Cuando necesita comunicarse con el propietario del espacio. Entonces puede enviar mensajes directos a través de la plataforma para obtener respuestas rápidas y resolver cualquier problema.
+                <h5>Escenario 02: Gestión de Consultas</h5>
+                Dado que un organizador tiene preguntas o solicitudes específicas sobre un espacio en NestHub. Cuando envía un mensaje al propietario. Entonces recibe una respuesta oportuna y personalizada para abordar sus inquietudes.
+            </td>
+            <td>EP03</td>
+        </tr>
+        <tr>
+            <td>US09</td>
+            <td>Registro de Espacio Sencillo</td>
+            <td>Como propietario de un espacio para eventos en NestHub, quiero poder registrar mi espacio de manera rápida y sencilla para comenzar a recibir solicitudes de reserva lo antes posible.</td>
+            <td>
+                <h5>Escenario 01: Registro de Datos Básicos</h5>
+                Dado que un propietario desea registrar su espacio en NestHub. Cuando completa un formulario básico con información sobre el espacio, como ubicación, tamaño y tipos de eventos permitidos. Entonces puede enviar el registro con éxito y recibir confirmación de su inclusión en la plataforma.
+                <h5>Escenario 02: Subida de Fotos</h5>
+                Dado que un propietario está completando el registro de su espacio en NestHub. Cuando carga imágenes de alta calidad que muestren el espacio y sus características. Entonces las fotos se muestran correctamente en el perfil del espacio, ayudando a atraer a posibles organizadores de eventos.
+            </td>
+            <td>EP01</td>
+        </tr>
+    </tbody>
+</table>
+
+
+### 2.4.3. Impact Mapping
+
+
+**Propietario de Espacio para Eventos**
+![ImpactMapPropietario](/assets/impact-mapping/Impact_map_propietario.png)
+
+**Usuario para Búsqueda de Espacio para Eventos**
+![ImpactMapUsuario](/assets/impact-mapping/Impact_map_usuario.png)
+
+### 2.4.4. Product Backlog
+
+
+Utilizamos la escala de Fibonacci para la estimación de los Story Points 
+
+<table>
+    <thead>
+        <tr>
+            <th>User Story Id</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Story Points (1/2/3/5)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US02</td>
+            <td>Registro de Propietario</td>
+            <td>Como propietario de un espacio para eventos, quiero poder registrarme fácilmente en NestHub para ofrecer mi espacio en alquiler y llegar a más clientes potenciales.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>US09</td>
+            <td>Registro de Espacio Sencillo</td>
+            <td>Como propietario de un espacio para eventos en NestHub, quiero poder registrar mi espacio de manera rápida y sencilla para comenzar a recibir solicitudes de reserva lo antes posible.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Búsqueda y Filtrado de Espacios</td>
+            <td>Como organizador de eventos, quiero poder buscar y filtrar fácilmente espacios disponibles en NestHub para encontrar el lugar perfecto para mi evento, según mis criterios específicos.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Reservas de Espacios</td>
+            <td>Como organizador de eventos, quiero poder reservar un espacio para mi evento en NestHub para garantizar su disponibilidad en la fecha deseada.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Calificaciones y Comentarios sobre Espacios</td>
+            <td>Como organizador de eventos, quiero poder ver las calificaciones y comentarios de otros usuarios sobre los espacios en NestHub para tomar una decisión informada al seleccionar un espacio para mi evento.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Calidad de Servicio Garantizada</td>
+            <td>Como organizador de eventos en NestHub, quiero tener la certeza de que los espacios disponibles cumplen con altos estándares de calidad y seguridad para garantizar una experiencia positiva para mis invitados.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Comunicación Directa con Propietarios</td>
+            <td>Como organizador de eventos en NestHub, quiero poder comunicarme directamente con los propietarios de los espacios para aclarar dudas, coordinar detalles y resolver cualquier problema de manera rápida y efectiva.</td>
+            <td>5</td>
+        </tr>
+    </tbody>
+</table>
+
 ## [Conclusiones](#conclusiones)
 ## [Bibliografía](#bibliografía)
 ## [Anexos](#anexos)
+
 
