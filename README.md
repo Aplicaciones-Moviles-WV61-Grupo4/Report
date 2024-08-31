@@ -107,7 +107,8 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
         <tr>
             <td align = "left"> Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de ingeniería de software.</td>
             <td align = "left">
-            Cancho Corilla, Angel Antonio<br>
+            Cancho Corilla, Angel Antonio:<br>
+                Se llevaron a cabo reuniones tanto presenciales como virtuales para seleccionar la problemática a tratar. Durante estas reuniones, se establecieron horarios específicos, se programaron encuentros futuros y se asignaron responsabilidades.<br>
             <br>Carpio Cornejo, Miguel Ángel<br>
             <br>Gamio Upiachihua, Brenda Lucía:<br>
             Para la primera entrega, se comenzó coordinando, planificando y definiendo el alcance de nuestra propuesta. Esto proporciona una base más sólida para la definición y ejecución técnica del proyecto.
@@ -117,7 +118,8 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
         <tr>
             <td align = "left"> Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de tecnologías de ingeniería de software.</td>
             <td align = "left">
-            Cancho Corilla, Angel Antonio<br>
+            Cancho Corilla, Angel Antonio:<br>
+                En el proceso de entrega, se llevó a cabo una investigación y consulta sobre la problemática abordada, con el objetivo de recopilar y organizar la información relevante de manera estructurada y coherente.<br>
             <br>Carpio Cornejo, Miguel Ángel<br>
             <br>Gamio Upiachihua, Brenda Lucía:<br>
             Nos basamos en proyectos anteriores para aplicar la mejora continua y evitar errores del pasado, con el objetivo de lograr un proyecto superior a los anteriores y ejecutarlo de manera más fluida.
