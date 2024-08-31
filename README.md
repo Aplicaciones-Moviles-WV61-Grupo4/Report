@@ -35,11 +35,12 @@ Nuestra visión es ser la plataforma preferida por los organizadores de eventos 
         </tr>
         <tr>
             <td> 
-            <img src="" alt="" height="120">
-            <br> Nombres y apellidos
+            <img src="assets/angel-photo.png" alt="Angel Cancho Corilla" height="120">
+            <br> Angel Antonio Cancho Corilla
             </td>
-            <td> </td>
-            <td> </td>
+            <td> Estudiante de 6to ciclo de la carrera de ingeniería de Software. Me gusta mantenerme actualizado y explorar nuevas formas de facilitar las tareas 
+y alcanzar los objetivos de manera más eficiente.</td>
+            <td> Conocimientos en HTML, CSS, Java, Typescript, C++ y SQL</td>
         </tr>
         <tr>
             <td> 
