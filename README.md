@@ -250,6 +250,14 @@ Los organizadores de eventos también presentan necesidades específicas al util
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+**Segmento propietario:**
+
+<img src="assets/userpersona-maria.png" alt="Segmento objetivo propietario">
+
+**Segmento organizador:**
+
+<img src="assets/userpersona-eduardo.png" alt="Segmento objetivo organizador">
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
