@@ -52,8 +52,16 @@
         <tr>
             <td align = "center">TB1</td>
             <td>27/08/2024</td>
-            <td>apellidos, nombres<br><br>apellidos, nombres<br><br>Gamio Upiachihua, Brenda Lucía<br>
-            <td>...</td>
+            <td>Cancho Corilla, Angel Antonio<br><br>Carpio Cornejo, Miguel Ángel<br><br>Gamio Upiachihua, Brenda Lucía<br>
+            <td>
+                <br>Actualización del informe<br> 
+                <br>Entrevista<br>
+                <br>Diseño de entrevista<br>
+                <br>Startup profile<br>
+                <br>Lean UX Process<br>
+                <br>Needfinding Competidores<br>
+                <br>
+            </td>
         </tr>
         <tr>
             <td align = "center"></td>
