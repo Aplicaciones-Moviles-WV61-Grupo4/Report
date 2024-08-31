@@ -137,6 +137,12 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 ---
 
+# Objetivos SMART:
+
+<img src="assets/smart-goals2.png" alt="SMART">
+
+---
+
 # Contenido 
 ## Tabla de contenidos
 ### [Registro de versiones del informe](#registro-de-versiones-del-informe)
