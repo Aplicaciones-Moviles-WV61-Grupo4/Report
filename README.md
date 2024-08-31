@@ -110,6 +110,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
             Cancho Corilla, Angel Antonio:<br>
                 Se llevaron a cabo reuniones tanto presenciales como virtuales para seleccionar la problemática a tratar. Durante estas reuniones, se establecieron horarios específicos, se programaron encuentros futuros y se asignaron responsabilidades.<br>
             <br>Carpio Cornejo, Miguel Ángel<br>
+                Se realizaron sesiones de brainstorming y análisis crítico para identificar posibles soluciones innovadoras a la problemática seleccionada. Estas sesiones permitieron una mayor colaboración entre los miembros del equipo, promoviendo la creatividad y la generación de ideas. Además, se crearon documentos     detallados con las estrategias y pasos a seguir para asegurar una implementación efectiva del proyecto. <br>
             <br>Gamio Upiachihua, Brenda Lucía:<br>
             Para la primera entrega, se comenzó coordinando, planificando y definiendo el alcance de nuestra propuesta. Esto proporciona una base más sólida para la definición y ejecución técnica del proyecto.
             </td>
@@ -121,6 +122,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
             Cancho Corilla, Angel Antonio:<br>
                 En el proceso de entrega, se llevó a cabo una investigación y consulta sobre la problemática abordada, con el objetivo de recopilar y organizar la información relevante de manera estructurada y coherente.<br>
             <br>Carpio Cornejo, Miguel Ángel<br>
+                Durante la fase de desarrollo, se implementó un enfoque iterativo, realizando pruebas periódicas y evaluaciones del progreso del proyecto. Esto permitió identificar y corregir posibles fallos en etapas tempranas, asegurando la calidad y efectividad de la solución propuesta. Además, se promovió la retroalimentación constante entre los miembros del equipo, lo que contribuyó a un proceso de desarrollo más colaborativo y eficiente. <br>
             <br>Gamio Upiachihua, Brenda Lucía:<br>
             Nos basamos en proyectos anteriores para aplicar la mejora continua y evitar errores del pasado, con el objetivo de lograr un proyecto superior a los anteriores y ejecutarlo de manera más fluida.
             </td>
