@@ -435,6 +435,14 @@ Los organizadores de eventos también presentan necesidades específicas al util
 </table>
 
 ### 2.3.3. User Journey Mapping
+**Segmento propietario:**
+
+<img src="assets/journeymap-segment1.png" alt="Segmento objetivo propietario">
+
+**Segmento organizador:**
+
+<img src="assets/journeymap-segment2.png" alt="Segmento objetivo organizador">
+
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 
