@@ -105,8 +105,26 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
             <th style="text-align:center;">Conclusiones</th>
         </tr>
         <tr>
-            <td align = "center">Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
-            <td> 
+            <td align = "left"> Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de ingeniería de software.</td>
+            <td align = "left">
+            Cancho Corilla, Angel Antonio<br>
+            <br>Carpio Cornejo, Miguel Ángel<br>
+            <br>Gamio Upiachihua, Brenda Lucía:<br>
+            Para la primera entrega, se comenzó coordinando, planificando y definiendo el alcance de nuestra propuesta. Esto proporciona una base más sólida para la definición y ejecución técnica del proyecto.
+            </td>
+            <td>Se destaca la importancia de mantener actualizados los conocimientos y conceptos necesarios para el desarrollo profesional, especialmente en el área de soluciones de software. Un enfoque metodológico y colaborativo, como se menciona en las conclusiones, representa una práctica eficaz para el desarrollo de proyectos en este sector, garantizando el uso de las mejores prácticas y herramientas disponibles para cumplir con los objetivos establecidos.</td>  
+        </tr>  
+        <tr>
+            <td align = "left"> Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de tecnologías de ingeniería de software.</td>
+            <td align = "left">
+            Cancho Corilla, Angel Antonio<br>
+            <br>Carpio Cornejo, Miguel Ángel<br>
+            <br>Gamio Upiachihua, Brenda Lucía:<br>
+            Nos basamos en proyectos anteriores para aplicar la mejora continua y evitar errores del pasado, con el objetivo de lograr un proyecto superior a los anteriores y ejecutarlo de manera más fluida.
+            </td>
+            <td>Se enfatiza la relevancia del aprendizaje continuo en el desarrollo profesional y en los proyectos de soluciones de software. La investigación constante, la adopción de herramientas actualizadas y el análisis de experiencias previas reflejan un compromiso con el aprendizaje permanente, lo cual es crucial para mejorar continuamente el desempeño y la calidad de los proyectos.</td>  
+        </tr>  
+            
 
 </td>
 
