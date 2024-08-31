@@ -250,8 +250,187 @@ Por último, menciona que estos servicios de alquiler de centros para eventos, s
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 
+**Segmento propietario:**
+
+<img src="assets/as-is-scenario/as-is-scenario-propietario.jpg" alt="Segmento objetivo propietario">
+
+**Segmento organizador:**
+
+<img src="assets/as-is-scenario/as-is-scenario-organizador.jpg" alt="Segmento objetivo organizador">
+
 ## 2.4. Requirements specifications
 ### 2.4.1. To-Be Scenario Mapping
+**Propietario de Espacio para Eventos**
+![toBePropietario](/assets/to-be-scenario/Tobe_Scenario_Mapping_Propietario_png.png)
+
+**Usuario para Búsqueda de Espacio para Eventos**
+![tobeUsuario](/assets/to-be-scenario/Tobe_Scenario_Mapping_Usuario_png.png)
 ### 2.4.2. User Stories
+
+<table>
+    <thead>
+        <tr>
+            <th>Epic / Story ID</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Criterios de Aceptación</th>
+            <th>Relacionado con (Epic ID)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US02</td>
+            <td>Registro de Propietario</td>
+            <td>Como propietario de un espacio para eventos, quiero poder registrarme fácilmente en NestHub para ofrecer mi espacio en alquiler y llegar a más clientes potenciales.</td>
+            <td>
+                <h5>Escenario 01: Registro exitoso</h5>
+                Dado que un propietario desea registrar su espacio en NestHub. Cuando el propietario completa el formulario de registro con la información requerida. Entonces el propietario recibe una confirmación de registro y puede acceder a su cuenta.
+                <h5>Escenario 02: Validación de datos</h5>
+                Dado que un propietario completa el formulario de registro en NestHub. Cuando el propietario envía el formulario. Entonces los datos proporcionados se validan para garantizar la precisión y la autenticidad.
+            </td>
+            <td>EP01</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Búsqueda y Filtrado de Espacios</td>
+            <td>Como organizador de eventos, quiero poder buscar y filtrar fácilmente espacios disponibles en NestHub para encontrar el lugar perfecto para mi evento, según mis criterios específicos.</td>
+            <td>
+                <h5>Escenario 01: Búsqueda por ubicación</h5>
+                Dado que un organizador busca un espacio para eventos en una ubicación específica. Cuando el organizador ingresa la ubicación deseada en el campo de búsqueda. Entonces se muestran los espacios disponibles en esa ubicación.
+                <h5>Escenario 02: Filtrado por capacidad</h5>
+                Dado que un organizador desea un espacio con capacidad para un número específico de personas. Cuando el organizador aplica un filtro de capacidad en la búsqueda. Entonces se muestran solo los espacios que cumplen con ese criterio.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Reservas de Espacios</td>
+            <td>Como organizador de eventos, quiero poder reservar un espacio para mi evento en NestHub para garantizar su disponibilidad en la fecha deseada.</td>
+            <td>
+                <h5>Escenario 01: Proceso de Reserva</h5>
+                Dado que un organizador ha encontrado el espacio ideal en NestHub. Cuando el organizador selecciona el espacio y la fecha deseada. Entonces se muestra un formulario de reserva para completar los detalles del evento.
+                <h5>Escenario 02: Confirmación de Reserva</h5>
+                Dado que un organizador ha completa do el formulario de reserva en NestHub. Cuando el organizador envía la solicitud de reserva. Entonces recibe una confirmación de reserva y los detalles se actualizan en su cuenta.
+            </td>
+            <td>EP02</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Calificaciones y Comentarios sobre Espacios</td>
+            <td>Como organizador de eventos, quiero poder ver las calificaciones y comentarios de otros usuarios sobre los espacios en NestHub para tomar una decisión informada al seleccionar un espacio para mi evento.</td>
+            <td>
+                <h5>Escenario 01: Visualización de Calificaciones</h5>
+                Dado que un organizador está revisando las opciones de espacios en NestHub. Cuando el organizador selecciona un espacio en particular. Entonces se muestran las calificaciones y comentarios de otros usuarios sobre ese espacio.
+                <h5>Escenario 02: Aporte de Comentarios</h5>
+                Dado que un organizador ha utilizado un espacio reservado a través de NestHub. Cuando el evento ha concluido. Entonces el organizador puede dejar un comentario y una calificación sobre su experiencia en ese espacio.
+            </td>
+            <td>EP05</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Calidad de Servicio Garantizada</td>
+            <td>Como organizador de eventos en NestHub, quiero tener la certeza de que los espacios disponibles cumplen con altos estándares de calidad y seguridad para garantizar una experiencia positiva para mis invitados.</td>
+            <td>
+                <h5>Escenario 01: Verificación de Espacios</h5>
+                Dado que un organizador está buscando un espacio para su evento en NestHub. Cuando revisa los detalles y características de los espacios disponibles. Entonces encuentra información detallada sobre las medidas de seguridad, comodidades y servicios ofrecidos.
+                <h5>Escenario 02: Garantía de Satisfacción</h5>
+                Dado que un organizador ha reservado un espacio a través de NestHub. Cuando concluye el evento. Entonces tiene la opción de dejar una reseña y calificación sobre la calidad del servicio recibido.
+            </td>
+            <td>EP06</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Comunicación Directa con Propietarios</td>
+            <td>Como organizador de eventos en NestHub, quiero poder comunicarme directamente con los propietarios de los espacios para aclarar dudas, coordinar detalles y resolver cualquier problema de manera rápida y efectiva.</td>
+            <td>
+                <h5>Escenario 01: Mensajería Instantánea</h5>
+                Dado que un organizador ha reservado un espacio en NestHub. Cuando necesita comunicarse con el propietario del espacio. Entonces puede enviar mensajes directos a través de la plataforma para obtener respuestas rápidas y resolver cualquier problema.
+                <h5>Escenario 02: Gestión de Consultas</h5>
+                Dado que un organizador tiene preguntas o solicitudes específicas sobre un espacio en NestHub. Cuando envía un mensaje al propietario. Entonces recibe una respuesta oportuna y personalizada para abordar sus inquietudes.
+            </td>
+            <td>EP03</td>
+        </tr>
+        <tr>
+            <td>US09</td>
+            <td>Registro de Espacio Sencillo</td>
+            <td>Como propietario de un espacio para eventos en NestHub, quiero poder registrar mi espacio de manera rápida y sencilla para comenzar a recibir solicitudes de reserva lo antes posible.</td>
+            <td>
+                <h5>Escenario 01: Registro de Datos Básicos</h5>
+                Dado que un propietario desea registrar su espacio en NestHub. Cuando completa un formulario básico con información sobre el espacio, como ubicación, tamaño y tipos de eventos permitidos. Entonces puede enviar el registro con éxito y recibir confirmación de su inclusión en la plataforma.
+                <h5>Escenario 02: Subida de Fotos</h5>
+                Dado que un propietario está completando el registro de su espacio en NestHub. Cuando carga imágenes de alta calidad que muestren el espacio y sus características. Entonces las fotos se muestran correctamente en el perfil del espacio, ayudando a atraer a posibles organizadores de eventos.
+            </td>
+            <td>EP01</td>
+        </tr>
+    </tbody>
+</table>
+
+
 ### 2.4.3. Impact Mapping
+
+
+**Propietario de Espacio para Eventos**
+![ImpactMapPropietario](/assets/impact-mapping/Impact_map_propietario.png)
+
+**Usuario para Búsqueda de Espacio para Eventos**
+![ImpactMapUsuario](/assets/impact-mapping/Impact_map_usuario.png)
+
 ### 2.4.4. Product Backlog
+
+
+Utilizamos la escala de Fibonacci para la estimación de los Story Points 
+
+<table>
+    <thead>
+        <tr>
+            <th>User Story Id</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Story Points (1/2/3/5)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US02</td>
+            <td>Registro de Propietario</td>
+            <td>Como propietario de un espacio para eventos, quiero poder registrarme fácilmente en NestHub para ofrecer mi espacio en alquiler y llegar a más clientes potenciales.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>US09</td>
+            <td>Registro de Espacio Sencillo</td>
+            <td>Como propietario de un espacio para eventos en NestHub, quiero poder registrar mi espacio de manera rápida y sencilla para comenzar a recibir solicitudes de reserva lo antes posible.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Búsqueda y Filtrado de Espacios</td>
+            <td>Como organizador de eventos, quiero poder buscar y filtrar fácilmente espacios disponibles en NestHub para encontrar el lugar perfecto para mi evento, según mis criterios específicos.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Reservas de Espacios</td>
+            <td>Como organizador de eventos, quiero poder reservar un espacio para mi evento en NestHub para garantizar su disponibilidad en la fecha deseada.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Calificaciones y Comentarios sobre Espacios</td>
+            <td>Como organizador de eventos, quiero poder ver las calificaciones y comentarios de otros usuarios sobre los espacios en NestHub para tomar una decisión informada al seleccionar un espacio para mi evento.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Calidad de Servicio Garantizada</td>
+            <td>Como organizador de eventos en NestHub, quiero tener la certeza de que los espacios disponibles cumplen con altos estándares de calidad y seguridad para garantizar una experiencia positiva para mis invitados.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Comunicación Directa con Propietarios</td>
+            <td>Como organizador de eventos en NestHub, quiero poder comunicarme directamente con los propietarios de los espacios para aclarar dudas, coordinar detalles y resolver cualquier problema de manera rápida y efectiva.</td>
+            <td>5</td>
+        </tr>
+    </tbody>
+</table>
