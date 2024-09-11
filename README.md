@@ -266,6 +266,9 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
     - [2.4.2. User Stories](#242-user-stories)
     - [2.4.3. Impact Mapping](#243-impact-mapping)
     - [2.4.4. Product Backlog](#244-product-backlog)
+  - [3.1. Product Design](#31-product-design)
+    - [3.1.1. Style Guidelines.](#311-style-guidelines)
+      - [3.1.1.1. General Style Guidelines](#3111-general-style-guidelines)
   - [Conclusiones](#conclusiones)
   - [Bibliografía](#bibliografía)
   - [Anexos](#anexos)
@@ -1008,6 +1011,35 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points
     </tbody>
 </table>
 
+## 3.1. Product Design
+### 3.1.1. Style Guidelines.
+Un Style Guideline es un conjunto de directrices y estándares que establecen la forma correcta de redactar, diseñar o presentar documentos, contenido web, software y otros tipos de trabajos creativos. A continuación, se presentan las especificaciones de los parámetros aplicados en la estructura del proyecto.
+
+#### 3.1.1.1. General Style Guidelines
+
+**Descripción general:** Queremos captar la atención del usuario desde el inicio, diseñando una presentación del producto que genere una conexión instantánea y fácil de identificar.
+
+**Descripción de la marca:** NestHub es una startup tecnológica fundada en 2024 por un grupo de estudiantes de Ingeniería de Software. Nuestra empresa se enfoca en facilitar el proceso de alquiler de espacios para eventos, ofreciendo una plataforma innovadora y accesible tanto para propietarios como para organizadores.
+
+**Misión:** Nuestra misión es hacer que el alquiler de espacios para eventos sea sencillo y eficiente mediante una plataforma intuitiva que conecte rápidamente a propietarios y organizadores de manera conveniente.
+
+**Visión:** Aspiramos a ser la plataforma líder a nivel global en el alquiler de espacios para eventos, promoviendo la eficiencia y la satisfacción de nuestros usuarios.
+
+**Nombre de la marca:** Debido a que el startup se centra en el alquiler y la promoción de espacios para eventos, se decidió nombrarla “AlquilaFacil” para reflejar su propósito de forma clara y directa.
+
+<img src="assets/images/logos/logo-NestHub.png" alt="NestHub" width="250px">
+
+**Tipografía:** El equipo seleccionó el siguiente tamaño para la fuente: 
+
+<img src="assets/product-design/tipografia.png" alt="tipografia">
+
+Y se realizaron las siguientes modificaciones:
+
+<img src="assets/product-design/tipografia2.png" alt="tipografia">
+
+**Colores:** La paleta de colores seleccionada incluye: 
+
+<img src="assets/product-design/colors.png" alt="colors">
 
 ## [Conclusiones](#conclusiones)
 ## [Bibliografía](#bibliografía)
