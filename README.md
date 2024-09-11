@@ -940,49 +940,74 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points
     </thead>
     <tbody>
         <tr>
+            <td>US01</td>
+            <td>Visualización de Información Clave</td>
+            <td>Como visitante de la landing page, quiero ver una presentación clara de los beneficios de NestHub, para entender rápidamente cómo la plataforma me puede ayudar a alquilar o encontrar espacios para eventos.</td>
+            <td>3</td>
+        </tr>
+        <tr>
             <td>US02</td>
+            <td>Explorar Espacios Populares</td>
+            <td>Como usuario, quiero ver los espacios más populares y mejor calificados destacados en la landing page, para conocer las opciones más recomendadas sin tener que buscarlas.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Acceso Rápido a Registro e Inicio de Sesión</td>
+            <td>Como nuevo usuario, quiero encontrar botones de registro e inicio de sesión fácilmente accesibles en la landing page, para empezar a usar la plataforma rápidamente.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Visualización de Variedad de Locales</td>
+            <td>Como usuario que busca alquilar un espacio para eventos, quiero ver una sección destacada en la landing page que muestre la variedad de locales disponibles, para tener una idea clara de las diferentes opciones que ofrece la plataforma y encontrar el tipo de espacio que mejor se adapte a mis necesidades.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>US05</td>
             <td>Registro de Propietario</td>
             <td>Como propietario de un espacio para eventos, quiero poder registrarme fácilmente en NestHub para ofrecer mi espacio en alquiler y llegar a más clientes potenciales.</td>
             <td>3</td>
         </tr>
         <tr>
-            <td>US09</td>
+            <td>US06</td>
             <td>Registro de Espacio Sencillo</td>
             <td>Como propietario de un espacio para eventos en NestHub, quiero poder registrar mi espacio de manera rápida y sencilla para comenzar a recibir solicitudes de reserva lo antes posible.</td>
             <td>2</td>
         </tr>
         <tr>
-            <td>US03</td>
+            <td>US07</td>
             <td>Búsqueda y Filtrado de Espacios</td>
             <td>Como organizador de eventos, quiero poder buscar y filtrar fácilmente espacios disponibles en NestHub para encontrar el lugar perfecto para mi evento, según mis criterios específicos.</td>
             <td>5</td>
         </tr>
         <tr>
-            <td>US04</td>
+            <td>US08</td>
             <td>Reservas de Espacios</td>
             <td>Como organizador de eventos, quiero poder reservar un espacio para mi evento en NestHub para garantizar su disponibilidad en la fecha deseada.</td>
             <td>5</td>
         </tr>
         <tr>
-            <td>US05</td>
+            <td>US09</td>
             <td>Calificaciones y Comentarios sobre Espacios</td>
             <td>Como organizador de eventos, quiero poder ver las calificaciones y comentarios de otros usuarios sobre los espacios en NestHub para tomar una decisión informada al seleccionar un espacio para mi evento.</td>
             <td>3</td>
         </tr>
         <tr>
-            <td>US07</td>
+            <td>US10</td>
             <td>Calidad de Servicio Garantizada</td>
             <td>Como organizador de eventos en NestHub, quiero tener la certeza de que los espacios disponibles cumplen con altos estándares de calidad y seguridad para garantizar una experiencia positiva para mis invitados.</td>
             <td>2</td>
         </tr>
         <tr>
-            <td>US08</td>
+            <td>US11</td>
             <td>Comunicación Directa con Propietarios</td>
             <td>Como organizador de eventos en NestHub, quiero poder comunicarme directamente con los propietarios de los espacios para aclarar dudas, coordinar detalles y resolver cualquier problema de manera rápida y efectiva.</td>
             <td>5</td>
         </tr>
     </tbody>
 </table>
+
 
 ## [Conclusiones](#conclusiones)
 ## [Bibliografía](#bibliografía)
