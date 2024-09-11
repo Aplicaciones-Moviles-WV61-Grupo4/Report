@@ -269,6 +269,12 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
   - [3.1. Product Design](#31-product-design)
     - [3.1.1. Style Guidelines.](#311-style-guidelines)
       - [3.1.1.1. General Style Guidelines](#3111-general-style-guidelines)
+    - [3.1.2. Information Architecture](#312-information-architecture)
+      - [3.1.2.1. Organization Systems](#3121-organization-systems)
+      - [3.1.2.2. Labelling Systems](#3122-labelling-systems)
+      - [3.1.2.3. SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)
+      - [3.1.2.4. Searching Systems](#3124-searching-systems)
+      - [3.1.2.5. Navigation Systems](#3125-navigation-systems)
   - [Conclusiones](#conclusiones)
   - [Bibliografía](#bibliografía)
   - [Anexos](#anexos)
@@ -377,10 +383,10 @@ Viendo la señalación del incremento del uso del internet, nosotros pensamos qu
   Los usuarios prefieren acceder al producto a través de un aplicativo móvil por lo conveniente que es usar un app desde su celular, en vez de usar un navegador web.
 
 - **¿Cómo serían las condiciones en la que los usuarios usarían nuestro producto?** <br>
-  En AlquilaFácil, organizadores de eventos, ya sean sociales o corporativos, encuentran el espacio perfecto para sus celebraciones. Al mismo tiempo, propietarios de espacios pueden conectar con una amplia audiencia y rentabilizar sus instalaciones.
+  En NestHub, organizadores de eventos, ya sean sociales o corporativos, encuentran el espacio perfecto para sus celebraciones. Al mismo tiempo, propietarios de espacios pueden conectar con una amplia audiencia y rentabilizar sus instalaciones.
 
 ### How much
-Nuestros planes de suscripción en AlquilaFácil ofrecen una gama de beneficios adicionales para aquellos que buscan una experiencia más completa y pueden adaptarse a las necesidades de cada usuario. Desde opciones gratuitas hasta planes premium con beneficios adicionales, encontrarás el plan perfecto para tu presupuesto y requerimientos.
+Nuestros planes de suscripción en NestHub ofrecen una gama de beneficios adicionales para aquellos que buscan una experiencia más completa y pueden adaptarse a las necesidades de cada usuario. Desde opciones gratuitas hasta planes premium con beneficios adicionales, encontrarás el plan perfecto para tu presupuesto y requerimientos.
 
 ### 1.2.2. Lean UX Process
 En esta seccióm, utilizaremos el enfoque Lean UX para diseñar nuestro producto de software y asegurarnos de que se ajuste a nuestra estrategia de negocio. Al priorizar las necesidades de nuestros usuarios, podremos desarrollar una solución que genere valor y contribuya al éxito de nuestra empresa.
@@ -428,7 +434,7 @@ En esta seccióm, utilizaremos el enfoque Lean UX para diseñar nuestro producto
 
 # 1.3. Segmentos Objetivo
 
-En esta sección, identificamos los segmentos específicos de clientes a los que AlquilaFácil se dirige, considerando características demográficas, comportamientos y necesidades comunes.
+En esta sección, identificamos los segmentos específicos de clientes a los que NestHub se dirige, considerando características demográficas, comportamientos y necesidades comunes.
 
 - **Organizadores de Eventos:** <br>
   Se trata de personas que planifican eventos sociales, como bodas, cumpleaños, reuniones familiares, entre otros, así como individuos que organizan eventos de forma regular, ya sean sociales o corporativos.
@@ -1025,7 +1031,7 @@ Un Style Guideline es un conjunto de directrices y estándares que establecen la
 
 **Visión:** Aspiramos a ser la plataforma líder a nivel global en el alquiler de espacios para eventos, promoviendo la eficiencia y la satisfacción de nuestros usuarios.
 
-**Nombre de la marca:** Debido a que el startup se centra en el alquiler y la promoción de espacios para eventos, se decidió nombrarla “AlquilaFacil” para reflejar su propósito de forma clara y directa.
+**Nombre de la marca:** Debido a que el startup se centra en el alquiler y la promoción de espacios para eventos, se decidió nombrarla “NestHu” para reflejar su propósito de forma clara y directa.
 
 <img src="assets/images/logos/logo-NestHub.png" alt="NestHub" width="250px">
 
@@ -1040,6 +1046,268 @@ Y se realizaron las siguientes modificaciones:
 **Colores:** La paleta de colores seleccionada incluye: 
 
 <img src="assets/product-design/colors.png" alt="colors">
+
+### 3.1.2. Information Architecture
+
+#### 3.1.2.1. Organization Systems
+
+**Menú principal**
+
+<table>
+    <thead>
+        <tr>
+            <th>Topico</th>
+            <th>Definición</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tarifas</td>
+            <td>La página presenta planes de suscripción que ofrecen beneficios específicos a diferentes precios, adecuados para cualquier tipo de presupuesto.</td>
+        </tr>
+        <tr>
+            <td>Log In</td>
+            <td>La página permite a los usuarios iniciar sesión en su cuenta. Si no tienen una cuenta, también hay una sección para registrarse gratuitamente en el servicio web.</td>
+        </tr>
+        <tr>
+            <td>Publicar centro</td>
+            <td>Primero, la página solicitará que inicies sesión para identificar al usuario que desea publicar su propiedad. Después, se mostrará una ventana donde podrás ingresar todos los datos y características de la propiedad.</td>
+        </tr>
+        <tr>
+            <td>Alquilar centro</td>
+            <td>Primero, la página solicitará que inicies sesión para identificar al usuario que desea publicar su propiedad. Después, se mostrará una ventana donde podrás ingresar todos los datos y características de la propiedad.</td>
+        </tr>
+        <tr>
+            <td>Alquilar centro</td>
+            <td>La página mostrará inicialmente los centros ya publicados disponibles para alquiler. Además, incluye una barra de búsqueda con filtros para encontrar los centros más adecuados de manera rápida y eficiente.</td>
+        </tr>
+        <tr>
+            <td>Barra de búsqueda</td>
+            <td>En la misma página principal se muestra una barra para poder buscar centros a través de distritos.</td>
+        </tr>
+        <tr>
+            <td>Lista de ciudades destacadas</td>
+            <td>La página principal te mostrará toda una lista de las ciudades más populares que el público ha alquilado para sus eventos.</td>
+        </tr>
+    </tbody>
+</table>
+
+**Página de Tarifas**
+
+<table>
+    <thead>
+        <tr>
+            <th>Topico</th>
+            <th>Definición</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Lista de planes de suscripción</td>
+            <td>La página mostrará todos los planes que ofrece el servicio.</td>
+        </tr>
+        <tr>
+            <td>Detalles de planes</td>
+            <td>La página mostrará los detalles de todos los planes que ofrece el servicio.</td>
+        </tr>
+    </tbody>
+</table>
+
+**Página de Log In**
+
+<table>
+    <thead>
+        <tr>
+            <th>Topico</th>
+            <th>Definición</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Registro y autenticación</td>
+            <td>La página de inicio puede ofrecer una visión general del servicio y resaltar sus características principales.</td>
+        </tr>
+    </tbody>
+</table>
+
+**Página de Publicar centro**
+
+<table>
+    <thead>
+        <tr>
+            <th>Topico</th>
+            <th>Definición</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Paso 1</td>
+            <td>La página mostrará todos los detalles que se deben poner sobre el centro que el propietario quiere alquilar.</td>
+        </tr>
+        <tr>
+            <td>Paso 2</td>
+            <td>La página muestra las características que se deben agregar para el anuncio de la propiedad a alquilar sea como el propietario quiera que se vea.</td>
+        </tr>
+        <tr>
+            <td>Paso 3</td>
+            <td>La página mostrará los planes para mantener su anuncio en alquiler y el usuario decidirá qué plan usará.</td>
+        </tr>
+    </tbody>
+</table>
+
+**Página de Alquilar centro**
+
+<table>
+    <thead>
+        <tr>
+            <th>Topico</th>
+            <th>Definición</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Filtros de búsqueda</td>
+            <td>Permite a los usuarios ajustar los resultados de búsqueda según ubicación, tipo de servicio, calificaciones, entre otros criterios.</td>
+        </tr>
+        <tr>
+            <td>Lista de propiedades</td>
+            <td>Presenta los resultados de la búsqueda con un resumen de la información de cada centro técnico.</td>
+        </tr>
+        <tr>
+            <td>Detalles de propiedades</td>
+            <td>Al seleccionar un centro técnico, se muestra información detallada, así como calificaciones y comentarios.</td>
+        </tr>
+        <tr>
+            <td>Comentarios y calificaciones</td>
+            <td>Ofrece a los usuarios la posibilidad de añadir comentarios y calificaciones sobre el servicio.</td>
+        </tr>
+    </tbody>
+</table>
+
+**Página de favoritos:** Muestra los centros en alquiler marcados como favoritos por el usuario.
+
+**Otras páginas y funciones**
+
+<table>
+    <thead>
+        <tr>
+            <th>Topico</th>
+            <th>Definición</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Perfil de usuario</td>
+            <td>Permite a los usuarios gestionar su perfil y la información personal.</td>
+        </tr>
+        <tr>
+            <td>Configuraciones</td>
+            <td>Permite a los usuarios y técnicos configurar sus preferencias.</td>
+        </tr>
+        <tr>
+            <td>Pagina acerca de nosotros</td>
+            <td>Información sobre la empresa o la aplicación.</td>
+        </tr>
+        <tr>
+            <td>Ayuda y soporte</td>
+            <td>Recursos de ayuda, preguntas frecuentes y opciones de asistencia.</td>
+        </tr>
+    </tbody>
+</table>
+
+**Barra de navegación:** Una barra de navegación intuitiva y uniforme en la parte superior de cada página facilita el acceso a las secciones principales de la aplicación.
+**Diseño adaptativo:** La aplicación debe ser fácil de usar en dispositivos de escritorio y móviles, ajustando la interfaz según el tamaño de la pantalla.
+
+#### 3.1.2.2. Labelling Systems
+
+Para los sistemas de etiquetado, hemos decidido organizar el contenido mediante encabezados que agrupan las secciones accesibles. De este modo, el usuario puede identificar fácilmente dónde hacer clic para acceder a cada sección.
+
+<table>
+    <thead>
+        <tr>
+            <th>Topico</th>
+            <th>Definición</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Lugares</td>
+            <td>Sección principal que mostrará los centros más populares y mejor calificados tan pronto como el usuario acceda al enlace.</td>
+        </tr>
+        <tr>
+            <td>Publica</td>
+            <td>En esta sección, proporcionaremos a los usuarios la información necesaria que deben ingresar sobre su propiedad para que pueda ser publicada.</td>
+        </tr>
+        <tr>
+            <td>Variedad</td>
+            <td>Aquí, el usuario podrá seleccionar el tipo de espacio que desea para su evento.</td>
+        </tr>
+        <tr>
+            <td>Premium</td>
+            <td>En esta sección, se mostrarán los planes y tarifas disponibles que ofrecemos.</td>
+        </tr>
+        <tr>
+            <td>Iniciar Sesión</td>
+            <td>Los clientes podrán iniciar sesión en su cuenta desde aquí, y si no tienen una cuenta, también podrán registrarse desde esta sección.</td>
+        </tr>
+        <tr>
+            <td>Registrarse</td>
+            <td>Los clientes podrán registrarse como nuevos usuarios desde aquí; si ya tienen una cuenta, también podrán iniciar sesión desde esta sección.</td>
+        </tr>
+        <tr>
+            <td>Barra de búsqueda</td>
+            <td>En esta sección, el usuario podrá buscar centros para eventos de acuerdo con sus preferencias.</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 3.1.2.3. SEO Tags and Meta Tags
+Las meta etiquetas permiten codificar y especificar metadatos en una página web. Aunque no son visibles para los usuarios, los navegadores y rastreadores web pueden leerlas. Estas etiquetas facilitan el análisis de archivos HTML y apoyan el mantenimiento del contenido, además de influir en el posicionamiento de la página en los motores de búsqueda.<br>
+
+**Título**
+<br>Las meta etiquetas permiten codificar y especificar metadatos en una página web. Aunque no son visibles para los usuarios, los navegadores y rastreadores web las interpretan. Facilitan el análisis de archivos HTML y ayudan en el mantenimiento del contenido, además de afectar el posicionamiento en los motores de búsqueda.<br>
+`<title>Register your processes with NestHub</title>`
+
+**Codificación de caracteres**
+<br>Se ha optado por utilizar utf-8 debido a su eficiencia en el uso de memoria. Es más eficiente en términos de memoria para caracteres del BMP (Plano Multilingüe Básico), que abarca la mayoría de los caracteres comunes.<br>
+`<meta charset="utf-8">`
+
+**Descripción**
+<br>Esta meta etiqueta proporciona un resumen del contenido de la página web, ofreciendo una breve descripción de lo que los usuarios encontrarán en ella.<br>
+`<meta name="description" content="NestHub is a web application focused on publishing and renting centers for events"/>`
+
+**Palabras clave**
+<br>En esta meta etiqueta se incluyen las palabras clave relacionadas con el tema o contenido de la página web.<br>
+`<meta name="keywords" content="publish, rent, management, application, announcements, centers"/>`
+
+**Autor y derechos de autor**
+<br>Se utiliza para registrar la información del autor de la página web y los derechos de autor.<br>
+`<meta name="author" content="NestHub"/>`
+`<meta name="copyright" content="Copyright NestHub team"/>`
+
+#### 3.1.2.4. Searching Systems
+<td>El motor de búsqueda es esencial para que los usuarios encuentren rápidamente información específica.</td>
+<br><br>
+
+**Características principales**
+- *Búsqueda por ubicación:* <td>Los usuarios podrán buscar centros para eventos cercanos a su ubicación actual o especificar una ubicación deseada.</td>
+- *Búsqueda por características:* <td>Los usuarios podrán buscar centros que cumplan con características específicas, como piscina, parrilla, que acepten mascotas o que cuenten con vigilancia.</td>
+- *Filtros avanzados:* <td>Se ofrecerán filtros para refinar la búsqueda, como calificaciones, precios y disponibilidad.</td>
+- *Resultados relevantes:* <td>El sistema de búsqueda presentará resultados relevantes y los organizará según la ubicación y otros criterios.</td>
+
+#### 3.1.2.5. Navigation Systems
+El Sistema de Navegación es la estructura que facilita a los usuarios moverse de manera eficiente entre las diferentes secciones y páginas de la aplicación.<br><br>
+
+**Estructura de navegación:** El Sistema de Navegación incluirá las siguientes secciones principales en la barra de navegación:
+- Lugares
+- Publica
+- Variedad
+- Premium
+- Iniciar sesión
+- Registrarse
+
+Después, la vista del usuario se dirigirá a la opción "Alquilar centro" y, finalmente, accederá a un panel con ciudades destacadas.
+
 
 ## [Conclusiones](#conclusiones)
 ## [Bibliografía](#bibliografía)
