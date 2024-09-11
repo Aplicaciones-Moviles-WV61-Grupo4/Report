@@ -213,7 +213,9 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - [COURSE PROJECT](#course-project)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [Durante la preparación del informe, se llevaron a cabo las siguientes actividades:](#durante-la-preparación-del-informe-se-llevaron-a-cabo-las-siguientes-actividades)
 - [Student Outcome](#student-outcome)
+- [Objetivos SMART:](#objetivos-smart)
 - [Contenido](#contenido)
   - [Tabla de contenidos](#tabla-de-contenidos)
     - [Registro de versiones del informe](#registro-de-versiones-del-informe-1)
@@ -224,9 +226,6 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
   - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [Capítulo IV: Product Design](#capítulo-iv-product-design)
   - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
-  - [Conclusiones](#conclusiones)
-  - [Bibliografía](#bibliografía)
-  - [Anexos](#anexos)
 - [Capítulo I: Introducción](#capítulo-i-introducción-1)
   - [1.1. StartUp Profile](#11-startup-profile)
     - [1.1.1. Description de la StartUp](#111-description-de-la-startup)
@@ -235,13 +234,13 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
     - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
     - [Antecedentes](#antecedentes)
     - [Problemáticas](#problemáticas)
-      - [Técnica de las 5 'W's y 2 'H's](#técnica-de-las-5-ws-y-2-hs)
-      - [What?](#what)
-    - [When?](#when)
-    - [Where?](#where)
-    - [Why?](#why)
-    - [How?](#how)
-    - [How much?](#how-much)
+      - [5 'W's y 2 'H's](#5-ws-y-2-hs)
+    - [What](#what)
+    - [When](#when)
+    - [Where](#where)
+    - [Why](#why)
+    - [How](#how)
+    - [How much](#how-much)
     - [1.2.2. Lean UX Process](#122-lean-ux-process)
       - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
       - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
@@ -255,7 +254,6 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
   - [2.2. Entrevistas](#22-entrevistas)
     - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
     - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-  - [Link del video con todas las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344\_upc\_edu\_pe/EXNPFKACaqhMrla\_7xjSCtMBgAHuLpWOdgslbhB\_tDvdow?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D\&e=LujiaK](#link-del-video-con-todas-las-entrevistas-httpsupcedupe-mysharepointcomvgpersonalu202120344_upc_edu_peexnpfkacaqhmrla_7xjsctmbgahulpwodgslbhb_tdvdownaveyjyzwzlcnjhbeluzm8ionsicmvmzxjyywxbchaioijtdhjlyw1xzwjbchailcjyzwzlcnjhbfzpzxcioijtagfyzurpywxvzy1maw5riiwicmvmzxjyywxbchbqbgf0zm9ybsi6ildlyiisinjlzmvycmfstw9kzsi6inzpzxcifx03delujiak)
     - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
   - [2.3. Needfinding](#23-needfinding)
     - [2.3.1. User Personas](#231-user-personas)
@@ -263,92 +261,14 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
-  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  - [3.2. User Stories](#32-user-stories)
-  - [3.3. Impact Mapping](#33-impact-mapping)
-  - [3.4. Product Backlog](#34-product-backlog)
-- [Capítulo IV: Product Design](#capítulo-iv-product-design-1)
-  - [4.1. Style Guidelines.](#41-style-guidelines)
-    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-    - [4.2.1. Organization Systems](#421-organization-systems)
-    - [4.2.2. Labeling Systems](#422-labeling-systems)
-    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-    - [4.2.4. Searching Systems](#424-searching-systems)
-    - [4.2.5. Navigation Systems](#425-navigation-systems)
-  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-    - [4.7.1. Class Diagrams](#471-class-diagrams)
-    - [4.7.2. Class Dictionary](#472-class-dictionary)
-  - [4.8. Database Design.](#48-database-design)
-    - [4.8.1. Database Diagram.](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment-1)
-  - [5.1. Software Configuration Management](#51-software-configuration-management)
-    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-    - [5.1.2. Source Code Management](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
-    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-  - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint 1](#521-sprint-1)
-      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
-      - [5.2.1.3. Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
-      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    - [5.2.2. Sprint 2](#522-sprint-2)
-      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-      - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-      - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
-      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-    - [5.2.3. Sprint 3](#523-sprint-3)
-      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
-      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
-      - [5.2.3.3. Development Evidence for Sprint Review.](#5233-development-evidence-for-sprint-review)
-      - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
-      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
-      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
-      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
-      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-    - [5.2.4. Sprint 4](#524-sprint-4)
-      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
-      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
-      - [5.2.4.3. Development Evidence for Sprint Review.](#5243-development-evidence-for-sprint-review)
-      - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
-      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
-      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
-      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
-      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
-  - [5.3 Validation Interviews](#53-validation-interviews)
-    - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2 Registro de Entrevistas](#532-registro-de-entrevistas)
-  - [Link del video con todas las entrevistas de validación: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995\_upc\_edu\_pe/EXKDndrj4WpAjZfTQz6uBukByI1I1\_del5CFGWq2SkxLBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D\&e=hizd6X](#link-del-video-con-todas-las-entrevistas-de-validación-httpsupcedupe-mysharepointcomvgpersonalu201721995_upc_edu_peexkdndrj4wpajzftqz6ubukbyi1i1_del5cfgwq2skxlbgnaveyjyzwzlcnjhbeluzm8ionsicmvmzxjyywxbchaioijtdhjlyw1xzwjbchailcjyzwzlcnjhbfzpzxcioijtagfyzurpywxvzy1maw5riiwicmvmzxjyywxbchbqbgf0zm9ybsi6ildlyiisinjlzmvycmfstw9kzsi6inzpzxcifx03dehizd6x)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-  - [5.4. Video About-the-Product](#54-video-about-the-product)
-- [Conclusiones](#conclusiones-1)
-  - [Video About-the-Team](#video-about-the-team)
-- [Bibliografía](#bibliografía-1)
-- [Anexos](#anexos-1)
+  - [2.4. Requirements specifications](#24-requirements-specifications)
+    - [2.4.1. To-Be Scenario Mapping](#241-to-be-scenario-mapping)
+    - [2.4.2. User Stories](#242-user-stories)
+    - [2.4.3. Impact Mapping](#243-impact-mapping)
+    - [2.4.4. Product Backlog](#244-product-backlog)
+  - [Conclusiones](#conclusiones)
+  - [Bibliografía](#bibliografía)
+  - [Anexos](#anexos)
  # Capítulo I: Introducción
 
 ## 1.1. StartUp Profile
@@ -992,103 +912,7 @@ Los organizadores de eventos también presentan necesidades específicas al util
 ![tobeUsuario](/assets/to-be-scenario/Tobe_Scenario_Mapping_Usuario_png.png)
 ### 2.4.2. User Stories
 
-<table>
-    <thead>
-        <tr>
-            <th>Epic / Story ID</th>
-            <th>Título</th>
-            <th>Descripción</th>
-            <th>Criterios de Aceptación</th>
-            <th>Relacionado con (Epic ID)</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>US02</td>
-            <td>Registro de Propietario</td>
-            <td>Como propietario de un espacio para eventos, quiero poder registrarme fácilmente en NestHub para ofrecer mi espacio en alquiler y llegar a más clientes potenciales.</td>
-            <td>
-                <h5>Escenario 01: Registro exitoso</h5>
-                Dado que un propietario desea registrar su espacio en NestHub. Cuando el propietario completa el formulario de registro con la información requerida. Entonces el propietario recibe una confirmación de registro y puede acceder a su cuenta.
-                <h5>Escenario 02: Validación de datos</h5>
-                Dado que un propietario completa el formulario de registro en NestHub. Cuando el propietario envía el formulario. Entonces los datos proporcionados se validan para garantizar la precisión y la autenticidad.
-            </td>
-            <td>EP01</td>
-        </tr>
-        <tr>
-            <td>US03</td>
-            <td>Búsqueda y Filtrado de Espacios</td>
-            <td>Como organizador de eventos, quiero poder buscar y filtrar fácilmente espacios disponibles en NestHub para encontrar el lugar perfecto para mi evento, según mis criterios específicos.</td>
-            <td>
-                <h5>Escenario 01: Búsqueda por ubicación</h5>
-                Dado que un organizador busca un espacio para eventos en una ubicación específica. Cuando el organizador ingresa la ubicación deseada en el campo de búsqueda. Entonces se muestran los espacios disponibles en esa ubicación.
-                <h5>Escenario 02: Filtrado por capacidad</h5>
-                Dado que un organizador desea un espacio con capacidad para un número específico de personas. Cuando el organizador aplica un filtro de capacidad en la búsqueda. Entonces se muestran solo los espacios que cumplen con ese criterio.
-            </td>
-            <td>EP02</td>
-        </tr>
-        <tr>
-            <td>US04</td>
-            <td>Reservas de Espacios</td>
-            <td>Como organizador de eventos, quiero poder reservar un espacio para mi evento en NestHub para garantizar su disponibilidad en la fecha deseada.</td>
-            <td>
-                <h5>Escenario 01: Proceso de Reserva</h5>
-                Dado que un organizador ha encontrado el espacio ideal en NestHub. Cuando el organizador selecciona el espacio y la fecha deseada. Entonces se muestra un formulario de reserva para completar los detalles del evento.
-                <h5>Escenario 02: Confirmación de Reserva</h5>
-                Dado que un organizador ha completa do el formulario de reserva en NestHub. Cuando el organizador envía la solicitud de reserva. Entonces recibe una confirmación de reserva y los detalles se actualizan en su cuenta.
-            </td>
-            <td>EP02</td>
-        </tr>
-        <tr>
-            <td>US05</td>
-            <td>Calificaciones y Comentarios sobre Espacios</td>
-            <td>Como organizador de eventos, quiero poder ver las calificaciones y comentarios de otros usuarios sobre los espacios en NestHub para tomar una decisión informada al seleccionar un espacio para mi evento.</td>
-            <td>
-                <h5>Escenario 01: Visualización de Calificaciones</h5>
-                Dado que un organizador está revisando las opciones de espacios en NestHub. Cuando el organizador selecciona un espacio en particular. Entonces se muestran las calificaciones y comentarios de otros usuarios sobre ese espacio.
-                <h5>Escenario 02: Aporte de Comentarios</h5>
-                Dado que un organizador ha utilizado un espacio reservado a través de NestHub. Cuando el evento ha concluido. Entonces el organizador puede dejar un comentario y una calificación sobre su experiencia en ese espacio.
-            </td>
-            <td>EP05</td>
-        </tr>
-        <tr>
-            <td>US07</td>
-            <td>Calidad de Servicio Garantizada</td>
-            <td>Como organizador de eventos en NestHub, quiero tener la certeza de que los espacios disponibles cumplen con altos estándares de calidad y seguridad para garantizar una experiencia positiva para mis invitados.</td>
-            <td>
-                <h5>Escenario 01: Verificación de Espacios</h5>
-                Dado que un organizador está buscando un espacio para su evento en NestHub. Cuando revisa los detalles y características de los espacios disponibles. Entonces encuentra información detallada sobre las medidas de seguridad, comodidades y servicios ofrecidos.
-                <h5>Escenario 02: Garantía de Satisfacción</h5>
-                Dado que un organizador ha reservado un espacio a través de NestHub. Cuando concluye el evento. Entonces tiene la opción de dejar una reseña y calificación sobre la calidad del servicio recibido.
-            </td>
-            <td>EP06</td>
-        </tr>
-        <tr>
-            <td>US08</td>
-            <td>Comunicación Directa con Propietarios</td>
-            <td>Como organizador de eventos en NestHub, quiero poder comunicarme directamente con los propietarios de los espacios para aclarar dudas, coordinar detalles y resolver cualquier problema de manera rápida y efectiva.</td>
-            <td>
-                <h5>Escenario 01: Mensajería Instantánea</h5>
-                Dado que un organizador ha reservado un espacio en NestHub. Cuando necesita comunicarse con el propietario del espacio. Entonces puede enviar mensajes directos a través de la plataforma para obtener respuestas rápidas y resolver cualquier problema.
-                <h5>Escenario 02: Gestión de Consultas</h5>
-                Dado que un organizador tiene preguntas o solicitudes específicas sobre un espacio en NestHub. Cuando envía un mensaje al propietario. Entonces recibe una respuesta oportuna y personalizada para abordar sus inquietudes.
-            </td>
-            <td>EP03</td>
-        </tr>
-        <tr>
-            <td>US09</td>
-            <td>Registro de Espacio Sencillo</td>
-            <td>Como propietario de un espacio para eventos en NestHub, quiero poder registrar mi espacio de manera rápida y sencilla para comenzar a recibir solicitudes de reserva lo antes posible.</td>
-            <td>
-                <h5>Escenario 01: Registro de Datos Básicos</h5>
-                Dado que un propietario desea registrar su espacio en NestHub. Cuando completa un formulario básico con información sobre el espacio, como ubicación, tamaño y tipos de eventos permitidos. Entonces puede enviar el registro con éxito y recibir confirmación de su inclusión en la plataforma.
-                <h5>Escenario 02: Subida de Fotos</h5>
-                Dado que un propietario está completando el registro de su espacio en NestHub. Cuando carga imágenes de alta calidad que muestren el espacio y sus características. Entonces las fotos se muestran correctamente en el perfil del espacio, ayudando a atraer a posibles organizadores de eventos.
-            </td>
-            <td>EP01</td>
-        </tr>
-    </tbody>
-</table>
+<table> <thead> <tr> <th>Epic / Story ID</th> <th>Título</th> <th>Descripción</th> <th>Criterios de Aceptación</th> <th>Relacionado con (Epic ID)</th> </tr> </thead> <tbody> <tr> <td>US01</td> <td>Visualización de Información Clave</td> <td>Como visitante de la landing page, quiero ver una presentación clara de los beneficios de NestHub, para entender rápidamente cómo la plataforma me puede ayudar a alquilar o encontrar espacios para eventos.</td> <td> <h5>Escenario 01: Presentación de los Beneficios de Forma Destacada</h5> Dado que un visitante accede a la landing page de NestHub. Cuando la página se carga completamente y el usuario ve la sección principal. Entonces los beneficios clave de la plataforma se muestran de manera destacada con textos claros y elementos visuales atractivos, captando la atención del usuario. </td> <td>EP01</td> </tr> <tr> <td>US02</td> <td>Explorar Espacios Populares</td> <td>Como usuario, quiero ver los espacios más populares y mejor calificados destacados en la landing page, para conocer las opciones más recomendadas sin tener que buscarlas.</td> <td> <h5>Escenario 01: Visualización de Espacios Populares en la Landing Page</h5> Dado que un usuario accede a la landing page de NestHub. Cuando el usuario revisa la sección principal de la página. Entonces se muestran los espacios más populares y mejor calificados en una sección destacada con imágenes, calificaciones y una breve descripción, para que el usuario pueda ver rápidamente las opciones más recomendadas. </td> <td>EP01</td> </tr> <tr> <td>US03</td> <td>Acceso Rápido a Registro e Inicio de Sesión</td> <td>Como nuevo usuario, quiero encontrar botones de registro e inicio de sesión fácilmente accesibles en la landing page, para empezar a usar la plataforma rápidamente.</td> <td> <h5>Escenario 01: Visualización de Botones de Registro e Inicio de Sesión</h5> Dado que un usuario accede a la landing page de NestHub. Cuando la página se carga completamente y el usuario revisa la parte superior de la página. Entonces se muestran de forma destacada y accesible los botones de "Registrarse" e "Iniciar Sesión" en la barra de navegación o en una sección visible, permitiendo al usuario acceder rápidamente a las opciones para crear una cuenta o iniciar sesión. </td> <td>EP01</td> </tr> <tr> <td>US04</td> <td>Visualización de Variedad de Locales</td> <td>Como usuario que busca alquilar un espacio para eventos, quiero ver una sección destacada en la landing page que muestre la variedad de locales disponibles, para tener una idea clara de las diferentes opciones que ofrece la plataforma y encontrar el tipo de espacio que mejor se adapte a mis necesidades.</td> <td> <h5>Escenario 01: Presentación de la Variedad de Locales en la Landing Page</h5> Dado que un usuario accede a la landing page de NestHub. Cuando el usuario desplaza la página hacia la sección de "Variedad". Entonces se muestra una sección con información destacada sobre la amplia variedad de locales disponibles, incluyendo diferentes tipos de espacios como salones, terrazas, jardines, y más, acompañados de imágenes representativas y descripciones breves que resaltan la diversidad. </td> <td>EP01</td> </tr> <tr> <td>US05</td> <td>Registro de Propietario</td> <td>Como propietario de un espacio para eventos, quiero poder registrarme fácilmente en NestHub para ofrecer mi espacio en alquiler y llegar a más clientes potenciales.</td> <td> <h5>Escenario 01: Registro exitoso</h5> Dado que un propietario desea registrar su espacio en NestHub. Cuando el propietario completa el formulario de registro con la información requerida. Entonces el propietario recibe una confirmación de registro y puede acceder a su cuenta. <h5>Escenario 02: Validación de datos</h5> Dado que un propietario completa el formulario de registro en NestHub. Cuando el propietario envía el formulario. Entonces los datos proporcionados se validan para garantizar la precisión y la autenticidad. </td> <td>EP02</td> </tr> <tr> <td>US06</td> <td>Búsqueda y Filtrado de Espacios</td> <td>Como organizador de eventos, quiero poder buscar y filtrar fácilmente espacios disponibles en NestHub para encontrar el lugar perfecto para mi evento, según mis criterios específicos.</td> <td> <h5>Escenario 01: Búsqueda por ubicación</h5> Dado que un organizador busca un espacio para eventos en una ubicación específica. Cuando el organizador ingresa la ubicación deseada en el campo de búsqueda. Entonces se muestran los espacios disponibles en esa ubicación. <h5>Escenario 02: Filtrado por capacidad</h5> Dado que un organizador desea un espacio con capacidad para un número específico de personas. Cuando el organizador aplica un filtro de capacidad en la búsqueda. Entonces se muestran solo los espacios que cumplen con ese criterio. </td> <td>EP03</td> </tr> <tr> <td>US07</td> <td>Reservas de Espacios</td> <td>Como organizador de eventos, quiero poder reservar un espacio para mi evento en NestHub para garantizar su disponibilidad en la fecha deseada.</td> <td> <h5>Escenario 01: Proceso de Reserva</h5> Dado que un organizador ha encontrado el espacio ideal en NestHub. Cuando el organizador selecciona el espacio y la fecha deseada. Entonces se muestra un formulario de reserva para completar los detalles del evento. <h5>Escenario 02: Confirmación de Reserva</h5> Dado que un organizador ha completado el formulario de reserva en NestHub. Cuando el organizador envía la solicitud de reserva. Entonces recibe una confirmación de reserva y los detalles se actualizan en su cuenta. </td> <td>EP03</td> </tr> <tr> <td>US08</td> <td>Calificaciones y Comentarios sobre Espacios</td> <td>Como organizador de eventos, quiero poder ver las calificaciones y comentarios de otros usuarios sobre los espacios en NestHub para tomar una decisión informada al seleccionar un espacio para mi evento.</td> <td> <h5>Escenario 01: Visualización de Calificaciones</h5> Dado que un organizador está revisando las opciones de espacios en NestHub. Cuando el organizador selecciona un espacio en particular. Entonces se muestran las calificaciones y comentarios de otros usuarios sobre ese espacio. <h5>Escenario 02: Aporte de Comentarios</h5> Dado que un organizador ha utilizado un espacio reservado a través de NestHub. Cuando el evento ha concluido. Entonces el organizador puede dejar un comentario y una calificación sobre su experiencia en ese espacio. </td> <td>EP04</td> </tr> <tr> <td>US09</td> <td>Comunicación Directa con Propietarios</td> <td>Como organizador de eventos en NestHub, quiero poder comunicarme directamente con los propietarios de los espacios para aclarar dudas, coordinar detalles y resolver cualquier problema de manera rápida y efectiva.</td> <td> <h5>Escenario 01: Mensajería Instantánea</h5> Dado que un organizador ha reservado un espacio en NestHub. Cuando necesita comunicarse con el propietario del espacio. Entonces puede enviar mensajes directos a través de la plataforma para obtener respuestas rápidas y resolver cualquier problema. <h5>Escenario 02: Gestión de Consultas</h5> Dado que un organizador tiene preguntas o solicitudes específicas sobre un espacio en NestHub. Cuando envía un mensaje al propietario. Entonces recibe una respuesta oportuna y personalizada para abordar sus inquietudes. </td> <td>EP05</td> </tr> <tr> <td>US10</td> <td>Registro de Espacio Sencillo</td> <td>Como propietario de un espacio para eventos en NestHub, quiero poder registrar mi espacio de manera rápida y sencilla para comenzar a recibir solicitudes de reserva lo antes posible.</td> <td> <h5>Escenario 01: Registro de Datos Básicos</h5> Dado que un propietario desea registrar su espacio en NestHub. Cuando completa un formulario básico con información sobre el espacio, como ubicación, tamaño y tipos de eventos permitidos. Entonces puede enviar el registro con éxito y recibir confirmación de su inclusión en la plataforma. <h5>Escenario 02: Subida de Fotos</h5> Dado que un propietario está completando el registro de su espacio en NestHub. Cuando carga imágenes de alta calidad que muestren el espacio y sus características. Entonces las fotos se muestran correctamente en el perfil del espacio, ayudando a atraer a posibles organizadores de eventos. </td> <td>EP01</td> </tr> </tbody> </table>
 
 
 ### 2.4.3. Impact Mapping
