@@ -9,8 +9,8 @@
     <br>INFORME
 </p>
 <p align="center">
-    <strong>Startup:  </strong><br>
-    <strong>Producto: "" </strong>
+    <strong>Startup: Aerios</strong><br>
+    <strong>Producto: NestHub </strong>
 </p>
 <div>
     <h3 align="center">Team Members:</h3>
@@ -98,6 +98,9 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 ---
 
 # Student Outcome
+
+ABET – EAC - Student Outcome 7: *La capacidad de adquirir y aplicar nuevos conocimientos según sea
+necesario, utilizando estrategias deaprendizaje apropiadas.*
 
 <table >
         <tr>
@@ -281,10 +284,10 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
  # Capítulo I: Introducción
 
 ## 1.1. StartUp Profile
-En esta sección se describirá la descripción de la Starup y el caso de negocio.
+En esta sección se describirá la descripción de la Startup y el caso de negocio.
 
 ### 1.1.1. Description de la StartUp
-NestHub es una startup tecnológica fundada en 2024 con el objetivo de revolucionar la industria de los alquileres para eventos. Nuestra plataforma, diseñada por un equipo de jóvenes ingenieros de software, ofrece una amplia gama de funcionalidades, como: búsqueda avanzada, reservas en línea, gestión de pagos, calificaciones y reseñas.
+Aerios es una startup tecnológica fundada en 2024 con el objetivo de revolucionar la industria de los alquileres para eventos. Nuestra plataforma, diseñada por un equipo de jóvenes ingenieros de software, ofrece una amplia gama de funcionalidades, como: búsqueda avanzada, reservas en línea, gestión de pagos, calificaciones y reseñas.
 
 Para esto:
 
