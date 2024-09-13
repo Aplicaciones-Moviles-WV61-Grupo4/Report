@@ -319,7 +319,7 @@ A continuación, describiremos las características principales y beneficios de 
 
 **Product Description:** NestHub es una plataforma tecnológica que conecta a propietarios de espacios con organizadores de eventos. A través de un modelo de suscripción para propietarios, ofrecemos funcionalidades avanzadas y mayor visibilidad en nuestra plataforma. Los organizadores, por su parte, acceden de forma gratuita a una amplia variedad de espacios y herramientas para gestionar sus eventos de manera eficiente. Nuestro objetivo es crear una comunidad próspera y facilitar la organización de eventos exitosos.
 
-### 1.2.1. Antecedentes y problemática
+    ### 1.2.1. Antecedentes y problemática
 
 ### Antecedentes
 
@@ -466,7 +466,7 @@ Es una plataforma donde los usuarios pueden reservar hoteles, hostales, apartame
         NestHub
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="assets/images/logos/logo-NestHub.png" alt="NestHub" width="60px">
+                <img src="assets/images/logos/logo-NestHub3.png" alt="NestHub" width="60px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Airbnb
@@ -1012,7 +1012,7 @@ Un Style Guideline es un conjunto de directrices y estándares que establecen la
 
 **Nombre de la marca:** Debido a que el startup se centra en el alquiler y la promoción de espacios para eventos, se decidió nombrarla “NestHu” para reflejar su propósito de forma clara y directa.
 
-<img src="assets/images/logos/logo-NestHub.png" alt="NestHub" width="250px">
+<img src="assets/images/logos/logo-nesthub3.png" alt="NestHub" width="250px">
 
 **Tipografía:** El equipo seleccionó el siguiente tamaño para la fuente: 
 
@@ -1024,7 +1024,9 @@ Y se realizaron las siguientes modificaciones:
 
 **Colores:** La paleta de colores seleccionada incluye: 
 
-<img src="assets/product-design/colors.png" alt="colors">
+<img src="assets/product-design/color.png" alt="colors">
+
+<img src="assets/product-design/color2.png" alt="colors">
 
 ### 3.1.2. Information Architecture
 
@@ -1289,7 +1291,16 @@ Después, la vista del usuario se dirigirá a la opción "Alquilar centro" y, fi
 
 
 ## [Conclusiones](#conclusiones)
-## [Bibliografía](#bibliografía)
+## [bibliografía](#bibliografía)
+
+Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más. (s. f.). Airbnb. https://www.airbnb.com.pe/
+
+Vrbo. (s. f.). https://www.vrbo.com/es-es/
+
+Booking.com: The largest selection of hotels, homes, and vacation rentals. (s. f.). Booking.com. https://www.booking.com/
+
+Instituto Nacional de Estadística e Informática - INEI. (s. f.). Plataforma del Estado Peruano. https://www.gob.pe/inei/
+
 ## [Anexos](#anexos)
 
 
