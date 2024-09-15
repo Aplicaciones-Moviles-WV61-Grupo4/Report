@@ -9,6 +9,15 @@
 #### 3.1.2.4. Searching Systems
 #### 3.1.2.5. Nagivation Systems
 ### 3.1.3. Landing Page UI Design
+
+**Landing Page para Desktop Web Browser**
+
+<img src= "assets/wireframes/Landing Page Wireframe (Web desktop).png" alt= "Landing Page">
+
+**Landing Page para Mobile Web Browser**
+
+<img src="assets/wireframes/Landing Page Wireframe (Mobile Web Browser).png">
+
 #### 3.1.3.1. Landing Page Wireframe
 #### 3.1.3.2. Landing Page Mock-up
 ### 3.1.4. Mobile Applications UX/UI Design
