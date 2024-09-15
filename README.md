@@ -11,6 +11,7 @@
 ### 3.1.3. Landing Page UI Design
 
 #### 3.1.3.1. Landing Page Wireframe
+
 **Landing Page para Desktop Web Browser**
 
 <img src= "assets/wireframes/Landing Page Wireframe (Web desktop).png" alt= "Landing Page">
@@ -18,7 +19,16 @@
 **Landing Page para Mobile Web Browser**
 
 <img src="assets/wireframes/Landing Page Wireframe (Mobile Web Browser).png">
+
 #### 3.1.3.2. Landing Page Mock-up
+**Landing Page para Desktop Web Browser**
+
+<img src="assets/mock-ups/Landing Page Wireframe (Web desktop).png">
+
+**Lading page para Mobile Web Browser**
+
+<img src="assets/mock-ups/Landing Page Wireframe (Mobile Web Browser).png">
+
 ### 3.1.4. Mobile Applications UX/UI Design
 #### 3.1.4.1. Mobile Applications Wireframes
 #### 3.1.4.2. Mobile Applications Wireflow Diagram
