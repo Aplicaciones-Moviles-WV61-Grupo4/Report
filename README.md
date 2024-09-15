@@ -31,6 +31,10 @@
 
 ### 3.1.4. Mobile Applications UX/UI Design
 #### 3.1.4.1. Mobile Applications Wireframes
+
+<img src="assets/wireframes/Frame 8Mobile App wireframes.png">
+
+
 #### 3.1.4.2. Mobile Applications Wireflow Diagram
 #### 3.1.4.3. Mobile Applications Mock-ups
 #### 3.1.4.4. Mobile Applications User Flow Diagram
