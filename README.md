@@ -36,6 +36,22 @@
 
 
 #### 3.1.4.2. Mobile Applications Wireflow Diagram
+
+**User goal: Registro de usuario en la aplicación.**
+<img src="assets/wireflow/inicio sesion.png">
+
+**User goal: Búsqueda y filtrado de espacios.**
+<img src="assets/wireflow/buscado.png">
+
+**User goal: Calificaciones y comentarios sobre espacios.**
+<img src="assets/wireflow/calificaciones.png">
+
+**User goal: Comunicación directa con propietarios.**
+<img src="assets/wireflow/comunicacion.png">
+
+**User goal: Registro de espacio sencillo.**
+<img src="assets/wireflow/registro.png">
+
 #### 3.1.4.3. Mobile Applications Mock-ups
 #### 3.1.4.4. Mobile Applications User Flow Diagram
 #### 3.1.4.5. Mobile Applications Prototyping
