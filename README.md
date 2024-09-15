@@ -53,6 +53,29 @@
 <img src="assets/wireflow/registro.png">
 
 #### 3.1.4.3. Mobile Applications Mock-ups
+<img src="assets/mock-ups/Mobile app - Mock upsMobile App wireframes.png">
+
+<img src="assets/mock-ups/Sign up.png">
+<img src="assets/mock-ups/Sign in.png">
+<img src="assets/mock-ups/Home.png">
+<img src="assets/mock-ups/House display.png">
+<img src="assets/mock-ups/Confirmation and payment.png">
+<img src="assets/mock-ups/Messages.png">
+<img src="assets/mock-ups/Notification.png">
+<img src="assets/mock-ups/Perfil.png">
+<img src="assets/mock-ups/Publish step1.png">
+<img src="assets/mock-ups/Publish- step1 describe.png">
+<img src="assets/mock-ups/Publish- step1.png">
+<img src="assets/mock-ups/Publish- step1-1.png">
+<img src="assets/mock-ups/Publish step2.png">
+<img src="assets/mock-ups/Publish- step2-2.png">
+<img src="assets/mock-ups/Publish- step2.png">
+<img src="assets/mock-ups/Publish- step2-1.png">
+<img src="assets/mock-ups/Publish step3.png">
+<img src="assets/mock-ups/Publish- step3-1.png">
+<img src="assets/mock-ups/Publish- step3.png">
+
+
 #### 3.1.4.4. Mobile Applications User Flow Diagram
 #### 3.1.4.5. Mobile Applications Prototyping
 ## 3.2. Architecture Overview
