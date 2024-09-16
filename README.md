@@ -204,6 +204,35 @@ En este diagrama se presenta de forma detallada las conexiones entre controllers
 
 #### 3.2.2.3. Database Design
 
+1. Users 
+   
+Esta entidad representa a los usuarios de la plataforma, que pueden ser organizadores de eventos (quienes buscan alquilar un espacio para realizar eventos) o propietarios de locales (quienes ofrecen sus espacios en alquiler). La tabla almacena información esencial de los usuarios, como sus credenciales y datos de contacto. Es clave para administrar tanto a los usuarios que alquilan locales como a aquellos que los ofrecen.
+
+3. Profiles 
+
+Descripción: Contiene la información de perfil de cada usuario, incluyendo datos como su biografía, imagen de perfil y ubicación. Los organizadores de eventos pueden usar sus perfiles para mostrar su experiencia y los tipos de eventos que organizan, mientras que los propietarios pueden incluir detalles sobre sus propiedades y su trayectoria ofreciendo locales.
+
+4. Locals 
+   
+Representa los locales o propiedades que los propietarios pueden listar en la plataforma para ser alquilados por los organizadores de eventos. Estos locales pueden ser espacios como salones de eventos, casas de campo, auditorios, entre otros. La entidad permite a los propietarios describir sus propiedades, indicando el tamaño, ubicación, capacidad, comodidades y precios, para que los organizadores de eventos encuentren el lugar adecuado para sus necesidades.
+
+6. Local_Categories
+   
+Clasifica los locales en diferentes categorías según su tipo o función. Las categorías pueden incluir opciones como salón de eventos, casa de campo, auditorio, jardín para eventos, entre otras. Esto facilita a los organizadores de eventos buscar y filtrar espacios en función del tipo de evento que desean organizar.
+
+8. Invoices 
+   
+Descripción: Registra las transacciones financieras que ocurren en la plataforma, tanto para los propietarios que alquilan sus locales como para los organizadores de eventos que pagan por el uso de los espacios. Cada vez que se realiza una transacción, se genera una factura que detalla el monto y el estado del pago.
+
+10. Plans
+    
+Representa los diferentes planes de suscripción que la plataforma puede ofrecer, tanto a los propietarios de locales como a los organizadores de eventos. Los propietarios podrían suscribirse a planes que les permitan destacar sus locales o acceder a servicios adicionales, mientras que los organizadores pueden obtener beneficios como descuentos o acceso prioritario a locales mediante la suscripción a estos planes.
+
+12. Subscriptions 
+    
+Almacena la información de las suscripciones de los propietarios y organizadores de eventos a los distintos planes disponibles. Lleva el control de las fechas de inicio y finalización de la suscripción, el estado (activa, expirada) y los beneficios asociados a cada plan.
+
+
 #### 3.2.2.4. Database Diagram
 ![dataBaseDiagram](assets/c4/db-alquilaf.jpg)
 
