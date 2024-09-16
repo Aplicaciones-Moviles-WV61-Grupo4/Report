@@ -75,8 +75,36 @@
 <img src="assets/mock-ups/Publish- step3-1.png">
 <img src="assets/mock-ups/Publish- step3.png">
 
-
 #### 3.1.4.4. Mobile Applications User Flow Diagram
+
+**User goal: Creación de cuenta**
+
+**Given** que el usuario ha ingresado sus datos de registro correctamente,
+**When** el usuario hace clic en el botón "Registrarse",
+**Then** la cuenta del usuario se crea exitosamente y se le redirige a la página de inicio.
+<img src="assets/userflow/userflow 3.png">
+
+**User goal: Inicializacion de sesión**
+
+Explicación del flujo: El proceso comienza con el usuario accediendo a la aplicación desplegada. Luego, se le presentará un formulario en pantalla donde deberá ingresar su correo electrónico y contraseña para iniciar sesión. Si los datos son válidos, el sistema lo redirigirá a la página principal del aplicativo. En caso contrario, permanecerá en la página de inicio de sesión y se le pedirá que vuelva a ingresar sus credenciales.
+
+<img src="assets/userflow/userflow 4.png">
+
+<br>
+
+**User goal: Visualización de perfil**
+
+Explicación del flujo: En la aplicación, siempre se mostrará una barra de navegación en la parte inferior. Cuando el usuario haga clic en "perfil", que están ubicados en el extremo inferior derecho de la barra de navegación, podrá acceder a su perfil de usuario y operaciones que puede hacer.
+
+<img src="assets/userflow/userflow 2.png">
+
+<img src="assets/userflow/userflow1.png">
+
+
+
+
+
+
 #### 3.1.4.5. Mobile Applications Prototyping
 ## 3.2. Architecture Overview
 ### 3.2.1. Domain-Driven Software Architecture
