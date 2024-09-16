@@ -101,11 +101,9 @@ Explicación del flujo: En la aplicación, siempre se mostrará una barra de nav
 <img src="assets/userflow/userflow1.png">
 
 
-
-
-
-
 #### 3.1.4.5. Mobile Applications Prototyping
+<img src="assets/prototype.png">
+
 ## 3.2. Architecture Overview
 
 ## 3.2. Architecture Overview
