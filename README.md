@@ -32,9 +32,6 @@ A continuación, explicamos el proceso de implementación del backend en GitHub:
 - Finalmente, verificamos que el despliegue del backend se haya realizado exitosamente y que la aplicación funcione según lo esperado.
   
 ## 4.2. Software Development & Implementation
-### 4.2.1. Sprint 
-#### 4.2.1.1. Sprint Planning
-#### 4.2.1.2. Sprint Backlog
 ### 4.2.1. Sprint 1
 #### 4.2.1.1. Sprint Planning 1
 <table style="text-align: center;">
