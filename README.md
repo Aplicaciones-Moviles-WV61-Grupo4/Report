@@ -254,7 +254,7 @@ necesario, utilizando estrategias deaprendizaje apropiadas.*
 
 # Objetivos SMART:
 
-<img src="assets/smart-goals2.png" alt="SMART">
+<img src="assets/smart-goals.png" alt="SMART">
 
 
  # Capítulo I: Introducción
