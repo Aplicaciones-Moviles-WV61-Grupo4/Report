@@ -40,7 +40,7 @@
 <br>
 
 
-# Contenido 
+# Contenido
 ## Tabla de contenidos
 ### [Capítulo I: Presentación](#capítulo-i-presentación)
 - [1.1. Startup Profile](#11-startup-profile)
@@ -140,10 +140,10 @@
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
 ### [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-  - [Video App Validation](#video-app-validation)
-  - [Video About the product](#video-about-the-product)
-  - [Video About the team](#video-about-the-team)
+- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+- [Video App Validation](#video-app-validation)
+- [Video About the product](#video-about-the-product)
+- [Video About the team](#video-about-the-team)
 ### [Glosario](#glosario)
 ### [Bibliografía](#bibliografía)
 ### [Anexos](#anexos)
@@ -195,12 +195,12 @@ necesario, utilizando estrategias deaprendizaje apropiadas.*
 
 </table >
 
-#Objetivo Smart
+# Objetivo Smart
 
 <img src="assets/smart-goals.png" alt="SMART">
 
 
- # Capítulo I: Introducción
+# Capítulo I: Introducción
 
 ## 1.1. StartUp Profile
 En esta sección se describirá la descripción de la Startup y el caso de negocio.
@@ -246,37 +246,37 @@ En esta seccióm, utilizaremos el enfoque Lean UX para diseñar nuestro producto
 
 #### 1.2.2.1. Lean UX Problem Statements
 1. **Problema:**
-   - Los organizadores de eventos enfrentan dificultades para encontrar y reservar espacios adecuados para sus eventos de forma eficiente, ya que no existe una plataforma centralizada que reúna todas las opciones disponibles y facilite este proceso.
-  
-   - Los propietarios de espacios tienen dificultades para conectar con organizadores de eventos interesados en sus instalaciones debido a la falta de visibilidad y herramientas adecuadas para la gestión de reservas.
+  - Los organizadores de eventos enfrentan dificultades para encontrar y reservar espacios adecuados para sus eventos de forma eficiente, ya que no existe una plataforma centralizada que reúna todas las opciones disponibles y facilite este proceso.
+
+  - Los propietarios de espacios tienen dificultades para conectar con organizadores de eventos interesados en sus instalaciones debido a la falta de visibilidad y herramientas adecuadas para la gestión de reservas.
 2. **Declaración del problema:** La falta de una plataforma unificada genera frustración y retrasos para ambos grupos de usuarios, lo que lleva a una experiencia negativa y la pérdida de oportunidades de negocio.
 3. **Solución propuesta:** Una plataforma que facilite la búsqueda, comparación, reserva y pago de espacios para eventos en un solo lugar, reduciendo el tiempo y el esfuerzo necesario para ambas partes.
 
 #### 1.2.2.2. Lean UX Assumptions
 
 1. **Business Assumptions:**
-   - La búsqueda de espacios para eventos es un proceso frustante y consume mucho tiempo.
-  
-   - La falta de unificación en las opciones de búsqueda y reserva impide a los organizaciones de eventos encontrar opciones adecuadas rápidamente.
+  - La búsqueda de espacios para eventos es un proceso frustante y consume mucho tiempo.
 
-2. **Users Assumptions:** 
-   - Los organizadores de eventos prefieren utilizar una aplicación móvil para buscar y reservar espacios, debido a la conveniencia de tener acceso instantáneo desde sus dispositivos.
-  
-   - Los propietarios de espacios desean aumentar la visibilidad de sus instalaciones y optimizar la gestión de reservas a través de herramientas digitales.
-  
+  - La falta de unificación en las opciones de búsqueda y reserva impide a los organizaciones de eventos encontrar opciones adecuadas rápidamente.
+
+2. **Users Assumptions:**
+  - Los organizadores de eventos prefieren utilizar una aplicación móvil para buscar y reservar espacios, debido a la conveniencia de tener acceso instantáneo desde sus dispositivos.
+
+  - Los propietarios de espacios desean aumentar la visibilidad de sus instalaciones y optimizar la gestión de reservas a través de herramientas digitales.
+
 3. **Outcome Assumptions:**
-   - Al ofrecer una plataforma que centralice las opciones de búsqueda y reserva de espacios para eventos, tanto organizadores como propietarios experimentarán una mejora en la eficiencia del proceso.
-  
-   - Una aplicación móvil que incluya búsqueda avanzada, gestión de pagos, calificaciones y reseñas atraerá tanto a organizadores como a propietarios de espacios.
+  - Al ofrecer una plataforma que centralice las opciones de búsqueda y reserva de espacios para eventos, tanto organizadores como propietarios experimentarán una mejora en la eficiencia del proceso.
+
+  - Una aplicación móvil que incluya búsqueda avanzada, gestión de pagos, calificaciones y reseñas atraerá tanto a organizadores como a propietarios de espacios.
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 - Creemos que al ofrecer una plataforma unificada de búsqueda y reserva de espacios, reduciremos el tiempo de búsqueda para los organizadores de eventos en un 50% durante los primeros tres meses.
 
 - Creemos que al implementar una aplicación móvil con funciones avanzadas (búsqueda avanzada, gestión de pagos, calificaciones y reseñas), aumentaremos el uso de la plataforma por parte de organizadores de eventos en un 30% durante los primeros seis meses.
-  
+
 - Creemos que los organizadores de eventos que actualmente utilizan métodos tradicionales (boca a boca, sitios web individuales, etc.) preferirán nuestra plataforma para sus futuras búsquedas y reservas, ya que será más conveniente y eficiente.
-  
+
 - Creemos que los propietarios de espacios que desean maximizar sus ingresos y la ocupación de sus instalaciones se suscribirán a nuestros planes premium para obtener una mayor visibilidad y herramientas avanzadas.
 
 #### 1.2.2.4. Lean UX Canvas
@@ -294,7 +294,7 @@ En esta sección, identificamos los segmentos específicos de clientes a los que
 
   - **Características:** Buscan espacios que se ajusten a sus necesidades particulares, tales como capacidad, ubicación, y servicios disponibles. Además, realizan múltiples reservas a lo largo del año.
   - **Necesidades:** Requieren una plataforma que facilite la búsqueda y reserva de espacios, con acceso a información detallada sobre instalaciones y servicios, así como programas de fidelización, descuentos por reservas frecuentes y acceso prioritario a espacios exclusivos.
-  
+
 - **Propiedades de Espacios para eventos:** <br>
   Incluye a personas o empresas que poseen espacios adecuados para eventos, como salones de banquetes, jardines, locales comerciales, entre otros.
 
@@ -305,19 +305,19 @@ En esta sección, identificamos los segmentos específicos de clientes a los que
 ## 2.1. Competidores
 Hemos realizado una investigación de mercado y descubrimos tres plataformas que ofrecen funciones similares a las de nuestra aplicación que conectan a los propietarios de espacios con los organizadores de eventos. Estos incluyen:
 1. **Airbnb:**
-Es una plataforma en línea que, desde su fundación en 2008, ha revolucionado la industria hotelera ofreciendo una alternativa a los hoteles convencionales. En más de 191 países, los usuarios pueden alquilar alojamientos a corto plazo, desde habitaciones individuales hasta casas completas. Facilita la comunicación entre los propietarios que desean alquilar sus propiedades y los visitantes que buscan alojamiento temporal.
+   Es una plataforma en línea que, desde su fundación en 2008, ha revolucionado la industria hotelera ofreciendo una alternativa a los hoteles convencionales. En más de 191 países, los usuarios pueden alquilar alojamientos a corto plazo, desde habitaciones individuales hasta casas completas. Facilita la comunicación entre los propietarios que desean alquilar sus propiedades y los visitantes que buscan alojamiento temporal.
 <div style="text-align: center;">
                 <img src="assets/images/logos/logo-airbnb.png" alt="Airbnb" style="max-width: 400px; width: 25%;">
 </div>
 
 2. **Vrbo:**
-Es una plataforma en línea creada en 1995 que permite a los propietarios alquilar viviendas directamente. El nombre significa "Alquileres de vacaciones por propietario". Es uno de los principales sitios web para alquileres vacacionales en todo el mundo, y los usuarios pueden buscar y reservar casas, apartamentos, cabañas y villas en una variedad de lugares. Esto les da la oportunidad de elegir opciones que se ajusten a sus necesidades y preferencias.
+   Es una plataforma en línea creada en 1995 que permite a los propietarios alquilar viviendas directamente. El nombre significa "Alquileres de vacaciones por propietario". Es uno de los principales sitios web para alquileres vacacionales en todo el mundo, y los usuarios pueden buscar y reservar casas, apartamentos, cabañas y villas en una variedad de lugares. Esto les da la oportunidad de elegir opciones que se ajusten a sus necesidades y preferencias.
 <div style="text-align: center;">
                 <img src="assets/images/logos/logo-vrbo.png" alt="Vrbo" style="max-width: 400px; width: 25%;">
 </div>
 
 3. **Booking:**
-Es una plataforma donde los usuarios pueden reservar hoteles, hostales, apartamentos y otros tipos de alojamiento en todo el mundo. Además, tiene la opción de reservar vuelos, coches y actividades turísticas. Una de las principales plataformas en línea para reservar alojamientos es Booking.com, que tiene una amplia gama de opciones para viajeros de todo tipo. Los usuarios pueden buscar alojamientos según sus preferencias y presupuesto, y a través de la plataforma pueden realizar reservas de manera rápida y conveniente.
+   Es una plataforma donde los usuarios pueden reservar hoteles, hostales, apartamentos y otros tipos de alojamiento en todo el mundo. Además, tiene la opción de reservar vuelos, coches y actividades turísticas. Una de las principales plataformas en línea para reservar alojamientos es Booking.com, que tiene una amplia gama de opciones para viajeros de todo tipo. Los usuarios pueden buscar alojamientos según sus preferencias y presupuesto, y a través de la plataforma pueden realizar reservas de manera rápida y conveniente.
 <div style="text-align: center;">
                 <img src="assets/images/logos/logo-booking.png" alt="Booking" style="max-width: 400px; width: 25%;">
 </div>
@@ -789,7 +789,7 @@ Los organizadores de eventos también presentan necesidades específicas al util
 ### 2.4.4. Product Backlog
 
 
-Utilizamos la escala de Fibonacci para la estimación de los Story Points 
+Utilizamos la escala de Fibonacci para la estimación de los Story Points
 
 <table>
     <thead>
@@ -889,7 +889,7 @@ Un Style Guideline es un conjunto de directrices y estándares que establecen la
 
 <img src="assets/images/logos/logo-nesthub3.png" alt="NestHub" width="250px">
 
-**Tipografía:** El equipo seleccionó el siguiente tamaño para la fuente: 
+**Tipografía:** El equipo seleccionó el siguiente tamaño para la fuente:
 
 <img src="assets/product-design/tipografia.png" alt="tipografia">
 
@@ -897,7 +897,7 @@ Y se realizaron las siguientes modificaciones:
 
 <img src="assets/product-design/tipografia2.png" alt="tipografia">
 
-**Colores:** La paleta de colores seleccionada incluye: 
+**Colores:** La paleta de colores seleccionada incluye:
 
 <img src="assets/product-design/color.png" alt="colors">
 
@@ -1237,302 +1237,6 @@ Explicación del flujo: En la aplicación, siempre se mostrará una barra de nav
 #### 3.1.4.5. Mobile Applications Prototyping
 <img src="assets/prototype.png">
 
-
-## 3.1. Product Design
-### 3.1.1. Style Guidelines.
-Un Style Guideline es un conjunto de directrices y estándares que establecen la forma correcta de redactar, diseñar o presentar documentos, contenido web, software y otros tipos de trabajos creativos. A continuación, se presentan las especificaciones de los parámetros aplicados en la estructura del proyecto.
-
-#### 3.1.1.1. General Style Guidelines
-
-**Descripción general:** Queremos captar la atención del usuario desde el inicio, diseñando una presentación del producto que genere una conexión instantánea y fácil de identificar.
-
-**Descripción de la marca:** NestHub es una startup tecnológica fundada en 2024 por un grupo de estudiantes de Ingeniería de Software. Nuestra empresa se enfoca en facilitar el proceso de alquiler de espacios para eventos, ofreciendo una plataforma innovadora y accesible tanto para propietarios como para organizadores.
-
-**Misión:** Nuestra misión es hacer que el alquiler de espacios para eventos sea sencillo y eficiente mediante una plataforma intuitiva que conecte rápidamente a propietarios y organizadores de manera conveniente.
-
-**Visión:** Aspiramos a ser la plataforma líder a nivel global en el alquiler de espacios para eventos, promoviendo la eficiencia y la satisfacción de nuestros usuarios.
-
-**Nombre de la marca:** Debido a que el startup se centra en el alquiler y la promoción de espacios para eventos, se decidió nombrarla “NestHu” para reflejar su propósito de forma clara y directa.
-
-<img src="assets/images/logos/logo-nesthub3.png" alt="NestHub" width="250px">
-
-**Tipografía:** El equipo seleccionó el siguiente tamaño para la fuente:
-
-<img src="assets/product-design/tipografia.png" alt="tipografia">
-
-Y se realizaron las siguientes modificaciones:
-
-<img src="assets/product-design/tipografia2.png" alt="tipografia">
-
-**Colores:** La paleta de colores seleccionada incluye:
-
-<img src="assets/product-design/color.png" alt="colors">
-
-<img src="assets/product-design/color2.png" alt="colors">
-
-### 3.1.2. Information Architecture
-
-#### 3.1.2.1. Organization Systems
-
-**Menú principal**
-
-<table>
-    <thead>
-        <tr>
-            <td> 
-            <th>Topico</th>
-            <th>Definición</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Tarifas</td>
-            <td>La página presenta planes de suscripción que ofrecen beneficios específicos a diferentes precios, adecuados para cualquier tipo de presupuesto.</td>
-        </tr>
-        <tr>
-            <td>Log In</td>
-            <td>La página permite a los usuarios iniciar sesión en su cuenta. Si no tienen una cuenta, también hay una sección para registrarse gratuitamente en el servicio web.</td>
-        </tr>
-        <tr>
-            <td>Publicar centro</td>
-            <td>Primero, la página solicitará que inicies sesión para identificar al usuario que desea publicar su propiedad. Después, se mostrará una ventana donde podrás ingresar todos los datos y características de la propiedad.</td>
-        </tr>
-        <tr>
-            <td>Alquilar centro</td>
-            <td>Primero, la página solicitará que inicies sesión para identificar al usuario que desea publicar su propiedad. Después, se mostrará una ventana donde podrás ingresar todos los datos y características de la propiedad.</td>
-        </tr>
-        <tr>
-            <td>Alquilar centro</td>
-            <td>La página mostrará inicialmente los centros ya publicados disponibles para alquiler. Además, incluye una barra de búsqueda con filtros para encontrar los centros más adecuados de manera rápida y eficiente.</td>
-        </tr>
-        <tr>
-            <td>Barra de búsqueda</td>
-            <td>En la misma página principal se muestra una barra para poder buscar centros a través de distritos.</td>
-        </tr>
-        <tr>
-            <td>Lista de ciudades destacadas</td>
-            <td>La página principal te mostrará toda una lista de las ciudades más populares que el público ha alquilado para sus eventos.</td>
-        </tr>
-    </body>
-</table>    
-
-**Página de Tarifas**
-
-<table>
-    <thead>
-        <tr>
-            <th>Topico</th>
-            <th>Definición</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Lista de planes de suscripción</td>
-            <td>La página mostrará todos los planes que ofrece el servicio.</td>
-        </tr>
-        <tr>
-            <td>Detalles de planes</td>
-            <td>La página mostrará los detalles de todos los planes que ofrece el servicio.</td>
-        </tr>
-    </tbody>
-</table>
-
-**Página de Log In**
-
-<table>
-    <thead>
-        <tr>
-            <th>Topico</th>
-            <th>Definición</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Registro y autenticación</td>
-            <td>La página de inicio puede ofrecer una visión general del servicio y resaltar sus características principales.</td>
-        </tr>
-    </tbody>
-</table>
-
-**Página de Publicar centro**
-
-<table>
-    <thead>
-        <tr>
-            <th>Topico</th>
-            <th>Definición</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Paso 1</td>
-            <td>La página mostrará todos los detalles que se deben poner sobre el centro que el propietario quiere alquilar.</td>
-        </tr>
-        <tr>
-            <td>Paso 2</td>
-            <td>La página muestra las características que se deben agregar para el anuncio de la propiedad a alquilar sea como el propietario quiera que se vea.</td>
-        </tr>
-        <tr>
-            <td>Paso 3</td>
-            <td>La página mostrará los planes para mantener su anuncio en alquiler y el usuario decidirá qué plan usará.</td>
-        </tr>
-    </tbody>
-</table>
-
-**Página de Alquilar centro**
-
-<table>
-    <thead>
-        <tr>
-            <th>Topico</th>
-            <th>Definición</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Filtros de búsqueda</td>
-            <td>Permite a los usuarios ajustar los resultados de búsqueda según ubicación, tipo de servicio, calificaciones, entre otros criterios.</td>
-        </tr>
-        <tr>
-            <td>Lista de propiedades</td>
-            <td>Presenta los resultados de la búsqueda con un resumen de la información de cada centro técnico.</td>
-        </tr>
-        <tr>
-            <td>Detalles de propiedades</td>
-            <td>Al seleccionar un centro técnico, se muestra información detallada, así como calificaciones y comentarios.</td>
-        </tr>
-        <tr>
-            <td>Comentarios y calificaciones</td>
-            <td>Ofrece a los usuarios la posibilidad de añadir comentarios y calificaciones sobre el servicio.</td>
-        </tr>
-    </tbody>
-</table>
-
-**Página de favoritos:** Muestra los centros en alquiler marcados como favoritos por el usuario.
-
-**Otras páginas y funciones**
-
-<table>
-    <thead>
-        <tr>
-            <th>Topico</th>
-            <th>Definición</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Perfil de usuario</td>
-            <td>Permite a los usuarios gestionar su perfil y la información personal.</td>
-        </tr>
-        <tr>
-            <td>Configuraciones</td>
-            <td>Permite a los usuarios y técnicos configurar sus preferencias.</td>
-        </tr>
-        <tr>
-            <td>Pagina acerca de nosotros</td>
-            <td>Información sobre la empresa o la aplicación.</td>
-        </tr>
-        <tr>
-            <td>Ayuda y soporte</td>
-            <td>Recursos de ayuda, preguntas frecuentes y opciones de asistencia.</td>
-        </tr>
-    </tbody>
-</table>
-
-**Barra de navegación:** Una barra de navegación intuitiva y uniforme en la parte superior de cada página facilita el acceso a las secciones principales de la aplicación.
-**Diseño adaptativo:** La aplicación debe ser fácil de usar en dispositivos de escritorio y móviles, ajustando la interfaz según el tamaño de la pantalla.
-
-#### 3.1.2.2. Labelling Systems
-
-Para los sistemas de etiquetado, hemos decidido organizar el contenido mediante encabezados que agrupan las secciones accesibles. De este modo, el usuario puede identificar fácilmente dónde hacer clic para acceder a cada sección.
-
-<table>
-    <thead>
-        <tr>
-            <th>Topico</th>
-            <th>Definición</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Lugares</td>
-            <td>Sección principal que mostrará los centros más populares y mejor calificados tan pronto como el usuario acceda al enlace.</td>
-        </tr>
-        <tr>
-            <td>Publica</td>
-            <td>En esta sección, proporcionaremos a los usuarios la información necesaria que deben ingresar sobre su propiedad para que pueda ser publicada.</td>
-        </tr>
-        <tr>
-            <td>Variedad</td>
-            <td>Aquí, el usuario podrá seleccionar el tipo de espacio que desea para su evento.</td>
-        </tr>
-        <tr>
-            <td>Premium</td>
-            <td>En esta sección, se mostrarán los planes y tarifas disponibles que ofrecemos.</td>
-        </tr>
-        <tr>
-            <td>Iniciar Sesión</td>
-            <td>Los clientes podrán iniciar sesión en su cuenta desde aquí, y si no tienen una cuenta, también podrán registrarse desde esta sección.</td>
-        </tr>
-        <tr>
-            <td>Registrarse</td>
-            <td>Los clientes podrán registrarse como nuevos usuarios desde aquí; si ya tienen una cuenta, también podrán iniciar sesión desde esta sección.</td>
-        </tr>
-        <tr>
-            <td>Barra de búsqueda</td>
-            <td>En esta sección, el usuario podrá buscar centros para eventos de acuerdo con sus preferencias.</td>
-        </tr>
-    </tbody>
-</table>
-
-
-#### 3.1.2.3. SEO Tags and Meta Tags
-Las meta etiquetas permiten codificar y especificar metadatos en una página web. Aunque no son visibles para los usuarios, los navegadores y rastreadores web pueden leerlas. Estas etiquetas facilitan el análisis de archivos HTML y apoyan el mantenimiento del contenido, además de influir en el posicionamiento de la página en los motores de búsqueda.<br>
-
-**Título**
-<br>Las meta etiquetas permiten codificar y especificar metadatos en una página web. Aunque no son visibles para los usuarios, los navegadores y rastreadores web las interpretan. Facilitan el análisis de archivos HTML y ayudan en el mantenimiento del contenido, además de afectar el posicionamiento en los motores de búsqueda.<br>
-`<title>Register your processes with NestHub</title>`
-
-**Codificación de caracteres**
-<br>Se ha optado por utilizar utf-8 debido a su eficiencia en el uso de memoria. Es más eficiente en términos de memoria para caracteres del BMP (Plano Multilingüe Básico), que abarca la mayoría de los caracteres comunes.<br>
-`<meta charset="utf-8">`
-
-**Descripción**
-<br>Esta meta etiqueta proporciona un resumen del contenido de la página web, ofreciendo una breve descripción de lo que los usuarios encontrarán en ella.<br>
-`<meta name="description" content="NestHub is a web application focused on publishing and renting centers for events"/>`
-
-**Palabras clave**
-<br>En esta meta etiqueta se incluyen las palabras clave relacionadas con el tema o contenido de la página web.<br>
-`<meta name="keywords" content="publish, rent, management, application, announcements, centers"/>`
-**Autor y derechos de autor**
-<br>Se utiliza para registrar la información del autor de la página web y los derechos de autor.<br>
-`<meta name="author" content="NestHub"/>`
-`<meta name="copyright" content="Copyright NestHub team"/>`
-
-#### 3.1.2.4. Searching Systems
-<td>El motor de búsqueda es esencial para que los usuarios encuentren rápidamente información específica.</td>
-<br><br>
-
-**Características principales**
-- *Búsqueda por ubicación:* <td>Los usuarios podrán buscar centros para eventos cercanos a su ubicación actual o especificar una ubicación deseada.</td>
-- *Búsqueda por características:* <td>Los usuarios podrán buscar centros que cumplan con características específicas, como piscina, parrilla, que acepten mascotas o que cuenten con vigilancia.</td>
-- *Filtros avanzados:* <td>Se ofrecerán filtros para refinar la búsqueda, como calificaciones, precios y disponibilidad.</td>
-- *Resultados relevantes:* <td>El sistema de búsqueda presentará resultados relevantes y los organizará según la ubicación y otros criterios.</td>
-
-#### 3.1.2.5. Navigation Systems
-El Sistema de Navegación es la estructura que facilita a los usuarios moverse de manera eficiente entre las diferentes secciones y páginas de la aplicación.<br><br>
-
-**Estructura de navegación:** El Sistema de Navegación incluirá las siguientes secciones principales en la barra de navegación:
-- Lugares
-- Publica
-- Variedad
-- Premium
-- Iniciar sesión
-- Registrarse
-
-Después, la vista del usuario se dirigirá a la opción "Alquilar centro" y, finalmente, accederá a un panel con ciudades destacadas.
-## 3.2. Architecture Overview
-
 ## 3.2. Architecture Overview
 ### 3.2.1. Domain-Driven Software Architecture
 A continuación se visualizarán los diagramas C4.
@@ -1657,6 +1361,230 @@ Almacena la información de las suscripciones de los propietarios y organizadore
 
 #### 3.2.2.4. Database Diagram
 ![dataBaseDiagram](assets/c4/db-alquilaf.jpg)
+
+# Capítulo IV: Backend Product Implementation & Validation
+## 4.1. Software Configuration Management
+### 4.1.1. Software Development Environment Configuration
+A continuación se presenta un resumen de las herramientas utilizadas en el proyecto, que permiten al equipo avanzar en cada aspecto del trabajo:
+
+- Rider: IDE que utilizamos para el desarrollo backend en .NET y C#.
+- GitHub: Repositorio en la nube para colaboración en proyectos.
+- Swagger: Herramienta para documentar y probar las APIs desarrolladas en el backend.
+- MySQL Workbench: Herramienta gráfica para administrar la base de datos MySQL, utilizada para modelar, consultar y gestionar la base de datos del backend.
+### 4.1.2. Source Code Management
+Trabajamos con dos ramas principales:
+
+- Main: La rama principal utilizada para publicar nuestras versiones oficiales.
+- Default: Rama por defecto que utilizamos para consolidar los desarrollos generales del proyecto.
+- feature/Locals: Rama dedicada al desarrollo de las funcionalidades relacionadas con la gestión de locales.
+- feature/contacts: Rama enfocada en la implementación de las funcionalidades relacionadas con la gestión de contactos.
+- feature/profiles: Rama destinada al desarrollo e integración de las funcionalidades de perfiles de usuarios.
+### 4.1.3. Source Code Style Guide & Conventions
+Para realizar nuestro proyecto, hemos utilizado:
+
+- Tecnologías: Utilizamos lenguajes y tecnologías como C# y ASP.NET Core para el desarrollo del backend de nuestra aplicación.
+- Herramientas: Optamos por herramientas recomendadas y ampliamente utilizadas en el desarrollo backend, como Rider para el entorno de desarrollo integrado (IDE) y Workbench para la gestión de bases de datos.
+
+### 4.1.4. Software Deployment Configuration
+A continuación, explicamos el proceso de implementación del backend en GitHub:
+
+- Primero, creamos un repositorio remoto en GitHub para alojar el código del backend.
+- Inicializamos el repositorio localmente en nuestro entorno de desarrollo con el comando git init.
+- Luego, conectamos el repositorio local al repositorio remoto de GitHub utilizando el comando git remote add origin [URL].
+- Subimos los archivos y cambios al repositorio remoto con git push -u origin main (o la rama en la que estemos trabajando).
+- Configuramos las herramientas de integración continua y cualquier ajuste necesario para asegurar el despliegue automático y el correcto funcionamiento del backend.
+- Finalmente, verificamos que el despliegue del backend se haya realizado exitosamente y que la aplicación funcione según lo esperado.
+
+## 4.2. Software Development & Implementation
+### 4.2.1. Sprint 1
+#### 4.2.1.1. Sprint Planning 1
+<table style="text-align: center;">
+    <tbody>
+        <tr>
+            <td colspan="1">Sprint #</td>
+            <td colspan="1">Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+        <tr>
+            <td colspan="1">Date</td>
+            <td colspan="1">05/09/2024</td>
+        </tr>
+        <tr>
+            <td colspan="1">Location</td>
+            <td colspan="1">Microsoft Teams (Reuniones Virtuales)</td>
+        </tr>
+        <tr>
+            <td colspan="1">Prepared By</td>
+            <td colspan="1">Brenda Gamio</td>
+        </tr>
+        <tr>
+            <td colspan="1">Attendees (to planning meeting)</td>
+            <td colspan="1">- Brenda Gamio<br>
+                - Angel Cancho<br>
+                - Miguel Carpio<br></td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td colspan="1">Sprint 1 Goal</td>
+            <td colspan="1">Avanzar en la implementación de los endpoints del backend.</td>
+        </tr>
+        <tr>
+            <td colspan="1">Sprint 1 Velocity</td>
+            <td colspan="1">No se puede calcular ya que la implementación de los endpoints del backend no tiene backlog items o story points.</td>
+        </tr>
+        <tr>
+            <td colspan="1">Sum of Story Points</td>
+            <td colspan="1">No se puede calcular ya que la implementación de los endpoints del backend no tiene story points.</td>
+        </tr>
+        <tr>
+            <td colspan="1">Backend Progress</td>
+            <td colspan="1">Avance del 30% en la implementación de los endpoints del backend.</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 4.2.1.2. Sprint Backlog 1
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work - Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation (Hours)</td>
+			<td>Assigned To</td>
+			<td>Status (To-do / In-Process / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td>EP10/US01</td>
+			<td>Acceder a EndPoints</td>
+			<td>Como desarrollador, quiero tener acceso a los endpoints de la aplicación para poder interactuar con ella.</td>
+			<td>6</td>
+			<td>All team members</td>
+			<td>In-Process</td>
+		</tr>
+		<tr>
+			<td>EP10/US02</td>
+			<td>Registrar Subscripciones</td>
+			<td>Como developer, quiero contar con un endpoint para poder registrar las subscripciones que tienen los usuarios.</td>
+			<td>2</td>
+			<td>Brenda Gamio</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US04</td>
+			<td>Registrar Perfiles</td>
+			<td>Como developer, quiero contar con un endpoint para poder registrar a los perfiles.</td>
+			<td>2</td>
+			<td>Angel Cancho</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US05</td>
+			<td>Registrar Contactos</td>
+			<td>Como developer, quiero contar con un endpoint para poder registrar los contactos.</td>
+			<td>2</td>
+			<td>Miguel Carpio</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US07</td>
+			<td>Creación de persistencia de la entidad Subscription</td>
+			<td>Como developer, quiero realizar la persistencia de la información para la entidad Subscription.</td>
+			<td>2</td>
+			<td>Brenda Gamio</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US08</td>
+			<td>Creación de persistencia de la entidad Perfil</td>
+			<td>Como developer, quiero implementar la persistencia de la información de la entidad Perfil para asegurar que los datos de los perfiles se almacenen de manera segura y estén disponibles cuando sea necesario.</td>
+			<td>2</td>
+			<td>Angel Cancho</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US09</td>
+			<td>Creación de persistencia de la entidad Contacto</td>
+			<td>Como developer quiero hacer persistir la información de la entidad Contacto para tener registrado.</td>
+			<td>2</td>
+			<td>Miguel Carpio</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US11</td>
+			<td>Creación de resource de la entidad Subscription</td>
+			<td>Como developer quiero devolver un resource de la información de la entidad Subscription para realizar consultas.</td>
+			<td>2</td>
+			<td>Brenda Gamio</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US12</td>
+			<td>Creación de resource de la entidad Perfil</td>
+			<td>Como developer quiero devolver un resource de la información de la entidad Perfil para realizar consultas.</td>
+			<td>2</td>
+			<td>Angel Cancho</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US13</td>
+			<td>Creación de resource de la entidad Contacto</td>
+			<td>Como developer quiero devolver un resource de la información de la entidad Contacto para realizar consultas.</td>
+			<td>2</td>
+			<td>Miguel Carpio</td>
+			<td>Done</td>
+		</tr>        
+    </tbody>
+</table>
+
+
+#### 4.2.1.3. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit ID                                | Commit Message                            | Commit Message Body                    | Commited on (Date) |
+|------------|--------|------------------------------------------|-------------------------------------------|----------------------------------------|--------------------|
+| Backend    | main   | 5d3eede7981780e5bc96fa4067df4ff3f1472a85 | chore: initial commit                     | Initial setup                          | 14/09/2024         |
+| Backend    | main   | 2200e6526ebdde4d400fcf5bab5720882cdb4596 | chore: added shared folder                | Added shared folder                    | 14/09/2024         |
+| Backend    | main   | 7f30747276c3a935a9564e79489b82ae0ce7d645 | feat: add contacts service                | Added contacts service                 | 14/09/2024         |
+| Backend    | main   | 798e808dfbc0c51da7f8a724727a1475ba356c8f | feat: added bounded context for local     | Added bounded context for local        | 14/09/2024         |
+| Backend    | main   | c99c0683833aa5d576b9d939610afca73f7c96c4 | feat: added profiles bounded context      | Added profiles bounded context         | 14/09/2024         |
+
+#### 4.2.1.4. Testing Suite Evidence for Sprint Review
+
+Esta sección ha sido omitida porque aún no contamos con el conocimiento necesario para llevar a cabo pruebas automatizadas, las cuales están previstas para el próximo sprint.
+#### 4.2.1.5. Execution Evidence for Sprint Review
+![bd](assets/bd.png)
+![swagger](assets/swagger-contact.png)
+![swagger](assets/swagger-local.png)
+![swagger](assets/swgger-profile.png)
+#### 4.2.1.6. Services Documentation Evidence for Sprint Review
+
+| Nombre del Endpoint         | Acciones Implementadas | Sintaxis de Llamada                                                   | Especificación de Parámetros                         | Ejemplo de Llamada                                                                                                                                                                                                                                                                                                             | Explicación del Response                                                                                                                      |
+|-----------------------------|------------------------|-----------------------------------------------------------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| profiles-api.service.json   | GET                    | (Not used)                                                            | Ya que es un GET, los parámetros que se piden son id | ```fetch('src/app/profiles/services/profiles-api.service.json')```<br>```.then(response => response.json())```<br>```.then(data => {```<br>```this.profiles = data;```<br>```});```                                                                                                                              | En este caso, se está devolviendo el valor de todos los objetos "profiles" alojados en el json con el nombre 'profiles-api.service.json'.   |
+| contact-api.service.json    | GET                    | ```axios.get("src/app/services/contact-api.service.json")```            | Ya que es un GET, los parámetros que se piden son id | ```fetchContacts() {```<br>```axios.get("src/app/services/contact-api.service.json")```<br>```.then(response => {```<br>```console.log(response.data);```<br>```this.contacts = response.data.contacts;```<br>```})```<br>```.catch(error => {```<br>```console.error('Error fetching contacts:', error);```<br>```});```<br>```}``` | En este caso, se está devolviendo el valor de todos los objetos "contacts" alojados en el json con el nombre 'contact-api.service.json'.  |
+| local-api.service.json      | GET                    | ```fetch('src/app/local/services/local-api.service.json')```    | Ya que es un GET, los parámetros que se piden son id | ```fetch('src/app/local/services/local-api.service.json')```<br>```.then(response => response.json())```<br>```.then(data => {```<br>```this.localData = data;```<br>```});```                                                                                                                                            | En este caso, se está devolviendo el valor de todos los objetos "local" alojados en el json con el nombre 'local-api.service.json'.      |
+
+
+#### 4.2.1.7. Software Deployment Evidence for Sprint Review
+
+Hasta la fecha, aún no hemos realizado el despliegue de la aplicación. La evidencia de despliegue se proporcionará en la próxima entrega, correspondiente a la finalización del próximo sprint.
+
+#### 4.2.1.8. Team Collaboration Insights during Sprint
+
+![swagger](assets/insight-1.png)
+![swagger](assets/insight-2.png)
 
 ## [Conclusiones](#conclusiones)
 ## [bibliografía](#bibliografía)
