@@ -1243,7 +1243,7 @@ A continuación se visualizarán los diagramas C4.
 #### 3.2.1.1. Software Architecture Context Level Diagram
 Se puede visualizar el diagrama de contexto que representa un panorama general de la comunicación entre nuestros segmentos objetivo y la aplicación.
 
-![contextDiagram](assets/c4/contextDiagram.png)
+![contextDiagram](assets/c4/context_diagram.png)
 #### 3.2.1.2. Software Architecture Container Level Diagram
 En este diagrama se puede apreciar el funcionamiento que tendrá la aplicación y las relaciones con los bounded context correspondientes, se busca organizarlos de tal forma que no generen dependencias fuertes que perjudiquen migraciones a future.
 
