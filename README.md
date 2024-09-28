@@ -1586,6 +1586,204 @@ Hasta la fecha, aún no hemos realizado el despliegue de la aplicación. La evid
 ![swagger](assets/insight-1.png)
 ![swagger](assets/insight-2.png)
 
+### 4.2.2. Sprint 2
+#### 4.2.2.1. Sprint Planning 2
+<table style="text-align: center;">
+    <tbody>
+        <tr>
+            <td colspan="1">Sprint #</td>
+            <td colspan="1">Sprint 2</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+        <tr>
+            <td colspan="1">Date</td>
+            <td colspan="1">19/09/2024</td>
+        </tr>
+        <tr>
+            <td colspan="1">Location</td>
+            <td colspan="1">Discord (Reuniones Virtuales)</td>
+        </tr>
+        <tr>
+            <td colspan="1">Prepared By</td>
+            <td colspan="1">Brenda Gamio</td>
+        </tr>
+        <tr>
+            <td colspan="1">Attendees (to planning meeting)</td>
+            <td colspan="1">- Brenda Gamio<br>
+                - Angel Cancho<br>
+                - Miguel Carpio<br></td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td colspan="1">Sprint 2 Goal</td>
+            <td colspan="1">Terminar el backend y comenzar el desarrollo movile de nuestra app.</td>
+        </tr>
+        <tr>
+            <td colspan="1">Sprint 2 Velocity</td>
+            <td colspan="1">6</td>
+        </tr>
+        <tr>
+            <td colspan="1">Sum of Story Points</td>
+            <td colspan="1">19</td>
+        </tr>
+        <tr>
+            <td colspan="1">Movile app development Progress</td>
+            <td colspan="1">Avance del 30% en el desarollo de la app móvil.</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 4.2.2.2. Sprint Backlog 2
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 2</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work - Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation (Hours)</td>
+			<td>Assigned To</td>
+			<td>Status (To-do / In-Process / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td>US01</td>
+			<td>Visualización de Información Clave</td>
+			<td>Como visitante de la landing page, quiero ver una presentación clara de los beneficios de NestHub, para entender rápidamente cómo la plataforma me puede ayudar a alquilar o encontrar espacios para eventos.</td>
+			<td>3</td>
+			<td>Brenda Gamio</td>
+			<td>In-Process</td>
+		</tr>
+		<tr>
+			<td>US02</td>
+			<td>Explorar Espacios Populares</td>
+			<td>Como usuario, quiero ver los espacios más populares y mejor calificados destacados en la landing page, para conocer las opciones más recomendadas sin tener que buscarlas.</td>
+			<td>3</td>
+			<td>Brenda Gamio</td>
+			<td>In-Process</td>
+		</tr>
+		<tr>
+			<td>US03</td>
+			<td>Acceso Rápido a Registro e Inicio de Sesión</td>
+			<td>Como nuevo usuario, quiero encontrar botones de registro e inicio de sesión fácilmente accesibles en la landing page, para empezar a usar la plataforma rápidamente.</td>
+			<td>2</td>
+			<td>Miguel Carpio</td>
+			<td>In-Process</td>
+		</tr>
+		<tr>
+			<td>US08</td>
+			<td>Reservas de Espacios</td>
+			<td>Como organizador de eventos, quiero poder reservar un espacio para mi evento en NestHub para garantizar su disponibilidad en la fecha deseada.</td>
+			<td>5</td>
+			<td>Brenda Gamio</td>
+			<td>In-Process</td>
+		</tr>
+		<tr>
+			<td>US09</td>
+			<td>Calificaciones y Comentarios sobre Espacios</td>
+			<td>Como organizador de eventos, quiero poder ver las calificaciones y comentarios de otros usuarios sobre los espacios en NestHub para tomar una decisión informada al seleccionar un espacio para mi evento.</td>
+			<td>3</td>
+			<td>Brenda Gamio</td>
+			<td>In-Progress</td>
+		</tr>
+		<tr>
+			<td>EP10/US14</td>
+			<td>Creación de persistencia de la entidad Payment</td>
+			<td>Como developer, quiero implementar la persistencia de la información de la entidad Payment para asegurar que los datos de los pagos se almacenen de manera segura y estén disponibles cuando sea necesario.</td>
+			<td>2</td>
+			<td>Angel Cancho</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US15</td>
+			<td>Creación de persistencia de la entidad Reservations</td>
+			<td>Como developer quiero hacer persistir la información de la entidad Reservation para tener registrado.</td>
+			<td>2</td>
+			<td>Angel Cancho</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>EP10/US16</td>
+			<td>Creación de resource de la entidad Reviews</td>
+			<td>Como developer quiero devolver un resource de la información de la entidad Reviews para realizar consultas.</td>
+			<td>2</td>
+			<td>Angel Cancho</td>
+			<td>Done</td>
+		</tr>    
+    </tbody>
+</table>
+
+
+#### 4.2.2.3. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit ID                                | Commit Message                            | Commit Message Body                    | Commited on (Date) |
+|------------|--------|------------------------------------------|-------------------------------------------|----------------------------------------|--------------------|
+| NestHub  | master   | 755dbc9e22aa04dc07a587f1da1c934083f4b8d2 | chore: initial commit                     | -                          | 27/09/2024         |
+| NestHub  | master   | c27e75cab5150eed99ad2b80f511eea6f4b96d60 | feat: Add auth login                | -                    | 28/09/2024         |
+| NestHub  | master   | 7ef9e3459929f2ce6b8f248a8b8079e40ef1567b | feat: add screens                | -                 | 28/09/2024         |
+| Landing-Page | main   | 2d0bba33a51687c6a9258711e869f1201fc5fe58 | Initial commit     | -        | 28/09/2024         |
+| Landing-Page | main   | 3aaae9e79383104ed724ac2c08ddb2da94e68da6 | feat: add landing      | -         | 28/09/2024         |
+
+#### 4.2.2.4. Testing Suite Evidence for Sprint Review
+
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Landing-Page</td>
+    <td>main</td>
+    <td>Brenda Gamio</td>
+    <td>despliegue de la landing page</td>
+    <td>28/09/2024</td>
+    <td>https://nesthublandingpage.web.app/</td>
+  </tr>
+</table>
+
+#### 4.2.2.5. Execution Evidence for Sprint Review
+![landing-page1](assets/landing1.png)
+![landing-page2](assets/landing2.png)
+![landing-page3](assets/landing3.png)
+![landing-page4](assets/landing4.png)
+
+#### 4.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el segundo sprint, se ha creado el landing page y se ha finalizado el desarollo del backend, sin que se haya hecho uso de web services para su funcionamiento.
+
+#### 4.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo del landing page se ha utilizado las siguientes herramientas:
+
+- Git: Herramienta de gestión de versiones que facilitó la colaboración en equipo durante la creación del landing page. Git es un sistema que permite a los programadores registrar y seguir los cambios realizados en el código fuente de un proyecto. Con Git, podemos crear ramas para trabajar en diferentes partes del código sin interferir con el trabajo de los demás, integrar los cambios cuando estén listos y revertirlos si es necesario.
+
+- GitFlow: Método de trabajo que contribuyó al seguimiento del progreso individual de cada miembro del equipo en la creación del landing page. GitFlow es un modelo de flujo de trabajo con ramificaciones en Git que establece una estructura estándar para organizar las diferentes versiones y características del código. Con GitFlow, podemos mantener una rama principal (master o main) con el código más estable y seguro, una rama de desarrollo (develop) con el código en proceso, y varias ramas auxiliares (feature, release, hotfix) que se utilizan para desarrollar nuevas funcionalidades, preparar lanzamientos y solucionar errores urgentes, respectivamente.
+
+- GitHub: Plataforma que facilitó la colaboración en equipo para almacenar las versiones de nuestro proyecto. GitHub es un servicio web que utiliza Git para alojar repositorios remotos y fomentar la colaboración entre programadores. Con GitHub, podemos cargar nuestro código en la nube, compartirlo con otros usuarios, recibir comentarios y sugerencias, hacer seguimiento de tareas y problemas, y acceder a una amplia gama de proyectos de código abierto.
+
+- Firebase: Servicio que nos permitió publicar nuestro landing page directamente desde nuestro repositorio de GitHub. 
+
+https://nesthublandingpage.web.app/
+
+#### 4.2.2.8. Team Collaboration Insights during Sprint
+
+![swagger](assets/insight-1.png)
+![swagger](assets/insight-2.png)
+
 ## [Conclusiones](#conclusiones)
 ## [bibliografía](#bibliografía)
 
