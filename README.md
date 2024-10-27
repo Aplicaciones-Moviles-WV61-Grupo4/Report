@@ -1896,11 +1896,10 @@ https://nesthublandingpage.web.app/
 
 | Repository | Branch | Commit ID                                | Commit Message                            | Commit Message Body                    | Commited on (Date) |
 |------------|--------|------------------------------------------|-------------------------------------------|----------------------------------------|--------------------|
-| NestHub  | master   | 755dbc9e22aa04dc07a587f1da1c934083f4b8d2 | chore: initial commit                     | -                          | 27/09/2024         |
-| NestHub  | master   | c27e75cab5150eed99ad2b80f511eea6f4b96d60 | feat: Add auth login                | -                    | 28/09/2024         |
-| NestHub  | master   | 7ef9e3459929f2ce6b8f248a8b8079e40ef1567b | feat: add screens                | -                 | 28/09/2024         |
-| Landing-Page | main   | 2d0bba33a51687c6a9258711e869f1201fc5fe58 | Initial commit     | -        | 28/09/2024         |
-| Landing-Page | main   | 3aaae9e79383104ed724ac2c08ddb2da94e68da6 | feat: add landing      | -         | 28/09/2024         |
+| NestHubApp  | main   | dea17c403b7db350a2c39d64649995b52631addd | chore  | -                          | 25/10/2024 |
+| NestHubApp  | main   | 4d0be2afa0c44a382b46329b88074991ade91bbd | feat: added publishing steps | -                    | 25/10/2024  |
+| NestHubApp  | main   | 4d1b4b402584e62c81db02a36ea52a88d461905f | feat: added user profile screen | -                 | 25/10/2024  |
+| NestHubApp | main   | 4c506ec6ffe22441ec75a942479433bad847f8d9 | feat: added messages screen | -        | 26/10/2024 |
 
 #### 4.2.3.4. Testing Suite Evidence for Sprint Review
 
