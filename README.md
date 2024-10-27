@@ -176,9 +176,14 @@ necesario, utilizando estrategias deaprendizaje apropiadas.*
             <br>Carpio Cornejo, Miguel Ángel<br>
                 Se realizaron sesiones de brainstorming y análisis crítico para identificar posibles soluciones innovadoras a la problemática seleccionada. Estas sesiones permitieron una mayor colaboración entre los miembros del equipo, promoviendo la creatividad y la generación de ideas. Además, se crearon documentos     detallados con las estrategias y pasos a seguir para asegurar una implementación efectiva del proyecto. <br>
             <br>Gamio Upiachihua, Brenda Lucía:<br>
-            Para la primera entrega, se comenzó coordinando, planificando y definiendo el alcance de nuestra propuesta. Esto proporciona una base más sólida para la definición y ejecución técnica del proyecto.
+            Para la primera entrega, se comenzó coordinando, planificando y definiendo el alcance de nuestra propuesta. Esto proporciona una base más sólida para la definición y ejecución técnica del proyecto.<br>
+	    <br>TB3:<br>
+	  	Cancho Corilla, Angel Antonio:<br>
+		    He actualizado el backend del proyecto, mejorando su funcionalidad y rendimiento. Además, he agregado nuevas funcionalidades en la aplicación Flutter, optimizando la experiencia del usuario y asegurando que el frontend se comunique de manera efectiva con el backend para ofrecer un servicio más robusto y eficiente.<br><br>
+		    Gamio Upiachihua, Brenda Lucía:<br>
+		    He mejorado mis conocimientos en desarrollo de aplicaciones móviles al optimizar la navegación de la app, lo que mejora la experiencia del usuario. También he actualizado los reportes para que reflejen con precisión los datos del proyecto. Estas acciones refuerzan mis habilidades técnicas y contribuyen al avance de mi proyecto en soluciones de ingeniería de software.<br>
             </td>
-            <td>Se destaca la importancia de mantener actualizados los conocimientos y conceptos necesarios para el desarrollo profesional, especialmente en el área de soluciones de software. Un enfoque metodológico y colaborativo, como se menciona en las conclusiones, representa una práctica eficaz para el desarrollo de proyectos en este sector, garantizando el uso de las mejores prácticas y herramientas disponibles para cumplir con los objetivos establecidos.</td>  
+            <td>Se destaca la importancia de mantener actualizados los conocimientos y conceptos necesarios para el desarrollo profesional, especialmente en el área de soluciones de software. Un enfoque metodológico y colaborativo, como se menciona en las conclusiones, representa una práctica eficaz para el desarrollo de proyectos en este sector, garantizando el uso de las mejores prácticas y herramientas disponibles para cumplir con los objetivos establecidos.</td>
         </tr>  
         <tr>
             <td align = "left"> Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de tecnologías de ingeniería de software.</td>
@@ -189,6 +194,12 @@ necesario, utilizando estrategias deaprendizaje apropiadas.*
                 Durante la fase de desarrollo, se implementó un enfoque iterativo, realizando pruebas periódicas y evaluaciones del progreso del proyecto. Esto permitió identificar y corregir posibles fallos en etapas tempranas, asegurando la calidad y efectividad de la solución propuesta. Además, se promovió la retroalimentación constante entre los miembros del equipo, lo que contribuyó a un proceso de desarrollo más colaborativo y eficiente. <br>
             <br>Gamio Upiachihua, Brenda Lucía:<br>
             Nos basamos en proyectos anteriores para aplicar la mejora continua y evitar errores del pasado, con el objetivo de lograr un proyecto superior a los anteriores y ejecutarlo de manera más fluida.
+		<br><br>
+  		TB3:<br>
+		    Cancho Corilla, Angel Antonio:<br>
+		     He trabajado en el frontend utilizando Flutter y Dart, añadiendo funcionalidades que interactúan directamente con el backend. Esto mejora la experiencia del usuario y refuerza mi comprensión sobre la integración de sistemas. Reconozco que el aprendizaje continuo es fundamental para adaptarse a los cambios en la ingeniería de software, asegurando un desarrollo profesional sólido y eficaz.<br>
+		    <br>Gamio Upiachihua, Brenda Lucía:<br>
+		    He reconocido la importancia del aprendizaje continuo al mejorar la navegación y actualizar reportes en la aplicación móvil. Estas acciones optimizan la funcionalidad del proyecto y amplían mis habilidades, asegurando que permanezca competente en el campo de la ingeniería de software.<br>
             </td>
             <td>Se enfatiza la relevancia del aprendizaje continuo en el desarrollo profesional y en los proyectos de soluciones de software. La investigación constante, la adopción de herramientas actualizadas y el análisis de experiencias previas reflejan un compromiso con el aprendizaje permanente, lo cual es crucial para mejorar continuamente el desempeño y la calidad de los proyectos.</td>  
         </tr>  
