@@ -1956,10 +1956,26 @@ https://nesthublandingpage.web.app/
 </table>
 
 #### 4.2.3.5. Execution Evidence for Sprint Review
-![landing-page1](assets/landing1.png)
-![landing-page2](assets/landing2.png)
-![landing-page3](assets/landing3.png)
-![landing-page4](assets/landing4.png)
+![web-app](assets/evidences/1.jpg)
+![web-app](assets/evidences/2.jpg)
+![web-app](assets/evidences/3.jpg)
+![web-app](assets/evidences/4.jpg)
+![web-app](assets/evidences/5.jpg)
+![web-app](assets/evidences/6.jpg)
+![web-app](assets/evidences/7.jpg)
+![web-app](assets/evidences/8.jpg)
+![web-app](assets/evidences/9.jpg)
+![web-app](assets/evidences/10.jpg)
+![web-app](assets/evidences/11.jpg)
+![web-app](assets/evidences/12.jpg)
+![web-app](assets/evidences/13.jpg)
+![web-app](assets/evidences/14.jpg)
+![web-app](assets/evidences/15.jpg)
+![web-app](assets/evidences/16.jpg)
+![web-app](assets/evidences/17.jpg)
+![web-app](assets/evidences/18.jpg)
+![web-app](assets/evidences/19.jpg)
+![web-app](assets/evidences/20.jpg)
 
 #### 4.2.3.6. Services Documentation Evidence for Sprint Review
 
