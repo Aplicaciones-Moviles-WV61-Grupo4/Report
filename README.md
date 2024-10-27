@@ -1842,7 +1842,7 @@ https://nesthublandingpage.web.app/
 	<tbody>
 		<tr>
 			<td>Sprint #</td>
-			<td colspan="7">Sprint 2</td>
+			<td colspan="7">Sprint 3</td>
 		</tr>
 		<tr>
 			<td colspan="2">User Story</td>
@@ -1862,7 +1862,7 @@ https://nesthublandingpage.web.app/
 			<td>Como visitante de la landing page, quiero ver una presentación clara de los beneficios de NestHub, para entender rápidamente cómo la plataforma me puede ayudar a alquilar o encontrar espacios para eventos.</td>
 			<td>3</td>
 			<td>Brenda Gamio</td>
-			<td>In-Process</td>
+			<td>Done</td>
 		</tr>
 		<tr>
 			<td>US02</td>
@@ -1870,7 +1870,7 @@ https://nesthublandingpage.web.app/
 			<td>Como usuario, quiero ver los espacios más populares y mejor calificados destacados en la landing page, para conocer las opciones más recomendadas sin tener que buscarlas.</td>
 			<td>3</td>
 			<td>Brenda Gamio</td>
-			<td>In-Process</td>
+			<td>Done</td>
 		</tr>
 		<tr>
 			<td>US03</td>
@@ -1878,7 +1878,7 @@ https://nesthublandingpage.web.app/
 			<td>Como nuevo usuario, quiero encontrar botones de registro e inicio de sesión fácilmente accesibles en la landing page, para empezar a usar la plataforma rápidamente.</td>
 			<td>2</td>
 			<td>Miguel Carpio</td>
-			<td>In-Process</td>
+			<td>Done</td>
 		</tr>
 		<tr>
 			<td>US08</td>
@@ -1886,7 +1886,7 @@ https://nesthublandingpage.web.app/
 			<td>Como organizador de eventos, quiero poder reservar un espacio para mi evento en NestHub para garantizar su disponibilidad en la fecha deseada.</td>
 			<td>5</td>
 			<td>Brenda Gamio</td>
-			<td>In-Process</td>
+			<td>Done</td>
 		</tr>
 		<tr>
 			<td>US09</td>
@@ -1896,30 +1896,6 @@ https://nesthublandingpage.web.app/
 			<td>Brenda Gamio</td>
 			<td>In-Progress</td>
 		</tr>
-		<tr>
-			<td>EP10/US14</td>
-			<td>Creación de persistencia de la entidad Payment</td>
-			<td>Como developer, quiero implementar la persistencia de la información de la entidad Payment para asegurar que los datos de los pagos se almacenen de manera segura y estén disponibles cuando sea necesario.</td>
-			<td>2</td>
-			<td>Angel Cancho</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td>EP10/US15</td>
-			<td>Creación de persistencia de la entidad Reservations</td>
-			<td>Como developer quiero hacer persistir la información de la entidad Reservation para tener registrado.</td>
-			<td>2</td>
-			<td>Angel Cancho</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td>EP10/US16</td>
-			<td>Creación de resource de la entidad Reviews</td>
-			<td>Como developer quiero devolver un resource de la información de la entidad Reviews para realizar consultas.</td>
-			<td>2</td>
-			<td>Angel Cancho</td>
-			<td>Done</td>
-		</tr>    
     </tbody>
 </table>
 
@@ -1947,7 +1923,7 @@ https://nesthublandingpage.web.app/
   </tr>
   <tr>
     <td>Backend</td>
-    <td></td>
+    <td>main</td>
     <td>Miguel Carpio</td>
     <td>despliegue del backend</td>
     <td>26/10/2024</td>
@@ -1979,13 +1955,16 @@ https://nesthublandingpage.web.app/
 
 #### 4.2.3.6. Services Documentation Evidence for Sprint Review
 
-Durante el segundo sprint, se ha creado el landing page y se ha finalizado el desarollo del backend, sin que se haya hecho uso de web services para su funcionamiento.
+Durante el tercer sprint, se ha finalizado el desarollo del backend, utilizando heroku y aws para la base de datos.
 
 #### 4.2.3.7. Software Deployment Evidence for Sprint Review
 
-<!-- Agregar las fotos de heroku -->
-
+![backend-deploy](assets/evidences/HerokuOverview.png)
+![backend-deploy](assets/evidences/HerokuAppSwagger.png)
 https://nesthubplatform-0a5eeee622eb.herokuapp.com/
+
+![db-deploy](assets/evidences/AwsDbDeploy.png)
+![db-deploy](assets/evidences/AwsDbDeployConfig.png)
 
 #### 4.2.3.8. Team Collaboration Insights during Sprint
 
