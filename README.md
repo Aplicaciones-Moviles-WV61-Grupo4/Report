@@ -1983,17 +1983,9 @@ Durante el segundo sprint, se ha creado el landing page y se ha finalizado el de
 
 #### 4.2.3.7. Software Deployment Evidence for Sprint Review
 
-Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo del landing page se ha utilizado las siguientes herramientas:
+<!-- Agregar las fotos de heroku -->
 
-- Git: Herramienta de gestión de versiones que facilitó la colaboración en equipo durante la creación del landing page. Git es un sistema que permite a los programadores registrar y seguir los cambios realizados en el código fuente de un proyecto. Con Git, podemos crear ramas para trabajar en diferentes partes del código sin interferir con el trabajo de los demás, integrar los cambios cuando estén listos y revertirlos si es necesario.
-
-- GitFlow: Método de trabajo que contribuyó al seguimiento del progreso individual de cada miembro del equipo en la creación del landing page. GitFlow es un modelo de flujo de trabajo con ramificaciones en Git que establece una estructura estándar para organizar las diferentes versiones y características del código. Con GitFlow, podemos mantener una rama principal (master o main) con el código más estable y seguro, una rama de desarrollo (develop) con el código en proceso, y varias ramas auxiliares (feature, release, hotfix) que se utilizan para desarrollar nuevas funcionalidades, preparar lanzamientos y solucionar errores urgentes, respectivamente.
-
-- GitHub: Plataforma que facilitó la colaboración en equipo para almacenar las versiones de nuestro proyecto. GitHub es un servicio web que utiliza Git para alojar repositorios remotos y fomentar la colaboración entre programadores. Con GitHub, podemos cargar nuestro código en la nube, compartirlo con otros usuarios, recibir comentarios y sugerencias, hacer seguimiento de tareas y problemas, y acceder a una amplia gama de proyectos de código abierto.
-
-- Firebase: Servicio que nos permitió publicar nuestro landing page directamente desde nuestro repositorio de GitHub. 
-
-https://nesthublandingpage.web.app/
+https://nesthubplatform-0a5eeee622eb.herokuapp.com/
 
 #### 4.2.3.8. Team Collaboration Insights during Sprint
 
