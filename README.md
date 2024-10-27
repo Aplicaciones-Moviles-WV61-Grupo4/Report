@@ -1857,45 +1857,37 @@ https://nesthublandingpage.web.app/
 			<td>Status (To-do / In-Process / To-Review / Done)</td>
 		</tr>
 		<tr>
-			<td>US01</td>
-			<td>Visualización de Información Clave</td>
-			<td>Como visitante de la landing page, quiero ver una presentación clara de los beneficios de NestHub, para entender rápidamente cómo la plataforma me puede ayudar a alquilar o encontrar espacios para eventos.</td>
+			<td>US04</td>
+			<td>Visualización de Variedad de Locales</td>
+			<td>Como usuario que busca alquilar un espacio para eventos, quiero ver una sección destacada en la landing page que muestre la variedad de locales disponibles, para tener una idea clara de las diferentes opciones que ofrece la plataforma y encontrar el tipo de espacio que mejor se adapte a mis necesidades.</td>
+			<td>3</td>
+			<td>Angel Cancho</td>
+			<td>In-Process</td>
+		</tr>
+		<tr>
+			<td>US05</td>
+			<td>Registro de Propietario</td>
+			<td>Como propietario de un espacio para eventos, quiero poder registrarme fácilmente en NestHub para ofrecer mi espacio en alquiler y llegar a más clientes potenciales.</td>
 			<td>3</td>
 			<td>Brenda Gamio</td>
-			<td>Done</td>
+			<td>In-Process</td>
 		</tr>
 		<tr>
-			<td>US02</td>
-			<td>Explorar Espacios Populares</td>
-			<td>Como usuario, quiero ver los espacios más populares y mejor calificados destacados en la landing page, para conocer las opciones más recomendadas sin tener que buscarlas.</td>
-			<td>3</td>
-			<td>Brenda Gamio</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td>US03</td>
-			<td>Acceso Rápido a Registro e Inicio de Sesión</td>
-			<td>Como nuevo usuario, quiero encontrar botones de registro e inicio de sesión fácilmente accesibles en la landing page, para empezar a usar la plataforma rápidamente.</td>
-			<td>2</td>
-			<td>Miguel Carpio</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td>US08</td>
+			<td>US07</td>
 			<td>Reservas de Espacios</td>
 			<td>Como organizador de eventos, quiero poder reservar un espacio para mi evento en NestHub para garantizar su disponibilidad en la fecha deseada.</td>
-			<td>5</td>
+			<td>2</td>
 			<td>Brenda Gamio</td>
-			<td>Done</td>
+			<td>In-Process</td>
 		</tr>
 		<tr>
 			<td>US09</td>
-			<td>Calificaciones y Comentarios sobre Espacios</td>
-			<td>Como organizador de eventos, quiero poder ver las calificaciones y comentarios de otros usuarios sobre los espacios en NestHub para tomar una decisión informada al seleccionar un espacio para mi evento.</td>
-			<td>3</td>
-			<td>Brenda Gamio</td>
-			<td>In-Progress</td>
-		</tr>
+			<td>Comunicación Directa con Propietarios</td>
+			<td>Como organizador de eventos en NestHub, quiero poder comunicarme directamente con los propietarios de los espacios para aclarar dudas, coordinar detalles y resolver cualquier problema de manera rápida y efectiva.</td>
+			<td>5</td>
+			<td>Angel Cancho</td>
+			<td>In-Process</td>
+		</tr>   
     </tbody>
 </table>
 
@@ -1904,11 +1896,10 @@ https://nesthublandingpage.web.app/
 
 | Repository | Branch | Commit ID                                | Commit Message                            | Commit Message Body                    | Commited on (Date) |
 |------------|--------|------------------------------------------|-------------------------------------------|----------------------------------------|--------------------|
-| NestHub  | master   | 755dbc9e22aa04dc07a587f1da1c934083f4b8d2 | chore: initial commit                     | -                          | 27/09/2024         |
-| NestHub  | master   | c27e75cab5150eed99ad2b80f511eea6f4b96d60 | feat: Add auth login                | -                    | 28/09/2024         |
-| NestHub  | master   | 7ef9e3459929f2ce6b8f248a8b8079e40ef1567b | feat: add screens                | -                 | 28/09/2024         |
-| Landing-Page | main   | 2d0bba33a51687c6a9258711e869f1201fc5fe58 | Initial commit     | -        | 28/09/2024         |
-| Landing-Page | main   | 3aaae9e79383104ed724ac2c08ddb2da94e68da6 | feat: add landing      | -         | 28/09/2024         |
+| NestHubApp  | main   | dea17c403b7db350a2c39d64649995b52631addd | chore  | -                          | 25/10/2024 |
+| NestHubApp  | main   | 4d0be2afa0c44a382b46329b88074991ade91bbd | feat: added publishing steps | -                    | 25/10/2024  |
+| NestHubApp  | main   | 4d1b4b402584e62c81db02a36ea52a88d461905f | feat: added user profile screen | -                 | 25/10/2024  |
+| NestHubApp | main   | 4c506ec6ffe22441ec75a942479433bad847f8d9 | feat: added messages screen | -        | 26/10/2024 |
 
 #### 4.2.3.4. Testing Suite Evidence for Sprint Review
 
