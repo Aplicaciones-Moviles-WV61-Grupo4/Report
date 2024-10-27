@@ -1792,14 +1792,14 @@ https://nesthublandingpage.web.app/
     <tbody>
         <tr>
             <td colspan="1">Sprint #</td>
-            <td colspan="1">Sprint 2</td>
+            <td colspan="1">Sprint 3</td>
         </tr>
         <tr>
             <td colspan="2">Sprint Planning Background</td>
         </tr>
         <tr>
             <td colspan="1">Date</td>
-            <td colspan="1">19/09/2024</td>
+            <td colspan="1">20/10/2024</td>
         </tr>
         <tr>
             <td colspan="1">Location</td>
@@ -1819,12 +1819,12 @@ https://nesthublandingpage.web.app/
             <td colspan="2">Sprint Goal & User Stories</td>
         </tr>
         <tr>
-            <td colspan="1">Sprint 2 Goal</td>
-            <td colspan="1">Terminar el backend y comenzar el desarrollo movile de nuestra app.</td>
+            <td colspan="1">Sprint 3 Goal</td>
+            <td colspan="1">Deployar el backend y avanzar el desarrollo movile de nuestra app.</td>
         </tr>
         <tr>
-            <td colspan="1">Sprint 2 Velocity</td>
-            <td colspan="1">6</td>
+            <td colspan="1">Sprint 3 Velocity</td>
+            <td colspan="1">5</td>
         </tr>
         <tr>
             <td colspan="1">Sum of Story Points</td>
@@ -1832,7 +1832,7 @@ https://nesthublandingpage.web.app/
         </tr>
         <tr>
             <td colspan="1">Movile app development Progress</td>
-            <td colspan="1">Avance del 30% en el desarollo de la app móvil.</td>
+            <td colspan="1">Deployar el backend.</td>
         </tr>
     </tbody>
 </table>
