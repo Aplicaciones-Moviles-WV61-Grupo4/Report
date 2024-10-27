@@ -1828,7 +1828,7 @@ https://nesthublandingpage.web.app/
         </tr>
         <tr>
             <td colspan="1">Sum of Story Points</td>
-            <td colspan="1">19</td>
+            <td colspan="1">13</td>
         </tr>
         <tr>
             <td colspan="1">Movile app development Progress</td>
@@ -1842,7 +1842,7 @@ https://nesthublandingpage.web.app/
 	<tbody>
 		<tr>
 			<td>Sprint #</td>
-			<td colspan="7">Sprint 2</td>
+			<td colspan="7">Sprint 3</td>
 		</tr>
 		<tr>
 			<td colspan="2">User Story</td>
@@ -1857,69 +1857,37 @@ https://nesthublandingpage.web.app/
 			<td>Status (To-do / In-Process / To-Review / Done)</td>
 		</tr>
 		<tr>
-			<td>US01</td>
-			<td>Visualización de Información Clave</td>
-			<td>Como visitante de la landing page, quiero ver una presentación clara de los beneficios de NestHub, para entender rápidamente cómo la plataforma me puede ayudar a alquilar o encontrar espacios para eventos.</td>
+			<td>US04</td>
+			<td>Visualización de Variedad de Locales</td>
+			<td>Como usuario que busca alquilar un espacio para eventos, quiero ver una sección destacada en la landing page que muestre la variedad de locales disponibles, para tener una idea clara de las diferentes opciones que ofrece la plataforma y encontrar el tipo de espacio que mejor se adapte a mis necesidades.</td>
+			<td>3</td>
+			<td>Angel Cancho</td>
+			<td>In-Process</td>
+		</tr>
+		<tr>
+			<td>US05</td>
+			<td>Registro de Propietario</td>
+			<td>Como propietario de un espacio para eventos, quiero poder registrarme fácilmente en NestHub para ofrecer mi espacio en alquiler y llegar a más clientes potenciales.</td>
 			<td>3</td>
 			<td>Brenda Gamio</td>
 			<td>In-Process</td>
 		</tr>
 		<tr>
-			<td>US02</td>
-			<td>Explorar Espacios Populares</td>
-			<td>Como usuario, quiero ver los espacios más populares y mejor calificados destacados en la landing page, para conocer las opciones más recomendadas sin tener que buscarlas.</td>
-			<td>3</td>
-			<td>Brenda Gamio</td>
-			<td>In-Process</td>
-		</tr>
-		<tr>
-			<td>US03</td>
-			<td>Acceso Rápido a Registro e Inicio de Sesión</td>
-			<td>Como nuevo usuario, quiero encontrar botones de registro e inicio de sesión fácilmente accesibles en la landing page, para empezar a usar la plataforma rápidamente.</td>
-			<td>2</td>
-			<td>Miguel Carpio</td>
-			<td>In-Process</td>
-		</tr>
-		<tr>
-			<td>US08</td>
+			<td>US07</td>
 			<td>Reservas de Espacios</td>
 			<td>Como organizador de eventos, quiero poder reservar un espacio para mi evento en NestHub para garantizar su disponibilidad en la fecha deseada.</td>
-			<td>5</td>
+			<td>2</td>
 			<td>Brenda Gamio</td>
 			<td>In-Process</td>
 		</tr>
 		<tr>
 			<td>US09</td>
-			<td>Calificaciones y Comentarios sobre Espacios</td>
-			<td>Como organizador de eventos, quiero poder ver las calificaciones y comentarios de otros usuarios sobre los espacios en NestHub para tomar una decisión informada al seleccionar un espacio para mi evento.</td>
-			<td>3</td>
-			<td>Brenda Gamio</td>
-			<td>In-Progress</td>
-		</tr>
-		<tr>
-			<td>EP10/US14</td>
-			<td>Creación de persistencia de la entidad Payment</td>
-			<td>Como developer, quiero implementar la persistencia de la información de la entidad Payment para asegurar que los datos de los pagos se almacenen de manera segura y estén disponibles cuando sea necesario.</td>
-			<td>2</td>
+			<td>Comunicación Directa con Propietarios</td>
+			<td>Como organizador de eventos en NestHub, quiero poder comunicarme directamente con los propietarios de los espacios para aclarar dudas, coordinar detalles y resolver cualquier problema de manera rápida y efectiva.</td>
+			<td>5</td>
 			<td>Angel Cancho</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td>EP10/US15</td>
-			<td>Creación de persistencia de la entidad Reservations</td>
-			<td>Como developer quiero hacer persistir la información de la entidad Reservation para tener registrado.</td>
-			<td>2</td>
-			<td>Angel Cancho</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td>EP10/US16</td>
-			<td>Creación de resource de la entidad Reviews</td>
-			<td>Como developer quiero devolver un resource de la información de la entidad Reviews para realizar consultas.</td>
-			<td>2</td>
-			<td>Angel Cancho</td>
-			<td>Done</td>
-		</tr>    
+			<td>In-Process</td>
+		</tr>   
     </tbody>
 </table>
 
