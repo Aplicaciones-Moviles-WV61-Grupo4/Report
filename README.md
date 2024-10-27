@@ -1981,8 +1981,9 @@ https://nesthublandingpage.web.app/
 
 #### 4.2.3.8. Team Collaboration Insights during Sprint
 
-![swagger](assets/insight-1.png)
-![swagger](assets/insight-2.png)
+![network](assets/sprint3-insight-1.png)
+![network](assets/sprint3-insight-2.png)
+![network](assets/sprint3-insight-3.png)
 
 ## [Conclusiones](#conclusiones)
 ## [bibliografía](#bibliografía)
