@@ -1946,12 +1946,12 @@ https://nesthublandingpage.web.app/
     <th>Link</th>
   </tr>
   <tr>
-    <td>Landing-Page</td>
-    <td>main</td>
-    <td>Brenda Gamio</td>
-    <td>despliegue de la landing page</td>
-    <td>28/09/2024</td>
-    <td>https://nesthublandingpage.web.app/</td>
+    <td>Backend</td>
+    <td></td>
+    <td>Miguel Carpio</td>
+    <td>despliegue del backend</td>
+    <td>26/10/2024</td>
+    <td>https://nesthubplatform-0a5eeee622eb.herokuapp.com/</td>
   </tr>
 </table>
 
