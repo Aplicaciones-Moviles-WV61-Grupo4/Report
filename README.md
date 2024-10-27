@@ -182,6 +182,8 @@ necesario, utilizando estrategias deaprendizaje apropiadas.*
 		    He actualizado el backend del proyecto, mejorando su funcionalidad y rendimiento. Además, he agregado nuevas funcionalidades en la aplicación Flutter, optimizando la experiencia del usuario y asegurando que el frontend se comunique de manera efectiva con el backend para ofrecer un servicio más robusto y eficiente.<br><br>
 		    Gamio Upiachihua, Brenda Lucía:<br>
 		    He mejorado mis conocimientos en desarrollo de aplicaciones móviles al optimizar la navegación de la app, lo que mejora la experiencia del usuario. También he actualizado los reportes para que reflejen con precisión los datos del proyecto. Estas acciones refuerzan mis habilidades técnicas y contribuyen al avance de mi proyecto en soluciones de ingeniería de software.<br>
+            <br>Carpio Cornejo, Miguel: <br>
+            He actulizado el backend para poder así desplegarlo con sus respectivas configuras previas. Además he actualizado el reporte mostrando el avance del proyecto como grupo.
             </td>
             <td>Se destaca la importancia de mantener actualizados los conocimientos y conceptos necesarios para el desarrollo profesional, especialmente en el área de soluciones de software. Un enfoque metodológico y colaborativo, como se menciona en las conclusiones, representa una práctica eficaz para el desarrollo de proyectos en este sector, garantizando el uso de las mejores prácticas y herramientas disponibles para cumplir con los objetivos establecidos.</td>
         </tr>  
@@ -200,6 +202,8 @@ necesario, utilizando estrategias deaprendizaje apropiadas.*
 		     He trabajado en el frontend utilizando Flutter y Dart, añadiendo funcionalidades que interactúan directamente con el backend. Esto mejora la experiencia del usuario y refuerza mi comprensión sobre la integración de sistemas. Reconozco que el aprendizaje continuo es fundamental para adaptarse a los cambios en la ingeniería de software, asegurando un desarrollo profesional sólido y eficaz.<br>
 		    <br>Gamio Upiachihua, Brenda Lucía:<br>
 		    He reconocido la importancia del aprendizaje continuo al mejorar la navegación y actualizar reportes en la aplicación móvil. Estas acciones optimizan la funcionalidad del proyecto y amplían mis habilidades, asegurando que permanezca competente en el campo de la ingeniería de software.<br>
+            <br> Carpio Cornejo, Miguel: <br>
+            Consultó foros, videos, documentación para mantenerse actualizado y así implementar lo aprendido a la hora de hacer despliegues utilizando tecnlogías actuales y competentes. Reconoció la importancia de dicho aprendizaje para mejorar la calidad de software.
             </td>
             <td>Se enfatiza la relevancia del aprendizaje continuo en el desarrollo profesional y en los proyectos de soluciones de software. La investigación constante, la adopción de herramientas actualizadas y el análisis de experiencias previas reflejan un compromiso con el aprendizaje permanente, lo cual es crucial para mejorar continuamente el desempeño y la calidad de los proyectos.</td>  
         </tr>  
