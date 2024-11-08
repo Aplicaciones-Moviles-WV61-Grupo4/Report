@@ -1978,6 +1978,23 @@ https://nesthubplatform-0a5eeee622eb.herokuapp.com/
 ![network](assets/sprint3-insight-2.png)
 ![network](assets/sprint3-insight-3.png)
 
+## 4.3 Validation Interviews
+
+### 4.3.1 Registro de preguntas
+
+1. **¿Cuál fue tu primera impresión al abrir la aplicación o visitar la página de destino?**
+2. **¿Pudiste entender rápidamente el propósito de la app o la información ofrecida en la landing page?**
+3. **¿Cómo describirías tu experiencia al navegar por la app?**
+4. **¿Hubo algo que te resultó confuso o poco claro? ¿Qué mejorarías para hacerlo más intuitivo?**
+5. **¿Qué función o sección te pareció más útil o destacable? ¿Por qué?**
+6. **¿Pudiste completar las acciones que esperabas hacer de manera fácil?**
+7. **¿Te pareció que el diseño visual es atractivo y fácil de entender? ¿Qué cambios harías?**
+8. **¿Notaste algún error o problema mientras usabas la app o navegabas por la página de destino?**
+9. **¿Sientes que hay algo que falta o alguna característica que sería útil añadir?**
+10. **En una escala del 1 al 10, ¿cuánto recomendarías esta app o página de destino a un amigo? ¿Qué mejorarías para que esa puntuación fuera más alta?**
+
+### 4.3.2 Registro de entrevistas
+
 ## [Conclusiones](#conclusiones)
 ## [bibliografía](#bibliografía)
 
