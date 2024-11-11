@@ -2026,8 +2026,8 @@ Lugar de residencia: La Perla
 Entrevistador: Brenda Gamio
 
 Evidencia de la entrevista:
-![entrevista 1](assets/validation-interiew1.png)
-[Link de entrevisa]([pegar-link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EZ_cpKrgumtCo8VMVXQkjkgBIIcBZKf0ebap3ERUnCyygA?e=pOfhgJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
+![entrevista 2](assets/validation-interiew1.png)
+[Link de entrevisa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EZ_cpKrgumtCo8VMVXQkjkgBIIcBZKf0ebap3ERUnCyygA?e=pOfhgJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 **Entrevista 3:**
@@ -2043,8 +2043,16 @@ Lugar de residencia: Breña
 Entrevistador: Angel Cancho
 
 Evidencia de la entrevista:
-![entrevista 1](assets/validation-interiew3.png)
-[Link de entrevisa]([pegar-link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EYbgfzhhBTxCrRedG8leDswBY-lB-pKxIm2KRXXNnXtNFg?e=nY12En&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
+
+![entrevista 3](assets/evidences/interview.png)
+
+[Link de entrevisa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EYbgfzhhBTxCrRedG8leDswBY-lB-pKxIm2KRXXNnXtNFg?e=xh6HOq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+## 4.3 Video About the team
+
+![entrevista 3](assets/evidences/video_team.png)
+
+[Link del video](https://upcedupe-my.sharepoint.com/personal/u201721995_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201721995%5Fupc%5Fedu%5Fpe%2FDocuments%2F2024%2D11%2D10%2D20%2D59%2D14%5FgKqBdlHC%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6670c700%2D2cf9%2D4380%2D8060%2D1bf3dff1283e)
 
 ## [Conclusiones](#conclusiones)
 ## [bibliografía](#bibliografía)
