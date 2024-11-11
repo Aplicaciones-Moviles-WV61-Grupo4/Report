@@ -2027,7 +2027,24 @@ Entrevistador: Brenda Gamio
 
 Evidencia de la entrevista:
 ![entrevista 1](assets/validation-interiew1.png)
-[Link de entrevisa](pegar-link)
+[Link de entrevisa]([pegar-link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EZ_cpKrgumtCo8VMVXQkjkgBIIcBZKf0ebap3ERUnCyygA?e=pOfhgJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
+
+
+**Entrevista 3:**
+
+Nombre: Bryan Alexander
+
+Apellidos: Navarro Remon
+
+Edad: 23
+
+Lugar de residencia: Breña
+
+Entrevistador: Angel Cancho
+
+Evidencia de la entrevista:
+![entrevista 1](assets/validation-interiew3.png)
+[Link de entrevisa]([pegar-link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EYbgfzhhBTxCrRedG8leDswBY-lB-pKxIm2KRXXNnXtNFg?e=nY12En&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
 
 ## [Conclusiones](#conclusiones)
 ## [bibliografía](#bibliografía)
