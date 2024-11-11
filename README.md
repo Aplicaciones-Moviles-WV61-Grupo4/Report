@@ -1995,6 +1995,22 @@ https://nesthubplatform-0a5eeee622eb.herokuapp.com/
 
 ### 4.3.2 Registro de entrevistas
 
+**Entrevista 2:**
+
+Nombre: Andrés Julián
+
+Apellidos: Collazos Castro
+
+Edad: 19
+
+Lugar de residencia: La Perla
+
+Entrevistador: Brenda Gamio
+
+Evidencia de la entrevista:
+![entrevista 1](assets/validation-interiew1.png)
+[Link de entrevisa](pegar-link)
+
 ## [Conclusiones](#conclusiones)
 ## [bibliografía](#bibliografía)
 
