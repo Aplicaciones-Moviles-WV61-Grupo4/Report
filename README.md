@@ -2414,15 +2414,71 @@ Evidencia de la entrevista:
 [Link del video](https://upcedupe-my.sharepoint.com/personal/u201721995_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201721995%5Fupc%5Fedu%5Fpe%2FDocuments%2F2024%2D11%2D10%2D20%2D59%2D14%5FgKqBdlHC%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6670c700%2D2cf9%2D4380%2D8060%2D1bf3dff1283e)
 
 ## [Conclusiones](#conclusiones)
+### [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 
-## [bibliografía](#bibliografía)
+#### Conclusiones
+1. **Solución innovadora:** NestHub ofrece una plataforma centralizada que aborda de manera efectiva las dificultades para encontrar y reservar espacios para eventos, simplificando el proceso tanto para organizadores como para propietarios.
+2. **Conveniencia y accesibilidad:** El enfoque en una aplicación móvil proporciona comodidad a los usuarios al permitir acceso inmediato a la plataforma desde cualquier lugar.
+3. **Segmentación clara:** La diferenciación de usuarios entre propietarios y organizadores permite personalizar las funcionalidades y satisfacer necesidades específicas de cada grupo.
+4. **Potencial de mercado:** La investigación muestra que existe una demanda significativa para una solución como NestHub, con espacio para crecer y expandirse a nuevos mercados o incluir funcionalidades adicionales.
+5. **Competitividad:** NestHub se posiciona como una solución sólida frente a plataformas similares como Airbnb y Vrbo, destacándose por su enfoque especializado en eventos y herramientas avanzadas para la gestión de espacios.
 
-Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más. (s. f.). Airbnb. https://www.airbnb.com.pe/
+#### Recomendaciones
+1. **Fortalecer la experiencia del usuario:**
+   - Continuar mejorando la interfaz de usuario para garantizar una experiencia más intuitiva y amigable.
+   - Incorporar tutoriales interactivos para nuevos usuarios que faciliten el uso de la plataforma.
+2. **Ampliar funcionalidades:**
+   - Desarrollar herramientas de análisis para propietarios que permitan comprender mejor las tendencias del mercado.
+   - Añadir opciones de personalización para eventos, como servicios adicionales (catering, decoración, entre otros).
+3. **Estrategias de marketing:**
+   - Fomentar alianzas estratégicas con proveedores de servicios de eventos para enriquecer la oferta en la plataforma.
+   - Implementar campañas publicitarias en redes sociales orientadas a incrementar la base de usuarios tanto en segmentos B2C como B2B.
+4. **Seguridad y confianza:**
+   - Reforzar la seguridad en las transacciones y la validación de perfiles de usuarios y propietarios para aumentar la confiabilidad.
+   - Crear un sistema robusto de calificaciones y reseñas que promueva la transparencia.
+5. **Exploración de mercados internacionales:**
+   - Investigar las posibilidades de expansión de NestHub a mercados internacionales con necesidades similares.
+   - Adaptar la plataforma a distintos idiomas y normativas locales.
 
-Vrbo. (s. f.). https://www.vrbo.com/es-es/
+Estas conclusiones y recomendaciones buscan potenciar el éxito de NestHub como una plataforma líder en el sector de gestión de espacios para eventos.
 
-Booking.com: The largest selection of hotels, homes, and vacation rentals. (s. f.). Booking.com. https://www.booking.com/
+## [Glosario](#glosario)
+- **Aplicación móvil:** Software diseñado para dispositivos móviles que permite a los usuarios conectar organizadores de eventos con propietarios de espacios de forma conveniente y accesible.
+- **Búsqueda avanzada:** Herramienta de la plataforma que permite filtrar espacios para eventos según criterios como capacidad, ubicación o servicios específicos.
+- **Calificaciones y comentarios:** Opiniones y puntuaciones proporcionadas por los usuarios para evaluar la calidad de los espacios y servicios ofrecidos en la plataforma.
+- **Fidelización:** Estrategias implementadas para aumentar la lealtad de los usuarios, como programas de recompensas o descuentos para clientes frecuentes.
+- **Interfaz de usuario (UI):** Diseño visual e interactivo de la aplicación que facilita la navegación y experiencia del usuario.
+- **Marketing dirigido:** Estrategias publicitarias enfocadas en captar al público objetivo mediante redes sociales, influencers y campañas específicas.
+- **Propietarios de espacios:** Personas o empresas que ofrecen sus propiedades en alquiler para eventos a través de la plataforma.
+- **Reserva en línea:** Función que permite a los organizadores de eventos seleccionar, apartar y pagar por espacios directamente desde la plataforma.
+- **Seguridad en transacciones:** Medidas implementadas para garantizar que los pagos realizados en la plataforma sean seguros y confiables.
+- **UX (Experiencia del Usuario):** La percepción que tienen los usuarios al interactuar con la plataforma, incluyendo facilidad de uso y satisfacción general.
+- **Cliente objetivo:** Segmento específico de usuarios (organizadores de eventos y propietarios de espacios) al que se dirige NestHub con su oferta de valor.
+- **Eventos:** Reuniones sociales, corporativas o especiales que requieren espacios adecuados y personalizados para su realización.
+- **Monetización:** Estrategias utilizadas por NestHub para generar ingresos, como planes premium para propietarios o servicios adicionales dentro de la plataforma.
+- **Segmentación de usuarios:** Clasificación de los usuarios en grupos con necesidades similares para personalizar las funcionalidades y servicios de la plataforma.
+- **Transparencia:** Principio clave que garantiza claridad en las condiciones de uso, precios y términos de los servicios ofrecidos a través de NestHub.
 
-Instituto Nacional de Estadística e Informática - INEI. (s. f.). Plataforma del Estado Peruano. https://www.gob.pe/inei/
+## [Bibliografía](#bibliografía)
+
+1. Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más. (s. f.). Airbnb. [https://www.airbnb.com.pe/](https://www.airbnb.com.pe/)
+
+2. Vrbo. (s. f.). [https://www.vrbo.com/es-es/](https://www.vrbo.com/es-es/)
+
+3. Booking.com: The largest selection of hotels, homes, and vacation rentals. (s. f.). Booking.com. [https://www.booking.com/](https://www.booking.com/)
+
+4. Instituto Nacional de Estadística e Informática - INEI. (s. f.). Plataforma del Estado Peruano. [https://www.gob.pe/inei/](https://www.gob.pe/inei/)
+
+5. Google Maps. (s. f.). Google. [https://www.google.com/maps](https://www.google.com/maps)
+
+6. Eventbrite | Gestión de eventos y entradas. (s. f.). Eventbrite. [https://www.eventbrite.com/](https://www.eventbrite.com/)
+
+7. WeWork | Espacios de trabajo flexibles y oficinas compartidas. (s. f.). WeWork. [https://www.wework.com/](https://www.wework.com/)
+
+8. Perú Info | Portal oficial de turismo en Perú. (s. f.). Promperú. [https://www.peru.travel/](https://www.peru.travel/)
+
+9. Statista | Estadísticas sobre la industria de eventos global. (s. f.). Statista. [https://www.statista.com/](https://www.statista.com/)
+
+10. HubSpot Blog | Estrategias de marketing digital. (s. f.). HubSpot. [https://blog.hubspot.com/](https://blog.hubspot.com/)
 
 ## [Anexos](#anexos)
