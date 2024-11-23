@@ -233,6 +233,7 @@
   - [4.3 Validation Interviews](#43-validation-interviews)
     - [4.3.1 Registro de preguntas](#431-registro-de-preguntas)
     - [4.3.2 Registro de entrevistas](#432-registro-de-entrevistas)
+    - [4.3.3 Evaluaciones según heurísticas](#433-evaluaciones-según-heurísticas)
   - [4.3 Video About the team](#43-video-about-the-team)
   - [Conclusiones](#conclusiones-1)
   - [bibliografía](#bibliografía-1)
@@ -263,7 +264,10 @@
 
 ### [Conclusiones](#conclusiones)
 
-#### [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+- [Video App Validation](#video-app-validation)
+- [Video About the product](#video-about-the-product)
+- [Video About the team](#video-about-the-team)
 
 ### [Glosario](#glosario)
 
@@ -307,12 +311,10 @@ necesario, utilizando estrategias deaprendizaje apropiadas.*
             <br>Carpio Cornejo, Miguel: <br>
             He actulizado el backend para poder así desplegarlo con sus respectivas configuras previas. Además he actualizado el reporte mostrando el avance del proyecto como grupo.<br>
             <br>TF:<br>
-	  	    Cancho Corilla, Angel Antonio:<br>
-		    Actualicé mis conocimientos en integración de APIs y optimización de rendimiento, aplicando mejores prácticas para garantizar la sincronización entre el backend y la aplicación, mejorando la eficiencia en el consumo de datos y la experiencia del usuario.
+	  	    Cancho Corilla, Angel Antonio:
             <br>
-            <br>Carpio Cornejo, Miguel:<br> Se llevaron a cabo sesiones de brainstorming y análisis crítico para identificar soluciones innovadoras a la problemática planteada. Estas actividades permitieron no solo la generación de ideas creativas, sino también una planificación estratégica que define los pasos a seguir. Asimismo, se realizaron actualizaciones en el backend del proyecto, ajustándolo para su despliegue con configuraciones óptimas. Estas acciones reflejan un enfoque metódico y colaborativo, esencial para garantizar la efectividad del proyecto. <br><br>
+            <br>Carpio Cornejo, Miguel: <br><br>
             Gamio Upiachihua, Brenda Lucía:<br> 
-		Me actualicé en diseño centrado en el usuario y evaluación heurística, mejorando la UI/UX de la aplicación. Además, dirigí los sprints del proyecto, fortaleciendo mis habilidades en gestión ágil de proyectos y optimización de la usabilidad.
             </td>
             <td>Se destaca la importancia de mantener actualizados los conocimientos y conceptos necesarios para el desarrollo profesional, especialmente en el área de soluciones de software. Un enfoque metodológico y colaborativo, como se menciona en las conclusiones, representa una práctica eficaz para el desarrollo de proyectos en este sector, garantizando el uso de las mejores prácticas y herramientas disponibles para cumplir con los objetivos establecidos.</td>           
         </tr>  
@@ -334,12 +336,10 @@ necesario, utilizando estrategias deaprendizaje apropiadas.*
             <br> Carpio Cornejo, Miguel: <br>
             Consultó foros, videos, documentación para mantenerse actualizado y así implementar lo aprendido a la hora de hacer despliegues utilizando tecnlogías actuales y competentes. Reconoció la importancia de dicho aprendizaje para mejorar la calidad de software.<br>
             <br>TF:<br>
-	  	    Cancho Corilla, Angel Antonio:<br>
-		    Reconozco la importancia del aprendizaje continuo para mejorar mis habilidades en integración de APIs y optimización de rendimiento. Esto me permitió aplicar soluciones eficaces en el proyecto, actualizando constantemente mis conocimientos en tecnologías móviles y asegurando que la aplicación fuera eficiente y funcional.
+	  	    Cancho Corilla, Angel Antonio:
             <br>
-            <br>Carpio Cornejo, Miguel:<br>Durante el desarrollo del proyecto, se implementó un enfoque iterativo que incluyó pruebas constantes y retroalimentación del equipo. Esta dinámica no solo ayudó a mejorar la calidad del software, sino que también potenció el aprendizaje continuo. Además, se invirtió tiempo en consultar foros, videos y documentación técnica, integrando conocimientos actuales en las implementaciones del proyecto. Este proceso destaca la importancia del aprendizaje constante como un pilar en la mejora de las competencias profesionales y en la entrega de soluciones efectivas en ingeniería de software. <br><br>
+            <br>Carpio Cornejo, Miguel: <br><br>
             Gamio Upiachihua, Brenda Lucía:<br> 
-		    El aprendizaje constante sobre UI/UX y evaluación heurística me permitió mejorar la experiencia de usuario en la aplicación. Además, a través de la gestión ágil de proyectos, pude aplicar lo aprendido en metodologías como Scrum, mejorando tanto mis habilidades técnicas como mi capacidad para dirigir equipos de trabajo.
             </td>
             <td>Se enfatiza la relevancia del aprendizaje continuo en el desarrollo profesional y en los proyectos de soluciones de software. La investigación constante, la adopción de herramientas actualizadas y el análisis de experiencias previas reflejan un compromiso con el aprendizaje permanente, lo cual es crucial para mejorar continuamente el desempeño y la calidad de los proyectos.</td>  
         </tr>  
@@ -2318,7 +2318,20 @@ https://nesthubplatform-0a5eeee622eb.herokuapp.com/
 
 ![web-app](assets/evidences/1.jpg)
 ![web-app](assets/evidences/2.jpg)
-![web-app](assets/evidences/4.jpg)
+![web-app](assets/sprint%204%20-%20evidences/fav1.png)
+![web-app](assets/sprint%204%20-%20evidences/fav2.png)
+![web-app](assets/sprint%204%20-%20evidences/info.png)
+![web-app](assets/sprint%204%20-%20evidences/info2.png)
+![web-app](assets/sprint%204%20-%20evidences/info3.png)
+![web-app](assets/sprint%204%20-%20evidences/payments.png)
+![web-app](assets/sprint%204%20-%20evidences/card-input1.png)
+![web-app](assets/sprint%204%20-%20evidences/card-input2.png)
+![web-app](assets/sprint%204%20-%20evidences/security1.png)
+![web-app](assets/sprint%204%20-%20evidences/security2.png)
+![web-app](assets/sprint%204%20-%20evidences/accessibility.png)
+![web-app](assets/sprint%204%20-%20evidences/shared%20data%20settings.png)
+![web-app](assets/sprint%204%20-%20evidences/shared%20data.png)
+
 
 #### 4.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -2408,6 +2421,79 @@ Evidencia de la entrevista:
 
 [Link de entrevisa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EYbgfzhhBTxCrRedG8leDswBY-lB-pKxIm2KRXXNnXtNFg?e=xh6HOq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+### 4.3.3 Evaluaciones según heurísticas
+
+**Tareas a evaluar**<br>
+1.	Mobile Application<br>
+- Inicio de sesión de usuario existente<br>
+- Acciones de retroceso dentro de la aplicación<br>
+- Opciones de cancelar o salir del registro de espcaios<br>
+- Elementos de la interfaz de usuario consistentes<br>
+- Pestañas de navegación dentro de la aplicación<br>
+- Botones interactivo y de uso intuitivo<br>
+- Búsqueda por filtros<br>
+- Navegación y orientación dentro de la aplicación<br>
+
+**No están incluidas en esta versión de la evaluación las siguientes tareas**<br>
+- Otro inicio de sesión aparte desde registrarse<br>
+- Política de privacidad y condiciones de uso<br><br>
+
+**Escala de severidad:**
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo para la siguiente entrega. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+<br>
+
+**Mobile application**
+<br>
+Tabla resumen:
+
+| # | Problema | Escala de severidad | Heurística/Principio violada |
+|---|----------|---------------------|------------------------------|
+| 1 | Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario. | 3 | Usability - Flexibilidad y eficiencia de uso / Usability – Prevenir errores |
+| 2 | La página de Mensajes no muestra funcionalidad para poder contactar al propietario de un establecimiento. | 4 | Usability - Visibilidad del estado del sistema |
+| 3 | Incapacidad para modificar o eliminar la información de los espacios previamente registrados. | 4 | Usability-Prevención de errores |
+
+**PROBLEMA #01**: Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario.<br>
+Escala de severidad: 03<br>
+Principio violdado: <br>
+Usability - Flexibilidad y eficiencia de uso<br>
+Usability - Prevenir errores<br>
+
+Descripción del problema: El problema identificado se refiere a la falta de funcionalidades disponibles en la aplicación que permitan a los usuarios modificar o personalizar sus perfiles de usuario, así como la eliminación de sus cuentas. Esta carencia afecta la flexibilidad y la eficiencia de uso, ya que los usuarios no tienen la capacidad de gestionar sus perfiles de manera efectiva y no cuentan con opciones para corregir errores o deshacer acciones. Además, la aplicación no cumple con la heurística de "Flexibilidad y eficiencia de uso", ya que no proporciona estas funciones esenciales.<br>
+
+<img src="assets/heuristics/perfil.png">
+<br>
+<br>
+
+**Recomendación:** 
+Para resolver el problema, se sugiere integrar de manera eficiente y accesible estas características clave en la interfaz. Además, es fundamental implementar salvaguardias de datos y confirmaciones al eliminar cuentas, con el objetivo de prevenir eliminaciones accidentales.<br>
+
+**PROBLEMA #02**: La página de Mensajes no muestra funcionalidad para poder contactar al propietario de un establecimiento.<br>
+Escala de severidad: 03<br>
+Principio violado: Information Arquitecture <br><br>
+Descripción del problema: El problema identificado radica en la imposibilidad de encontrar información precisa sobre las funcionalidades ofrecidas por cada plan de suscripción en el aplicativo. Esto se debe a una deficiente organización y presentación de la información, lo que dificulta que los usuarios accedan de manera efectiva a los detalles de cada plan y tomen decisiones informadas. La falta de claridad en la arquitectura de la información obstaculiza la navegación de los usuarios y puede resultar en una experiencia frustrante y confusa al intentar seleccionar el plan de suscripción adecuado.<br>
+
+<img src="assets/heuristics/messages.png">
+<br>
+<br>
+
+**Recomendación:** 
+Asegurarse de que el formulario de contacto funcione correctamente y que los usuarios reciban retroalimentación después de enviar su mensaje, como un mensaje de confirmación o un redireccionamiento a una página de agradecimiento.<br>
+
+**PROBLEMA #03**: Incapacidad para modificar o eliminar la información de los espacios previamente registrados.<br>
+Escala de severidad: 04<br>
+Principio violado: Usability – Prevención de errores <br><br>
+Descripción del problema: El problema identificado se refiere a la incapacidad de modificar o eliminar la información de los espacios previamente registrados en la aplicación. Los usuarios no tienen la opción de corregir errores, actualizar datos obsoletos o eliminar registros no deseados, lo que puede resultar en información inexacta y desactualizada en la aplicación. Esta limitación afecta la usabilidad y la capacidad de los usuarios para mantener registros precisos y completos de los espacios ya registrados.<br>
+
+
+**Recomendación:** 
+Implementa una funcionalidad que permita a los usuarios editar la información de los espacios registrados. Esto les permitirá corregir errores, actualizar datos obsoletos y mantener registros precisos.<br>
+
 ## 4.3 Video About the team
 
 ![entrevista 3](assets/evidences/video_team.png)
@@ -2416,72 +2502,14 @@ Evidencia de la entrevista:
 
 ## [Conclusiones](#conclusiones)
 
-### [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+## [bibliografía](#bibliografía)
 
-#### Conclusiones
-1. **Solución innovadora:** NestHub ofrece una plataforma centralizada que aborda de manera efectiva las dificultades para encontrar y reservar espacios para eventos, simplificando el proceso tanto para organizadores como para propietarios.
-2. **Conveniencia y accesibilidad:** El enfoque en una aplicación móvil proporciona comodidad a los usuarios al permitir acceso inmediato a la plataforma desde cualquier lugar.
-3. **Segmentación clara:** La diferenciación de usuarios entre propietarios y organizadores permite personalizar las funcionalidades y satisfacer necesidades específicas de cada grupo.
-4. **Potencial de mercado:** La investigación muestra que existe una demanda significativa para una solución como NestHub, con espacio para crecer y expandirse a nuevos mercados o incluir funcionalidades adicionales.
-5. **Competitividad:** NestHub se posiciona como una solución sólida frente a plataformas similares como Airbnb y Vrbo, destacándose por su enfoque especializado en eventos y herramientas avanzadas para la gestión de espacios.
+Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más. (s. f.). Airbnb. https://www.airbnb.com.pe/
 
-#### Recomendaciones
-1. **Fortalecer la experiencia del usuario:**
-   - Continuar mejorando la interfaz de usuario para garantizar una experiencia más intuitiva y amigable.
-   - Incorporar tutoriales interactivos para nuevos usuarios que faciliten el uso de la plataforma.
-2. **Ampliar funcionalidades:**
-   - Desarrollar herramientas de análisis para propietarios que permitan comprender mejor las tendencias del mercado.
-   - Añadir opciones de personalización para eventos, como servicios adicionales (catering, decoración, entre otros).
-3. **Estrategias de marketing:**
-   - Fomentar alianzas estratégicas con proveedores de servicios de eventos para enriquecer la oferta en la plataforma.
-   - Implementar campañas publicitarias en redes sociales orientadas a incrementar la base de usuarios tanto en segmentos B2C como B2B.
-4. **Seguridad y confianza:**
-   - Reforzar la seguridad en las transacciones y la validación de perfiles de usuarios y propietarios para aumentar la confiabilidad.
-   - Crear un sistema robusto de calificaciones y reseñas que promueva la transparencia.
-5. **Exploración de mercados internacionales:**
-   - Investigar las posibilidades de expansión de NestHub a mercados internacionales con necesidades similares.
-   - Adaptar la plataforma a distintos idiomas y normativas locales.
+Vrbo. (s. f.). https://www.vrbo.com/es-es/
 
-Estas conclusiones y recomendaciones buscan potenciar el éxito de NestHub como una plataforma líder en el sector de gestión de espacios para eventos.
+Booking.com: The largest selection of hotels, homes, and vacation rentals. (s. f.). Booking.com. https://www.booking.com/
 
-## [Glosario](#glosario)
-
-- **Aplicación móvil:** Software diseñado para dispositivos móviles que permite a los usuarios conectar organizadores de eventos con propietarios de espacios de forma conveniente y accesible.
-- **Búsqueda avanzada:** Herramienta de la plataforma que permite filtrar espacios para eventos según criterios como capacidad, ubicación o servicios específicos.
-- **Calificaciones y comentarios:** Opiniones y puntuaciones proporcionadas por los usuarios para evaluar la calidad de los espacios y servicios ofrecidos en la plataforma.
-- **Fidelización:** Estrategias implementadas para aumentar la lealtad de los usuarios, como programas de recompensas o descuentos para clientes frecuentes.
-- **Interfaz de usuario (UI):** Diseño visual e interactivo de la aplicación que facilita la navegación y experiencia del usuario.
-- **Marketing dirigido:** Estrategias publicitarias enfocadas en captar al público objetivo mediante redes sociales, influencers y campañas específicas.
-- **Propietarios de espacios:** Personas o empresas que ofrecen sus propiedades en alquiler para eventos a través de la plataforma.
-- **Reserva en línea:** Función que permite a los organizadores de eventos seleccionar, apartar y pagar por espacios directamente desde la plataforma.
-- **Seguridad en transacciones:** Medidas implementadas para garantizar que los pagos realizados en la plataforma sean seguros y confiables.
-- **UX (Experiencia del Usuario):** La percepción que tienen los usuarios al interactuar con la plataforma, incluyendo facilidad de uso y satisfacción general.
-- **Cliente objetivo:** Segmento específico de usuarios (organizadores de eventos y propietarios de espacios) al que se dirige NestHub con su oferta de valor.
-- **Eventos:** Reuniones sociales, corporativas o especiales que requieren espacios adecuados y personalizados para su realización.
-- **Monetización:** Estrategias utilizadas por NestHub para generar ingresos, como planes premium para propietarios o servicios adicionales dentro de la plataforma.
-- **Segmentación de usuarios:** Clasificación de los usuarios en grupos con necesidades similares para personalizar las funcionalidades y servicios de la plataforma.
-- **Transparencia:** Principio clave que garantiza claridad en las condiciones de uso, precios y términos de los servicios ofrecidos a través de NestHub.
-
-## [Bibliografía](#bibliografía)
-
-1. Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más. (s. f.). Airbnb. [https://www.airbnb.com.pe/](https://www.airbnb.com.pe/)
-
-2. Vrbo. (s. f.). [https://www.vrbo.com/es-es/](https://www.vrbo.com/es-es/)
-
-3. Booking.com: The largest selection of hotels, homes, and vacation rentals. (s. f.). Booking.com. [https://www.booking.com/](https://www.booking.com/)
-
-4. Instituto Nacional de Estadística e Informática - INEI. (s. f.). Plataforma del Estado Peruano. [https://www.gob.pe/inei/](https://www.gob.pe/inei/)
-
-5. Google Maps. (s. f.). Google. [https://www.google.com/maps](https://www.google.com/maps)
-
-6. Eventbrite | Gestión de eventos y entradas. (s. f.). Eventbrite. [https://www.eventbrite.com/](https://www.eventbrite.com/)
-
-7. WeWork | Espacios de trabajo flexibles y oficinas compartidas. (s. f.). WeWork. [https://www.wework.com/](https://www.wework.com/)
-
-8. Perú Info | Portal oficial de turismo en Perú. (s. f.). Promperú. [https://www.peru.travel/](https://www.peru.travel/)
-
-9. Statista | Estadísticas sobre la industria de eventos global. (s. f.). Statista. [https://www.statista.com/](https://www.statista.com/)
-
-10. HubSpot Blog | Estrategias de marketing digital. (s. f.). HubSpot. [https://blog.hubspot.com/](https://blog.hubspot.com/)
+Instituto Nacional de Estadística e Informática - INEI. (s. f.). Plataforma del Estado Peruano. https://www.gob.pe/inei/
 
 ## [Anexos](#anexos)
