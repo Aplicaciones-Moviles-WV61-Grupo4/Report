@@ -2287,10 +2287,10 @@ https://nesthubplatform-0a5eeee622eb.herokuapp.com/
 
 | Repository | Branch | Commit ID                                | Commit Message                  | Commit Message Body | Commited on (Date) |
 | ---------- | ------ | ---------------------------------------- | ------------------------------- | ------------------- | ------------------ |
-| NestHubApp | main   | dea17c403b7db350a2c39d64649995b52631addd | chore                           | -                   | 25/10/2024         |
-| NestHubApp | main   | 4d0be2afa0c44a382b46329b88074991ade91bbd | feat: added publishing steps    | -                   | 25/10/2024         |
-| NestHubApp | main   | 4d1b4b402584e62c81db02a36ea52a88d461905f | feat: added user profile screen | -                   | 25/10/2024         |
-| NestHubApp | main   | 4c506ec6ffe22441ec75a942479433bad847f8d9 | feat: added messages screen     | -                   | 26/10/2024         |
+| NestHubApp | main   | 2b150c13f837daac5471a40edccf57c4a8cf0117 | feat: updated favorite local             | -                   | 22/11/2024         |
+| NestHubApp | main   | 4ae1e18c672fdaec0373ae6906630b95cdf862ef | feat: implement login screen with validation and user authentication | -                   | 21/11/2024         |
+| NestHubApp | master   | 4d1b4b402584e62c81db02a36ea52a88d461905f | Add reservation page | -                   | 23/11/2024         |
+| NestHubApp | master   | 1f06edbac302d6efd9c070ac32ebdb7d148fa346 | feat: added personal data settings     | -                   | 23/11/2024         |
 
 #### 4.2.4.4. Testing Suite Evidence for Sprint Review
 
@@ -2317,28 +2317,11 @@ https://nesthubplatform-0a5eeee622eb.herokuapp.com/
 
 ![web-app](assets/evidences/1.jpg)
 ![web-app](assets/evidences/2.jpg)
-![web-app](assets/evidences/3.jpg)
 ![web-app](assets/evidences/4.jpg)
-![web-app](assets/evidences/5.jpg)
-![web-app](assets/evidences/6.jpg)
-![web-app](assets/evidences/7.jpg)
-![web-app](assets/evidences/8.jpg)
-![web-app](assets/evidences/9.jpg)
-![web-app](assets/evidences/10.jpg)
-![web-app](assets/evidences/11.jpg)
-![web-app](assets/evidences/12.jpg)
-![web-app](assets/evidences/13.jpg)
-![web-app](assets/evidences/14.jpg)
-![web-app](assets/evidences/15.jpg)
-![web-app](assets/evidences/16.jpg)
-![web-app](assets/evidences/17.jpg)
-![web-app](assets/evidences/18.jpg)
-![web-app](assets/evidences/19.jpg)
-![web-app](assets/evidences/20.jpg)
 
 #### 4.2.4.6. Services Documentation Evidence for Sprint Review
 
-Durante el tercer sprint, se ha finalizado el desarollo del backend, utilizando heroku y aws para la base de datos.
+Durante el cuarto sprint, se ha realizado el desarollo del aplicativo móvil, utilizando la api y nuestra base de datos.
 
 #### 4.2.4.7. Software Deployment Evidence for Sprint Review
 
@@ -2351,9 +2334,9 @@ https://nesthubplatform-0a5eeee622eb.herokuapp.com/
 
 #### 4.2.4.8. Team Collaboration Insights during Sprint
 
-![network](assets/sprint3-insight-1.png)
-![network](assets/sprint3-insight-2.png)
-![network](assets/sprint3-insight-3.png)
+![network](assets/sprint4-insight-1.png)
+![network](assets/sprint4-insight-2.png)
+![network](assets/sprint4-insight-3.png)
 
 ## 4.3 Validation Interviews
 
