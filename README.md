@@ -307,10 +307,12 @@ necesario, utilizando estrategias deaprendizaje apropiadas.*
             <br>Carpio Cornejo, Miguel: <br>
             He actulizado el backend para poder así desplegarlo con sus respectivas configuras previas. Además he actualizado el reporte mostrando el avance del proyecto como grupo.<br>
             <br>TF:<br>
-	  	    Cancho Corilla, Angel Antonio:
+	  	    Cancho Corilla, Angel Antonio:<br>
+		    Actualicé mis conocimientos en integración de APIs y optimización de rendimiento, aplicando mejores prácticas para garantizar la sincronización entre el backend y la aplicación, mejorando la eficiencia en el consumo de datos y la experiencia del usuario.
             <br>
             <br>Carpio Cornejo, Miguel:<br> Se llevaron a cabo sesiones de brainstorming y análisis crítico para identificar soluciones innovadoras a la problemática planteada. Estas actividades permitieron no solo la generación de ideas creativas, sino también una planificación estratégica que define los pasos a seguir. Asimismo, se realizaron actualizaciones en el backend del proyecto, ajustándolo para su despliegue con configuraciones óptimas. Estas acciones reflejan un enfoque metódico y colaborativo, esencial para garantizar la efectividad del proyecto. <br><br>
             Gamio Upiachihua, Brenda Lucía:<br> 
+		Me actualicé en diseño centrado en el usuario y evaluación heurística, mejorando la UI/UX de la aplicación. Además, dirigí los sprints del proyecto, fortaleciendo mis habilidades en gestión ágil de proyectos y optimización de la usabilidad.
             </td>
             <td>Se destaca la importancia de mantener actualizados los conocimientos y conceptos necesarios para el desarrollo profesional, especialmente en el área de soluciones de software. Un enfoque metodológico y colaborativo, como se menciona en las conclusiones, representa una práctica eficaz para el desarrollo de proyectos en este sector, garantizando el uso de las mejores prácticas y herramientas disponibles para cumplir con los objetivos establecidos.</td>           
         </tr>  
@@ -332,10 +334,12 @@ necesario, utilizando estrategias deaprendizaje apropiadas.*
             <br> Carpio Cornejo, Miguel: <br>
             Consultó foros, videos, documentación para mantenerse actualizado y así implementar lo aprendido a la hora de hacer despliegues utilizando tecnlogías actuales y competentes. Reconoció la importancia de dicho aprendizaje para mejorar la calidad de software.<br>
             <br>TF:<br>
-	  	    Cancho Corilla, Angel Antonio:
+	  	    Cancho Corilla, Angel Antonio:<br>
+		    Reconozco la importancia del aprendizaje continuo para mejorar mis habilidades en integración de APIs y optimización de rendimiento. Esto me permitió aplicar soluciones eficaces en el proyecto, actualizando constantemente mis conocimientos en tecnologías móviles y asegurando que la aplicación fuera eficiente y funcional.
             <br>
             <br>Carpio Cornejo, Miguel:<br>Durante el desarrollo del proyecto, se implementó un enfoque iterativo que incluyó pruebas constantes y retroalimentación del equipo. Esta dinámica no solo ayudó a mejorar la calidad del software, sino que también potenció el aprendizaje continuo. Además, se invirtió tiempo en consultar foros, videos y documentación técnica, integrando conocimientos actuales en las implementaciones del proyecto. Este proceso destaca la importancia del aprendizaje constante como un pilar en la mejora de las competencias profesionales y en la entrega de soluciones efectivas en ingeniería de software. <br><br>
             Gamio Upiachihua, Brenda Lucía:<br> 
+		    El aprendizaje constante sobre UI/UX y evaluación heurística me permitió mejorar la experiencia de usuario en la aplicación. Además, a través de la gestión ágil de proyectos, pude aplicar lo aprendido en metodologías como Scrum, mejorando tanto mis habilidades técnicas como mi capacidad para dirigir equipos de trabajo.
             </td>
             <td>Se enfatiza la relevancia del aprendizaje continuo en el desarrollo profesional y en los proyectos de soluciones de software. La investigación constante, la adopción de herramientas actualizadas y el análisis de experiencias previas reflejan un compromiso con el aprendizaje permanente, lo cual es crucial para mejorar continuamente el desempeño y la calidad de los proyectos.</td>  
         </tr>  
