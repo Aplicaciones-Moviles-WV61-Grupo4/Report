@@ -103,21 +103,131 @@
     - [3.2.2.3. Database Design](#3223-database-design)
     - [3.2.2.4. Database Diagram](#3224-database-diagram)
 ### [Capítulo IV: Backend Product Implementation & Validation](#capítulo-iv-backend-product-implementation--validation)
-- [4.1. Software Configuration Management](#41-software-configuration-management)
-  - [4.1.1. Software Development Environment Configuration](#411-software-development-environment-configuration)
-  - [4.1.2. Source Code Management](#412-source-code-management)
-  - [4.1.3. Source Code Style Guide & Conventions](#413-source-code-style-guide--conventions)
-  - [4.1.4. Software Deployment Configuration](#414-software-deployment-configuration)
-- [4.2. Software Development & Implementation](#42-software-development--implementation)
-  - [4.2.1. Sprint n](#421-sprint-n)
-    - [4.2.1.1. Sprint Planning n](#4211-sprint-planning-n)
-    - [4.2.1.2. Sprint Backlog n](#4212-sprint-backlog-n)
-    - [4.2.1.3. Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)
-    - [4.2.1.4. Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)
-    - [4.2.1.5. Execution Evidence for Sprint Review](#4215-execution-evidence-for-sprint-review)
-    - [4.2.1.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
-    - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
-    - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
+- [COURSE PROJECT](#course-project)
+- [Contenido](#contenido)
+  - [Tabla de contenidos](#tabla-de-contenidos)
+    - [Capítulo I: Presentación](#capítulo-i-presentación)
+    - [Capítulo II: Needfinding](#capítulo-ii-needfinding)
+    - [Capítulo III: Arquitectura](#capítulo-iii-arquitectura)
+    - [Capítulo IV: Backend Product Implementation \& Validation](#capítulo-iv-backend-product-implementation--validation)
+    - [Capítulo V: Product Implementation \& Validation](#capítulo-v-product-implementation--validation)
+    - [Conclusiones](#conclusiones)
+    - [Glosario](#glosario)
+    - [Bibliografía](#bibliografía)
+    - [Anexos](#anexos)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Student Outcome](#student-outcome)
+- [Objetivo Smart](#objetivo-smart)
+- [Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1. StartUp Profile](#11-startup-profile)
+    - [1.1.1. Description de la StartUp](#111-description-de-la-startup)
+    - [When](#when)
+    - [Where](#where)
+    - [Why](#why)
+    - [How](#how)
+    - [How much](#how-much)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+- [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4. Requirements specifications](#24-requirements-specifications)
+    - [2.4.1. To-Be Scenario Mapping](#241-to-be-scenario-mapping)
+    - [2.4.2. User Stories](#242-user-stories)
+    - [2.4.3. Impact Mapping](#243-impact-mapping)
+    - [2.4.4. Product Backlog](#244-product-backlog)
+  - [3.1. Product Design](#31-product-design)
+    - [3.1.1. Style Guidelines.](#311-style-guidelines)
+      - [3.1.1.1. General Style Guidelines](#3111-general-style-guidelines)
+    - [3.1.2. Information Architecture](#312-information-architecture)
+      - [3.1.2.1. Organization Systems](#3121-organization-systems)
+      - [3.1.2.2. Labelling Systems](#3122-labelling-systems)
+      - [3.1.2.3. SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)
+      - [3.1.2.4. Searching Systems](#3124-searching-systems)
+      - [3.1.2.5. Navigation Systems](#3125-navigation-systems)
+    - [3.1.3. Landing Page UI Design](#313-landing-page-ui-design)
+      - [3.1.3.1. Landing Page Wireframe](#3131-landing-page-wireframe)
+    - [3.1.4. Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)
+      - [3.1.4.1. Mobile Applications Wireframes](#3141-mobile-applications-wireframes)
+      - [3.1.4.2. Mobile Applications Wireflow Diagram](#3142-mobile-applications-wireflow-diagram)
+      - [3.1.4.3. Mobile Applications Mock-ups](#3143-mobile-applications-mock-ups)
+      - [3.1.4.4. Mobile Applications User Flow Diagram](#3144-mobile-applications-user-flow-diagram)
+      - [3.1.4.5. Mobile Applications Prototyping](#3145-mobile-applications-prototyping)
+  - [3.2. Architecture Overview](#32-architecture-overview)
+    - [3.2.1. Domain-Driven Software Architecture](#321-domain-driven-software-architecture)
+      - [3.2.1.1. Software Architecture Context Level Diagram](#3211-software-architecture-context-level-diagram)
+      - [3.2.1.2. Software Architecture Container Level Diagram](#3212-software-architecture-container-level-diagram)
+      - [3.2.1.3. Software Architecture Components Diagram](#3213-software-architecture-components-diagram)
+    - [3.2.2. Software Object-Oriented Design](#322-software-object-oriented-design)
+      - [3.2.2.1. Class Diagrams](#3221-class-diagrams)
+      - [3.2.2.2. Class Dictionary](#3222-class-dictionary)
+      - [3.2.2.3. Database Design](#3223-database-design)
+      - [3.2.2.4. Database Diagram](#3224-database-diagram)
+- [Capítulo IV: Backend Product Implementation \& Validation](#capítulo-iv-backend-product-implementation--validation-1)
+  - [4.1. Software Configuration Management](#41-software-configuration-management)
+    - [4.1.1. Software Development Environment Configuration](#411-software-development-environment-configuration)
+    - [4.1.2. Source Code Management](#412-source-code-management)
+    - [4.1.3. Source Code Style Guide \& Conventions](#413-source-code-style-guide--conventions)
+    - [4.1.4. Software Deployment Configuration](#414-software-deployment-configuration)
+  - [4.2. Software Development \& Implementation](#42-software-development--implementation)
+    - [4.2.1. Sprint 1](#421-sprint-1)
+      - [4.2.1.1. Sprint Planning 1](#4211-sprint-planning-1)
+      - [4.2.1.2. Sprint Backlog 1](#4212-sprint-backlog-1)
+      - [4.2.1.3. Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)
+      - [4.2.1.4. Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)
+      - [4.2.1.5. Execution Evidence for Sprint Review](#4215-execution-evidence-for-sprint-review)
+      - [4.2.1.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
+      - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
+      - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
+    - [4.2.2. Sprint 2](#422-sprint-2)
+      - [4.2.2.1. Sprint Planning 2](#4221-sprint-planning-2)
+      - [4.2.2.2. Sprint Backlog 2](#4222-sprint-backlog-2)
+      - [4.2.2.3. Development Evidence for Sprint Review](#4223-development-evidence-for-sprint-review)
+      - [4.2.2.4. Testing Suite Evidence for Sprint Review](#4224-testing-suite-evidence-for-sprint-review)
+      - [4.2.2.5. Execution Evidence for Sprint Review](#4225-execution-evidence-for-sprint-review)
+      - [4.2.2.6. Services Documentation Evidence for Sprint Review](#4226-services-documentation-evidence-for-sprint-review)
+      - [4.2.2.7. Software Deployment Evidence for Sprint Review](#4227-software-deployment-evidence-for-sprint-review)
+      - [4.2.2.8. Team Collaboration Insights during Sprint](#4228-team-collaboration-insights-during-sprint)
+    - [4.2.3. Sprint 3](#423-sprint-3)
+      - [4.2.3.1. Sprint Planning 3](#4231-sprint-planning-3)
+      - [4.2.3.2. Sprint Backlog 3](#4232-sprint-backlog-3)
+      - [4.2.3.3. Development Evidence for Sprint Review](#4233-development-evidence-for-sprint-review)
+      - [4.2.3.4. Testing Suite Evidence for Sprint Review](#4234-testing-suite-evidence-for-sprint-review)
+      - [4.2.3.5. Execution Evidence for Sprint Review](#4235-execution-evidence-for-sprint-review)
+      - [4.2.3.6. Services Documentation Evidence for Sprint Review](#4236-services-documentation-evidence-for-sprint-review)
+      - [4.2.3.7. Software Deployment Evidence for Sprint Review](#4237-software-deployment-evidence-for-sprint-review)
+      - [4.2.3.8. Team Collaboration Insights during Sprint](#4238-team-collaboration-insights-during-sprint)
+    - [4.2.4. Sprint 4](#424-sprint-4)
+      - [4.2.4.1. Sprint Planning 4](#4241-sprint-planning-4)
+      - [4.2.4.2. Sprint Backlog 4](#4242-sprint-backlog-4)
+      - [4.2.4.3. Development Evidence for Sprint Review](#4243-development-evidence-for-sprint-review)
+      - [4.2.4.4. Testing Suite Evidence for Sprint Review](#4244-testing-suite-evidence-for-sprint-review)
+      - [4.2.4.5. Execution Evidence for Sprint Review](#4245-execution-evidence-for-sprint-review)
+      - [4.2.4.6. Services Documentation Evidence for Sprint Review](#4246-services-documentation-evidence-for-sprint-review)
+      - [4.2.4.7. Software Deployment Evidence for Sprint Review](#4247-software-deployment-evidence-for-sprint-review)
+      - [4.2.4.8. Team Collaboration Insights during Sprint](#4248-team-collaboration-insights-during-sprint)
+  - [4.3 Validation Interviews](#43-validation-interviews)
+    - [4.3.1 Registro de preguntas](#431-registro-de-preguntas)
+    - [4.3.2 Registro de entrevistas](#432-registro-de-entrevistas)
+  - [4.3 Video About the team](#43-video-about-the-team)
+  - [Conclusiones](#conclusiones-1)
+  - [bibliografía](#bibliografía-1)
+  - [Anexos](#anexos-1)
 ### [Capítulo V: Product Implementation & Validation](#capítulo-v-product-implementation--validation)
 - [5.1. Software Configuration Management](#51-software-configuration-management)
   - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
@@ -1843,7 +1953,7 @@ https://nesthublandingpage.web.app/
         </tr>
         <tr>
             <td colspan="1">Sum of Story Points</td>
-            <td colspan="1">19</td>
+            <td colspan="1">11</td>
         </tr>
         <tr>
             <td colspan="1">Movile app development Progress</td>
@@ -1887,22 +1997,22 @@ https://nesthublandingpage.web.app/
 			<td>Brenda Gamio</td>
 			<td>In-Process</td>
 		</tr>
+        <tr>
+			<td>US06</td>
+			<td>Búsqueda y Filtrado de Espacios</td>
+			<td>Como organizador de eventos, quiero poder buscar y filtrar fácilmente espacios disponibles en NestHub para encontrar el lugar perfecto para mi evento, según mis criterios específicos.</td>
+			<td>3</td>
+			<td>Angel Cancho</td>
+			<td>Done</td>
+		</tr>
 		<tr>
 			<td>US07</td>
 			<td>Reservas de Espacios</td>
 			<td>Como organizador de eventos, quiero poder reservar un espacio para mi evento en NestHub para garantizar su disponibilidad en la fecha deseada.</td>
 			<td>2</td>
-			<td>Brenda Gamio</td>
+			<td>Miguel Carpio</td>
 			<td>In-Process</td>
-		</tr>
-		<tr>
-			<td>US09</td>
-			<td>Comunicación Directa con Propietarios</td>
-			<td>Como organizador de eventos en NestHub, quiero poder comunicarme directamente con los propietarios de los espacios para aclarar dudas, coordinar detalles y resolver cualquier problema de manera rápida y efectiva.</td>
-			<td>5</td>
-			<td>Angel Cancho</td>
-			<td>In-Process</td>
-		</tr>   
+		</tr>  
     </tbody>
 </table>
 
@@ -1973,6 +2083,185 @@ https://nesthubplatform-0a5eeee622eb.herokuapp.com/
 ![db-deploy](assets/evidences/AwsDbDeployConfig.png)
 
 #### 4.2.3.8. Team Collaboration Insights during Sprint
+
+![network](assets/sprint3-insight-1.png)
+![network](assets/sprint3-insight-2.png)
+![network](assets/sprint3-insight-3.png)
+
+--
+
+### 4.2.4. Sprint 4
+#### 4.2.4.1. Sprint Planning 4
+<table style="text-align: center;">
+    <tbody>
+        <tr>
+            <td colspan="1">Sprint #</td>
+            <td colspan="1">Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+        <tr>
+            <td colspan="1">Date</td>
+            <td colspan="1">05/11/2024</td>
+        </tr>
+        <tr>
+            <td colspan="1">Location</td>
+            <td colspan="1">Discord (Reuniones Virtuales)</td>
+        </tr>
+        <tr>
+            <td colspan="1">Prepared By</td>
+            <td colspan="1">Brenda Gamio</td>
+        </tr>
+        <tr>
+            <td colspan="1">Attendees (to planning meeting)</td>
+            <td colspan="1">- Brenda Gamio<br>
+                - Angel Cancho<br>
+                - Miguel Carpio<br></td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td colspan="1">Sprint 4 Goal</td>
+            <td colspan="1">Terminar detalles del aplicativo.</td>
+        </tr>
+        <tr>
+            <td colspan="1">Sprint 4 Velocity</td>
+            <td colspan="1">5</td>
+        </tr>
+        <tr>
+            <td colspan="1">Sum of Story Points</td>
+            <td colspan="1">15</td>
+        </tr>
+        <tr>
+            <td colspan="1">Movile app development Progress</td>
+            <td colspan="1">Terminar detalles del aplicativo.</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 4.2.4.2. Sprint Backlog 4
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 4</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work - Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation (Hours)</td>
+			<td>Assigned To</td>
+			<td>Status (To-do / In-Process / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td>US03</td>
+			<td>Acceso Rápido a Registro e Inicio de Sesión</td>
+			<td>Como nuevo usuario, quiero encontrar botones de registro e inicio de sesión fácilmente accesibles en la landing page, para empezar a usar la plataforma rápidamente.</td>
+			<td>5</td>
+			<td>Angel Cancho</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US05</td>
+			<td>Registro de Propietario</td>
+			<td>Como propietario de un espacio para eventos, quiero poder registrarme fácilmente en NestHub para ofrecer mi espacio en alquiler y llegar a más clientes potenciales.</td>
+			<td>3</td>
+			<td>Brenda Gamio</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US07</td>
+			<td>Reservas de Espacios</td>
+			<td>Como organizador de eventos, quiero poder reservar un espacio para mi evento en NestHub para garantizar su disponibilidad en la fecha deseada.</td>
+			<td>2</td>
+			<td>Miguel Carpio</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US08</td>
+			<td>Calificaciones y Comentarios sobre Espacios</td>
+			<td>Como organizador de eventos, quiero poder ver las calificaciones y comentarios de otros usuarios sobre los espacios en NestHub para tomar una decisión informada al seleccionar un espacio para mi evento.</td>
+			<td>5</td>
+			<td>Angel Cancho</td>
+			<td>Done</td>
+		</tr>   
+    </tbody>
+</table>
+
+
+#### 4.2.4.3. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit ID                                | Commit Message                            | Commit Message Body                    | Commited on (Date) |
+|------------|--------|------------------------------------------|-------------------------------------------|----------------------------------------|--------------------|
+| NestHubApp  | main   | dea17c403b7db350a2c39d64649995b52631addd | chore  | -                          | 25/10/2024 |
+| NestHubApp  | main   | 4d0be2afa0c44a382b46329b88074991ade91bbd | feat: added publishing steps | -                    | 25/10/2024  |
+| NestHubApp  | main   | 4d1b4b402584e62c81db02a36ea52a88d461905f | feat: added user profile screen | -                 | 25/10/2024  |
+| NestHubApp | main   | 4c506ec6ffe22441ec75a942479433bad847f8d9 | feat: added messages screen | -        | 26/10/2024 |
+
+#### 4.2.4.4. Testing Suite Evidence for Sprint Review
+
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>main</td>
+    <td>Miguel Carpio</td>
+    <td>despliegue del backend</td>
+    <td>26/10/2024</td>
+    <td>https://nesthubplatform-0a5eeee622eb.herokuapp.com/</td>
+  </tr>
+</table>
+
+#### 4.2.4.5. Execution Evidence for Sprint Review
+![web-app](assets/evidences/1.jpg)
+![web-app](assets/evidences/2.jpg)
+![web-app](assets/evidences/3.jpg)
+![web-app](assets/evidences/4.jpg)
+![web-app](assets/evidences/5.jpg)
+![web-app](assets/evidences/6.jpg)
+![web-app](assets/evidences/7.jpg)
+![web-app](assets/evidences/8.jpg)
+![web-app](assets/evidences/9.jpg)
+![web-app](assets/evidences/10.jpg)
+![web-app](assets/evidences/11.jpg)
+![web-app](assets/evidences/12.jpg)
+![web-app](assets/evidences/13.jpg)
+![web-app](assets/evidences/14.jpg)
+![web-app](assets/evidences/15.jpg)
+![web-app](assets/evidences/16.jpg)
+![web-app](assets/evidences/17.jpg)
+![web-app](assets/evidences/18.jpg)
+![web-app](assets/evidences/19.jpg)
+![web-app](assets/evidences/20.jpg)
+
+#### 4.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el tercer sprint, se ha finalizado el desarollo del backend, utilizando heroku y aws para la base de datos.
+
+#### 4.2.4.7. Software Deployment Evidence for Sprint Review
+
+![backend-deploy](assets/evidences/HerokuOverview.png)
+![backend-deploy](assets/evidences/HerokuAppSwagger.png)
+https://nesthubplatform-0a5eeee622eb.herokuapp.com/
+
+![db-deploy](assets/evidences/AwsDbDeploy.png)
+![db-deploy](assets/evidences/AwsDbDeployConfig.png)
+
+#### 4.2.4.8. Team Collaboration Insights during Sprint
 
 ![network](assets/sprint3-insight-1.png)
 ![network](assets/sprint3-insight-2.png)
