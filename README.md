@@ -263,10 +263,7 @@
 
 ### [Conclusiones](#conclusiones)
 
-- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-- [Video App Validation](#video-app-validation)
-- [Video About the product](#video-about-the-product)
-- [Video About the team](#video-about-the-team)
+#### [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 
 ### [Glosario](#glosario)
 
@@ -2414,6 +2411,7 @@ Evidencia de la entrevista:
 [Link del video](https://upcedupe-my.sharepoint.com/personal/u201721995_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201721995%5Fupc%5Fedu%5Fpe%2FDocuments%2F2024%2D11%2D10%2D20%2D59%2D14%5FgKqBdlHC%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6670c700%2D2cf9%2D4380%2D8060%2D1bf3dff1283e)
 
 ## [Conclusiones](#conclusiones)
+
 ### [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 
 #### Conclusiones
@@ -2443,6 +2441,7 @@ Evidencia de la entrevista:
 Estas conclusiones y recomendaciones buscan potenciar el éxito de NestHub como una plataforma líder en el sector de gestión de espacios para eventos.
 
 ## [Glosario](#glosario)
+
 - **Aplicación móvil:** Software diseñado para dispositivos móviles que permite a los usuarios conectar organizadores de eventos con propietarios de espacios de forma conveniente y accesible.
 - **Búsqueda avanzada:** Herramienta de la plataforma que permite filtrar espacios para eventos según criterios como capacidad, ubicación o servicios específicos.
 - **Calificaciones y comentarios:** Opiniones y puntuaciones proporcionadas por los usuarios para evaluar la calidad de los espacios y servicios ofrecidos en la plataforma.
