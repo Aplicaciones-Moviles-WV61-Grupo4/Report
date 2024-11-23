@@ -1,4 +1,5 @@
 # COURSE PROJECT
+
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
@@ -39,10 +40,12 @@
 </p>
 <br>
 
-
 # Contenido
+
 ## Tabla de contenidos
+
 ### [Capítulo I: Presentación](#capítulo-i-presentación)
+
 - [1.1. Startup Profile](#11-startup-profile)
   - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -54,7 +57,9 @@
     - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
     - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+
 ### [Capítulo II: Needfinding](#capítulo-ii-needfinding)
+
 - [2.1. Competidores](#21-competidores)
   - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
   - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -73,7 +78,9 @@
   - [2.4.2. User Stories](#242-user-stories)
   - [2.4.3. Impact Mapping](#243-impact-mapping)
   - [2.4.4. Product Backlog](#244-product-backlog)
+
 ### [Capítulo III: Arquitectura](#capítulo-iii-arquitectura)
+
 - [3.1. Product Design](#31-product-design)
   - [3.1.1. Style Guidelines](#311-style-guidelines)
     - [3.1.1.1. General Style Guidelines](#3111-general-style-guidelines)
@@ -102,7 +109,9 @@
     - [3.2.2.2. Class Dictionary](#3222-class-dictionary)
     - [3.2.2.3. Database Design](#3223-database-design)
     - [3.2.2.4. Database Diagram](#3224-database-diagram)
+
 ### [Capítulo IV: Backend Product Implementation & Validation](#capítulo-iv-backend-product-implementation--validation)
+
 - [COURSE PROJECT](#course-project)
 - [Contenido](#contenido)
   - [Tabla de contenidos](#tabla-de-contenidos)
@@ -228,7 +237,9 @@
   - [Conclusiones](#conclusiones-1)
   - [bibliografía](#bibliografía-1)
   - [Anexos](#anexos-1)
+
 ### [Capítulo V: Product Implementation & Validation](#capítulo-v-product-implementation--validation)
+
 - [5.1. Software Configuration Management](#51-software-configuration-management)
   - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
   - [5.1.2. Source Code Management](#512-source-code-management)
@@ -249,28 +260,32 @@
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
+
 ### [Conclusiones](#conclusiones)
+
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 - [Video App Validation](#video-app-validation)
 - [Video About the product](#video-about-the-product)
 - [Video About the team](#video-about-the-team)
-### [Glosario](#glosario)
-### [Bibliografía](#bibliografía)
-### [Anexos](#anexos)
 
+### [Glosario](#glosario)
+
+### [Bibliografía](#bibliografía)
+
+### [Anexos](#anexos)
 
 ---
 
-
 # Project Report Collaboration Insights
+
 TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo: [Repositorio Github](https://github.com/Aplicaciones-Moviles-WV61-Grupo4/Report).
 
 **User goal: Visualización de perfil**
 
 # Student Outcome
 
-ABET – EAC - Student Outcome 7: *La capacidad de adquirir y aplicar nuevos conocimientos según sea
-necesario, utilizando estrategias deaprendizaje apropiadas.*
+ABET – EAC - Student Outcome 7: _La capacidad de adquirir y aplicar nuevos conocimientos según sea
+necesario, utilizando estrategias deaprendizaje apropiadas._
 
 <table >
         <tr>
@@ -296,6 +311,9 @@ necesario, utilizando estrategias deaprendizaje apropiadas.*
             He actulizado el backend para poder así desplegarlo con sus respectivas configuras previas. Además he actualizado el reporte mostrando el avance del proyecto como grupo.
             </td>
             <td>Se destaca la importancia de mantener actualizados los conocimientos y conceptos necesarios para el desarrollo profesional, especialmente en el área de soluciones de software. Un enfoque metodológico y colaborativo, como se menciona en las conclusiones, representa una práctica eficaz para el desarrollo de proyectos en este sector, garantizando el uso de las mejores prácticas y herramientas disponibles para cumplir con los objetivos establecidos.</td>
+            <br>TB3:<br>
+	  	Cancho Corilla, Angel Antonio:<br>
+            
         </tr>  
         <tr>
             <td align = "left"> Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de tecnologías de ingeniería de software.</td>
@@ -316,7 +334,7 @@ necesario, utilizando estrategias deaprendizaje apropiadas.*
             Consultó foros, videos, documentación para mantenerse actualizado y así implementar lo aprendido a la hora de hacer despliegues utilizando tecnlogías actuales y competentes. Reconoció la importancia de dicho aprendizaje para mejorar la calidad de software.
             </td>
             <td>Se enfatiza la relevancia del aprendizaje continuo en el desarrollo profesional y en los proyectos de soluciones de software. La investigación constante, la adopción de herramientas actualizadas y el análisis de experiencias previas reflejan un compromiso con el aprendizaje permanente, lo cual es crucial para mejorar continuamente el desempeño y la calidad de los proyectos.</td>  
-        </tr>  
+        </tr>
 
 </table >
 
@@ -324,20 +342,21 @@ necesario, utilizando estrategias deaprendizaje apropiadas.*
 
 <img src="assets/smart-goals.png" alt="SMART">
 
-
 # Capítulo I: Introducción
 
 ## 1.1. StartUp Profile
+
 En esta sección se describirá la descripción de la Startup y el caso de negocio.
 
 ### 1.1.1. Description de la StartUp
-Aerios es una startup tecnológica fundada en 2024 con el objetivo de revolucionar la industria de los alquileres para eventos. Nuestra plataforma, diseñada por un equipo de jóvenes ingenieros de software, ofrece una amplia gama de funcionalidades, como: búsqueda avanzada, reservas en línea, gestión de pagos, calificaciones y reseñas.
 
+Aerios es una startup tecnológica fundada en 2024 con el objetivo de revolucionar la industria de los alquileres para eventos. Nuestra plataforma, diseñada por un equipo de jóvenes ingenieros de software, ofrece una amplia gama de funcionalidades, como: búsqueda avanzada, reservas en línea, gestión de pagos, calificaciones y reseñas.
 
 - **¿Cuál es el problema?** <br>
   Organizar un evento, ya que esto implica una ardua tarea al momento de buscar el espacio ideal. La falta de una plataforma unificada dificulta la conexión entre propietarios y organizadores, generando retrasos y frustración en el proceso.
 
 ### When
+
 - **¿Cuándo ocurre el problema** <br>
   Tanto propietarios como organizadores de eventos se enfrentan constantemente al desafío de conectar sus necesidades. Ya sea para eventos planificados con meses de anticipación o para aquellos que requieren una solución inmediata, la búsqueda de espacios adecuados es una necesidad recurrente.
 
@@ -345,6 +364,7 @@ Aerios es una startup tecnológica fundada en 2024 con el objetivo de revolucion
   Desde la planificación de grandes eventos con meses de anticipación hasta la búsqueda de última hora de un lugar para una reunión pequeña, la necesidad de encontrar el espacio adecuado es constante y diversa.
 
 ### Where
+
 - **¿Dónde está el usuario cuando usa el producto?** <br>
   El usuario estaría principalmente en el aplicativo móvil.
 
@@ -352,6 +372,7 @@ Aerios es una startup tecnológica fundada en 2024 con el objetivo de revolucion
   La principal problemática radica en la complejidad de hallar y reservar espacios que cumplan con los requisitos de un evento, tanto si se planea con anticipación como si se necesita una solución inmediata. Además de poder encontrar un espacio que se ajuste al presupuesto, la capacidad y las características requeridas para un evento específico puede ser una tarea desafiante.
 
 ### Why
+
 - **¿Por qué ocurre este problema?** <br>
   La carencia de una plataforma única que conecte a quienes ofrecen espacios para eventos con quienes los buscan genera una serie de inconvenientes. La búsqueda se vuelve engorrosa, lo que a menudo conduce a la frustración de ambas partes y a la pérdida de oportunidades de negocio.
 
@@ -364,38 +385,46 @@ Aerios es una startup tecnológica fundada en 2024 con el objetivo de revolucion
   En NestHub, organizadores de eventos, ya sean sociales o corporativos, encuentran el espacio perfecto para sus celebraciones. Al mismo tiempo, propietarios de espacios pueden conectar con una amplia audiencia y rentabilizar sus instalaciones.
 
 ### How much
+
 Nuestros planes de suscripción en NestHub ofrecen una gama de beneficios adicionales para aquellos que buscan una experiencia más completa y pueden adaptarse a las necesidades de cada usuario. Desde opciones gratuitas hasta planes premium con beneficios adicionales, encontrarás el plan perfecto para tu presupuesto y requerimientos.
 
 ### 1.2.2. Lean UX Process
+
 En esta seccióm, utilizaremos el enfoque Lean UX para diseñar nuestro producto de software y asegurarnos de que se ajuste a nuestra estrategia de negocio. Al priorizar las necesidades de nuestros usuarios, podremos desarrollar una solución que genere valor y contribuya al éxito de nuestra empresa.
 
 #### 1.2.2.1. Lean UX Problem Statements
-1. **Problema:**
-  - Los organizadores de eventos enfrentan dificultades para encontrar y reservar espacios adecuados para sus eventos de forma eficiente, ya que no existe una plataforma centralizada que reúna todas las opciones disponibles y facilite este proceso.
 
-  - Los propietarios de espacios tienen dificultades para conectar con organizadores de eventos interesados en sus instalaciones debido a la falta de visibilidad y herramientas adecuadas para la gestión de reservas.
+1. **Problema:**
+
+- Los organizadores de eventos enfrentan dificultades para encontrar y reservar espacios adecuados para sus eventos de forma eficiente, ya que no existe una plataforma centralizada que reúna todas las opciones disponibles y facilite este proceso.
+
+- Los propietarios de espacios tienen dificultades para conectar con organizadores de eventos interesados en sus instalaciones debido a la falta de visibilidad y herramientas adecuadas para la gestión de reservas.
+
 2. **Declaración del problema:** La falta de una plataforma unificada genera frustración y retrasos para ambos grupos de usuarios, lo que lleva a una experiencia negativa y la pérdida de oportunidades de negocio.
 3. **Solución propuesta:** Una plataforma que facilite la búsqueda, comparación, reserva y pago de espacios para eventos en un solo lugar, reduciendo el tiempo y el esfuerzo necesario para ambas partes.
 
 #### 1.2.2.2. Lean UX Assumptions
 
 1. **Business Assumptions:**
-  - La búsqueda de espacios para eventos es un proceso frustante y consume mucho tiempo.
 
-  - La falta de unificación en las opciones de búsqueda y reserva impide a los organizaciones de eventos encontrar opciones adecuadas rápidamente.
+- La búsqueda de espacios para eventos es un proceso frustante y consume mucho tiempo.
+
+- La falta de unificación en las opciones de búsqueda y reserva impide a los organizaciones de eventos encontrar opciones adecuadas rápidamente.
 
 2. **Users Assumptions:**
-  - Los organizadores de eventos prefieren utilizar una aplicación móvil para buscar y reservar espacios, debido a la conveniencia de tener acceso instantáneo desde sus dispositivos.
 
-  - Los propietarios de espacios desean aumentar la visibilidad de sus instalaciones y optimizar la gestión de reservas a través de herramientas digitales.
+- Los organizadores de eventos prefieren utilizar una aplicación móvil para buscar y reservar espacios, debido a la conveniencia de tener acceso instantáneo desde sus dispositivos.
+
+- Los propietarios de espacios desean aumentar la visibilidad de sus instalaciones y optimizar la gestión de reservas a través de herramientas digitales.
 
 3. **Outcome Assumptions:**
-  - Al ofrecer una plataforma que centralice las opciones de búsqueda y reserva de espacios para eventos, tanto organizadores como propietarios experimentarán una mejora en la eficiencia del proceso.
 
-  - Una aplicación móvil que incluya búsqueda avanzada, gestión de pagos, calificaciones y reseñas atraerá tanto a organizadores como a propietarios de espacios.
+- Al ofrecer una plataforma que centralice las opciones de búsqueda y reserva de espacios para eventos, tanto organizadores como propietarios experimentarán una mejora en la eficiencia del proceso.
 
+- Una aplicación móvil que incluya búsqueda avanzada, gestión de pagos, calificaciones y reseñas atraerá tanto a organizadores como a propietarios de espacios.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
 - Creemos que al ofrecer una plataforma unificada de búsqueda y reserva de espacios, reduciremos el tiempo de búsqueda para los organizadores de eventos en un 50% durante los primeros tres meses.
 
 - Creemos que al implementar una aplicación móvil con funciones avanzadas (búsqueda avanzada, gestión de pagos, calificaciones y reseñas), aumentaremos el uso de la plataforma por parte de organizadores de eventos en un 30% durante los primeros seis meses.
@@ -427,27 +456,31 @@ En esta sección, identificamos los segmentos específicos de clientes a los que
   - **Necesidades:** Buscan una promoción eficaz de sus espacios, una gestión eficiente de las reservas y acceso a herramientas para administrar sus listados y la planificación de eventos.
 
   # Capítulo II: Requirements Elicitation & Analysis
+
 ## 2.1. Competidores
+
 Hemos realizado una investigación de mercado y descubrimos tres plataformas que ofrecen funciones similares a las de nuestra aplicación que conectan a los propietarios de espacios con los organizadores de eventos. Estos incluyen:
+
 1. **Airbnb:**
-   Es una plataforma en línea que, desde su fundación en 2008, ha revolucionado la industria hotelera ofreciendo una alternativa a los hoteles convencionales. En más de 191 países, los usuarios pueden alquilar alojamientos a corto plazo, desde habitaciones individuales hasta casas completas. Facilita la comunicación entre los propietarios que desean alquilar sus propiedades y los visitantes que buscan alojamiento temporal.
+Es una plataforma en línea que, desde su fundación en 2008, ha revolucionado la industria hotelera ofreciendo una alternativa a los hoteles convencionales. En más de 191 países, los usuarios pueden alquilar alojamientos a corto plazo, desde habitaciones individuales hasta casas completas. Facilita la comunicación entre los propietarios que desean alquilar sus propiedades y los visitantes que buscan alojamiento temporal.
 <div style="text-align: center;">
                 <img src="assets/images/logos/logo-airbnb.png" alt="Airbnb" style="max-width: 400px; width: 25%;">
 </div>
 
 2. **Vrbo:**
-   Es una plataforma en línea creada en 1995 que permite a los propietarios alquilar viviendas directamente. El nombre significa "Alquileres de vacaciones por propietario". Es uno de los principales sitios web para alquileres vacacionales en todo el mundo, y los usuarios pueden buscar y reservar casas, apartamentos, cabañas y villas en una variedad de lugares. Esto les da la oportunidad de elegir opciones que se ajusten a sus necesidades y preferencias.
+Es una plataforma en línea creada en 1995 que permite a los propietarios alquilar viviendas directamente. El nombre significa "Alquileres de vacaciones por propietario". Es uno de los principales sitios web para alquileres vacacionales en todo el mundo, y los usuarios pueden buscar y reservar casas, apartamentos, cabañas y villas en una variedad de lugares. Esto les da la oportunidad de elegir opciones que se ajusten a sus necesidades y preferencias.
 <div style="text-align: center;">
                 <img src="assets/images/logos/logo-vrbo.png" alt="Vrbo" style="max-width: 400px; width: 25%;">
 </div>
 
 3. **Booking:**
-   Es una plataforma donde los usuarios pueden reservar hoteles, hostales, apartamentos y otros tipos de alojamiento en todo el mundo. Además, tiene la opción de reservar vuelos, coches y actividades turísticas. Una de las principales plataformas en línea para reservar alojamientos es Booking.com, que tiene una amplia gama de opciones para viajeros de todo tipo. Los usuarios pueden buscar alojamientos según sus preferencias y presupuesto, y a través de la plataforma pueden realizar reservas de manera rápida y conveniente.
+Es una plataforma donde los usuarios pueden reservar hoteles, hostales, apartamentos y otros tipos de alojamiento en todo el mundo. Además, tiene la opción de reservar vuelos, coches y actividades turísticas. Una de las principales plataformas en línea para reservar alojamientos es Booking.com, que tiene una amplia gama de opciones para viajeros de todo tipo. Los usuarios pueden buscar alojamientos según sus preferencias y presupuesto, y a través de la plataforma pueden realizar reservas de manera rápida y conveniente.
 <div style="text-align: center;">
                 <img src="assets/images/logos/logo-booking.png" alt="Booking" style="max-width: 400px; width: 25%;">
 </div>
 
 ### 2.1.1. Análisis competitivo
+
 <table>
   <tr>
     <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
@@ -576,13 +609,14 @@ Hemos realizado una investigación de mercado y descubrimos tres plataformas que
 
 - **Diferenciación de la plataforma:** Vamos a identificar y destacar las ventajas de NestHub que la diferencian de otras plataformas de alquiler de espacios para eventos. Esto podría incluir herramientas innovadoras para la gestión de reservas, una interfaz fácil de usar que simplifica la búsqueda y la reserva de espacios, y características adicionales como la personalización de eventos y la integración de servicios de catering o entretenimiento.
 
-- **Comunidad activa:**  En la plataforma de NestHub, trabajaremos para fomentar una comunidad activa de propietarios de espacios, organizadores de eventos y clientes. Ofreceremos espacios donde las personas puedan compartir sus experiencias, recomendar lugares y eventos y interactuar entre sí. Esto aumentará la participación de los usuarios y la lealtad a la plataforma.
+- **Comunidad activa:** En la plataforma de NestHub, trabajaremos para fomentar una comunidad activa de propietarios de espacios, organizadores de eventos y clientes. Ofreceremos espacios donde las personas puedan compartir sus experiencias, recomendar lugares y eventos y interactuar entre sí. Esto aumentará la participación de los usuarios y la lealtad a la plataforma.
 
 - **Marketing dirigido:** Para llegar a nuestro público objetivo, utilizaremos estrategias de marketing digital enfocadas. Esto podría incluir la promoción de la plataforma mediante publicidad en redes sociales dirigida a organizadores de eventos y propietarios de espacios, colaboraciones con organizadores de eventos locales e influyentes en el sector, y participación en ferias comerciales y eventos relevantes.
 
 - **Monetización creativa:** Para diversificar nuestras fuentes de ingresos y brindar a nuestros usuarios opciones adaptables, investigaremos varios modelos de monetización. Podríamos ofrecer a los propietarios de espacios servicios premium, como herramientas de gestión de reservas avanzadas o promociones destacadas en sus listados, además de las tarifas estándar por el uso de la plataforma. Además, podríamos considerar incluir servicios adicionales, como la organización de catering o servicios de entretenimiento, por un precio adicional. Los patrocinios de eventos y la publicidad no intrusiva también podrían ser oportunidades de monetización a considerar.
 
 ## 2.2. Entrevistas
+
 ### 2.2.1. Diseño de entrevistas
 
 En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
@@ -621,6 +655,7 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 10. ¿Qué tan importante es para ti la flexibilidad de horarios al momento de reservar un espacio para tu evento?
 
 ### 2.2.2. Registro de entrevistas
+
 **Entrevista 1:**
 
 Nombres: Miguel Ángel
@@ -633,7 +668,7 @@ Lugar de residencia: Chorrillos, Lima
 
 Entrevistador: Miguel Carpio Cornejo
 
-Evidencia de la entrevista:  <img src="assets/entrevista1-miguel.png">
+Evidencia de la entrevista: <img src="assets/entrevista1-miguel.png">
 [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c360_upc_edu_pe/Ef5cabeHfFBLqiaOZrxatsIByBMU0CnLw_F7hNGOMQR9SQ?e=Smle5l)
 
 Resumen de la entrevista:
@@ -658,7 +693,7 @@ Lugar de residencia: Chorrillos, Lima
 
 Entrevistador: Brenda Gamio Upiachihua
 
-Evidencia de la entrevista:  <img src="assets/entrevista2-erick.png">
+Evidencia de la entrevista: <img src="assets/entrevista2-erick.png">
 [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120344_upc_edu_pe/Eeakt8f2BWJKqJu8D5wSkyABHCwtA6nc5b7KAq-3Fyp-gw?e=08LWD2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Resumen de la entrevista:
@@ -670,6 +705,7 @@ Lo que más le importa saber sobre el local de que va estar utilizando, es la co
 Por último, menciona que estos servicios de alquiler de centros para eventos, suelen ser a través de organizadores. Esto implica transladarse hasta dónde está el organizador y el local, gastanto dinero en pasajes, gasolina. También que requiere esfuerzo y tiempo. Sin embargo, que un servicio web que facilite todo este proceso le parece una idea muy buena.
 
 ### 2.2.3. Análisis de entrevistas
+
 Las entrevistas ofrecen una visión detallada y matizada sobre las expectativas y requisitos de los distintos actores involucrados en el ámbito de las apps móviles para el alquiler de locales destinados a eventos. Tanto los propietarios, los organizadores de eventos, como los usuarios finales resaltan la importancia de contar con sistemas que garanticen la seguridad en las transacciones financieras, la claridad en los acuerdos contractuales y una comunicación fluida y eficaz. La facilidad de uso y la intuitividad de la interfaz se identifican como características clave para una experiencia positiva para todos los participantes, mientras que la disponibilidad de una amplia gama de opciones de espacios para eventos resulta esencial para satisfacer diversas necesidades y preferencias. Además, se observa que algunos usuarios están dispuestos a pagar por servicios premium que ofrezcan beneficios adicionales, como una mayor visibilidad de sus espacios dentro de la app.
 
 Los propietarios de espacios para eventos tienen preocupaciones y necesidades particulares al utilizar apps móviles de alquiler. Para ellos, es fundamental la seguridad en las transacciones financieras y la integridad de los contratos. También valoran la posibilidad de promocionar efectivamente sus propiedades, buscando una app que les permita llegar a un público amplio y relevante. La comunicación clara y fluida con los organizadores de eventos es crucial para evitar malentendidos y conflictos. Por último, algunos propietarios están dispuestos a invertir en servicios premium que les otorguen ventajas adicionales, como una mayor visibilidad de sus espacios en la app. En resumen, los propietarios buscan apps que les ofrezcan seguridad, visibilidad, comunicación eficiente y opciones para maximizar el rendimiento de sus espacios para eventos.
@@ -677,7 +713,9 @@ Los propietarios de espacios para eventos tienen preocupaciones y necesidades pa
 Los organizadores de eventos también presentan necesidades específicas al utilizar apps móviles para alquilar locales. Para ellos, la facilidad para encontrar y reservar espacios adecuados es primordial, especialmente en situaciones de emergencia o cambios de última hora. Valoran la transparencia en los contratos y la comunicación efectiva con los propietarios para evitar malentendidos y asegurar una experiencia sin inconvenientes. Asimismo, buscan apps que ofrezcan una amplia variedad de opciones de espacios para eventos que se adapten a sus necesidades específicas y horarios. La disponibilidad de herramientas avanzadas de búsqueda y filtrado es igualmente importante para localizar el lugar ideal. En resumen, los organizadores de eventos buscan apps que les proporcionen facilidad de uso, transparencia en los procesos, comunicación eficiente y una amplia gama de opciones de espacios para eventos.
 
 ## 2.3. Needfinding
+
 ### 2.3.1. User Personas
+
 **Segmento propietario:**
 
 <img src="assets/userpersona-maria.png" alt="Segmento objetivo propietario">
@@ -687,6 +725,7 @@ Los organizadores de eventos también presentan necesidades específicas al util
 <img src="assets/userpersona-eduardo.png" alt="Segmento objetivo organizador">
 
 ### 2.3.2. User Task Matrix
+
 <table align="center" border="1" width="90%" style="text-align:center;">
     <tr>
         <td></td>
@@ -863,6 +902,7 @@ Los organizadores de eventos también presentan necesidades específicas al util
 </table>
 
 ### 2.3.3. User Journey Mapping
+
 **Segmento propietario:**
 
 <img src="assets/journeymap-segment1.png" alt="Segmento objetivo propietario">
@@ -872,6 +912,7 @@ Los organizadores de eventos también presentan necesidades específicas al util
 <img src="assets/journeymap-segment2.png" alt="Segmento objetivo organizador">
 
 ### 2.3.4. Empathy Mapping
+
 **Segmento propietario:**
 
 <img src="assets/empathymap-maria.png" alt="Segmento objetivo propietario">
@@ -891,19 +932,20 @@ Los organizadores de eventos también presentan necesidades específicas al util
 <img src="assets/as-is-scenario/as-is-scenario-organizador.jpg" alt="Segmento objetivo organizador">
 
 ## 2.4. Requirements specifications
+
 ### 2.4.1. To-Be Scenario Mapping
+
 **Propietario de Espacio para Eventos**
 ![toBePropietario](/assets/to-be-scenario/Tobe_Scenario_Mapping_Propietario_png.png)
 
 **Usuario para Búsqueda de Espacio para Eventos**
 ![tobeUsuario](/assets/to-be-scenario/Tobe_Scenario_Mapping_Usuario_png.png)
+
 ### 2.4.2. User Stories
 
 <table> <thead> <tr> <th>Epic / Story ID</th> <th>Título</th> <th>Descripción</th> <th>Criterios de Aceptación</th> <th>Relacionado con (Epic ID)</th> </tr> </thead> <tbody> <tr> <td>US01</td> <td>Visualización de Información Clave</td> <td>Como visitante de la landing page, quiero ver una presentación clara de los beneficios de NestHub, para entender rápidamente cómo la plataforma me puede ayudar a alquilar o encontrar espacios para eventos.</td> <td> <h5>Escenario 01: Presentación de los Beneficios de Forma Destacada</h5> Dado que un visitante accede a la landing page de NestHub. Cuando la página se carga completamente y el usuario ve la sección principal. Entonces los beneficios clave de la plataforma se muestran de manera destacada con textos claros y elementos visuales atractivos, captando la atención del usuario. </td> <td>EP01</td> </tr> <tr> <td>US02</td> <td>Explorar Espacios Populares</td> <td>Como usuario, quiero ver los espacios más populares y mejor calificados destacados en la landing page, para conocer las opciones más recomendadas sin tener que buscarlas.</td> <td> <h5>Escenario 01: Visualización de Espacios Populares en la Landing Page</h5> Dado que un usuario accede a la landing page de NestHub. Cuando el usuario revisa la sección principal de la página. Entonces se muestran los espacios más populares y mejor calificados en una sección destacada con imágenes, calificaciones y una breve descripción, para que el usuario pueda ver rápidamente las opciones más recomendadas. </td> <td>EP01</td> </tr> <tr> <td>US03</td> <td>Acceso Rápido a Registro e Inicio de Sesión</td> <td>Como nuevo usuario, quiero encontrar botones de registro e inicio de sesión fácilmente accesibles en la landing page, para empezar a usar la plataforma rápidamente.</td> <td> <h5>Escenario 01: Visualización de Botones de Registro e Inicio de Sesión</h5> Dado que un usuario accede a la landing page de NestHub. Cuando la página se carga completamente y el usuario revisa la parte superior de la página. Entonces se muestran de forma destacada y accesible los botones de "Registrarse" e "Iniciar Sesión" en la barra de navegación o en una sección visible, permitiendo al usuario acceder rápidamente a las opciones para crear una cuenta o iniciar sesión. </td> <td>EP01</td> </tr> <tr> <td>US04</td> <td>Visualización de Variedad de Locales</td> <td>Como usuario que busca alquilar un espacio para eventos, quiero ver una sección destacada en la landing page que muestre la variedad de locales disponibles, para tener una idea clara de las diferentes opciones que ofrece la plataforma y encontrar el tipo de espacio que mejor se adapte a mis necesidades.</td> <td> <h5>Escenario 01: Presentación de la Variedad de Locales en la Landing Page</h5> Dado que un usuario accede a la landing page de NestHub. Cuando el usuario desplaza la página hacia la sección de "Variedad". Entonces se muestra una sección con información destacada sobre la amplia variedad de locales disponibles, incluyendo diferentes tipos de espacios como salones, terrazas, jardines, y más, acompañados de imágenes representativas y descripciones breves que resaltan la diversidad. </td> <td>EP01</td> </tr> <tr> <td>US05</td> <td>Registro de Propietario</td> <td>Como propietario de un espacio para eventos, quiero poder registrarme fácilmente en NestHub para ofrecer mi espacio en alquiler y llegar a más clientes potenciales.</td> <td> <h5>Escenario 01: Registro exitoso</h5> Dado que un propietario desea registrar su espacio en NestHub. Cuando el propietario completa el formulario de registro con la información requerida. Entonces el propietario recibe una confirmación de registro y puede acceder a su cuenta. <h5>Escenario 02: Validación de datos</h5> Dado que un propietario completa el formulario de registro en NestHub. Cuando el propietario envía el formulario. Entonces los datos proporcionados se validan para garantizar la precisión y la autenticidad. </td> <td>EP02</td> </tr> <tr> <td>US06</td> <td>Búsqueda y Filtrado de Espacios</td> <td>Como organizador de eventos, quiero poder buscar y filtrar fácilmente espacios disponibles en NestHub para encontrar el lugar perfecto para mi evento, según mis criterios específicos.</td> <td> <h5>Escenario 01: Búsqueda por ubicación</h5> Dado que un organizador busca un espacio para eventos en una ubicación específica. Cuando el organizador ingresa la ubicación deseada en el campo de búsqueda. Entonces se muestran los espacios disponibles en esa ubicación. <h5>Escenario 02: Filtrado por capacidad</h5> Dado que un organizador desea un espacio con capacidad para un número específico de personas. Cuando el organizador aplica un filtro de capacidad en la búsqueda. Entonces se muestran solo los espacios que cumplen con ese criterio. </td> <td>EP03</td> </tr> <tr> <td>US07</td> <td>Reservas de Espacios</td> <td>Como organizador de eventos, quiero poder reservar un espacio para mi evento en NestHub para garantizar su disponibilidad en la fecha deseada.</td> <td> <h5>Escenario 01: Proceso de Reserva</h5> Dado que un organizador ha encontrado el espacio ideal en NestHub. Cuando el organizador selecciona el espacio y la fecha deseada. Entonces se muestra un formulario de reserva para completar los detalles del evento. <h5>Escenario 02: Confirmación de Reserva</h5> Dado que un organizador ha completado el formulario de reserva en NestHub. Cuando el organizador envía la solicitud de reserva. Entonces recibe una confirmación de reserva y los detalles se actualizan en su cuenta. </td> <td>EP03</td> </tr> <tr> <td>US08</td> <td>Calificaciones y Comentarios sobre Espacios</td> <td>Como organizador de eventos, quiero poder ver las calificaciones y comentarios de otros usuarios sobre los espacios en NestHub para tomar una decisión informada al seleccionar un espacio para mi evento.</td> <td> <h5>Escenario 01: Visualización de Calificaciones</h5> Dado que un organizador está revisando las opciones de espacios en NestHub. Cuando el organizador selecciona un espacio en particular. Entonces se muestran las calificaciones y comentarios de otros usuarios sobre ese espacio. <h5>Escenario 02: Aporte de Comentarios</h5> Dado que un organizador ha utilizado un espacio reservado a través de NestHub. Cuando el evento ha concluido. Entonces el organizador puede dejar un comentario y una calificación sobre su experiencia en ese espacio. </td> <td>EP04</td> </tr> <tr> <td>US09</td> <td>Comunicación Directa con Propietarios</td> <td>Como organizador de eventos en NestHub, quiero poder comunicarme directamente con los propietarios de los espacios para aclarar dudas, coordinar detalles y resolver cualquier problema de manera rápida y efectiva.</td> <td> <h5>Escenario 01: Mensajería Instantánea</h5> Dado que un organizador ha reservado un espacio en NestHub. Cuando necesita comunicarse con el propietario del espacio. Entonces puede enviar mensajes directos a través de la plataforma para obtener respuestas rápidas y resolver cualquier problema. <h5>Escenario 02: Gestión de Consultas</h5> Dado que un organizador tiene preguntas o solicitudes específicas sobre un espacio en NestHub. Cuando envía un mensaje al propietario. Entonces recibe una respuesta oportuna y personalizada para abordar sus inquietudes. </td> <td>EP05</td> </tr> <tr> <td>EP10/US01</td> <td>Acceder a EndPoints</td> <td>Como desarrollador, quiero tener acceso a los endpoints de la aplicación para poder interactuar con ella.</td> <td> <h5>Escenario 01: Solicitud Correcta a la API</h5> Dado que el desarrollador hace uso del endpoint para interactuar con la aplicación. Cuando se realiza la solicitud al API. Entonces el API devuelve un response con toda la data solicitada. </td> <td>EP10</td> </tr> <tr> <td>EP10/US08</td> <td>Creación de Persistencia para la Entidad Local</td> <td>Como desarrollador, quiero realizar la persistencia de la información para la entidad Local.</td> <td> <h5>Escenario 01: Registro de Datos del Local</h5> Dado que se recibe la data del exterior. Y esta se valida correctamente. Entonces esta data se registra en la tabla de datos de la entidad Local en la base de datos. </td> <td>EP10</td> </tr> <tr> <td>EP10/US09</td> <td>Creación de Persistencia para la Entidad Reserva</td> <td>Como desarrollador, quiero realizar la persistencia de la información para la entidad Reserva.</td> <td> <h5>Escenario 01: Registro de Datos de Reserva</h5> Dado que se recibe la data del exterior. Y esta se valida correctamente. Entonces esta data se registra en la tabla de datos de la entidad Reserva en la base de datos. </td> <td>EP10</td> </tr> <tr> <td>EP10/US10</td> <td>Creación de Persistencia para la Entidad Usuario</td> <td>Como desarrollador, quiero realizar la persistencia de la información para la entidad Usuario.</td> <td> <h5>Escenario 01: Registro de Datos de Usuario</h5> Dado que se recibe la data del exterior. Y esta se valida correctamente. Entonces esta data se registra en la tabla de datos de la entidad Usuario en la base de datos. </td> <td>EP10</td> </tr> <tr> <td>EP10/US12</td> <td>Actualización de Entidad Local</td> <td>Como desarrollador, quiero implementar la lógica para actualizar la información de un Local.</td> <td> <h5>Escenario 01: Actualización Correcta</h5> Dado que se recibe la data del exterior. Y esta se valida correctamente. Entonces esta data se actualiza en la tabla de datos de la entidad Local en la base de datos. </td> <td>EP10</td> </tr> <tr> <td>EP10/US13</td> <td>Actualización de Entidad Reserva</td> <td>Como desarrollador, quiero implementar la lógica para actualizar la información de una Reserva.</td> <td> <h5>Escenario 01: Actualización Correcta</h5> Dado que se recibe la data del exterior. Y esta se valida correctamente. Entonces esta data se actualiza en la tabla de datos de la entidad Reserva en la base de datos. </td> <td>EP10</td> </tr> <tr> <td>EP10/US14</td> <td>Actualización de Entidad Usuario</td> <td>Como desarrollador, quiero implementar la lógica para actualizar la información de un Usuario.</td> <td> <h5>Escenario 01: Actualización Correcta</h5> Dado que se recibe la data del exterior. Y esta se valida correctamente. Entonces esta data se actualiza en la tabla de datos de la entidad Usuario en la base de datos. </td> <td>EP10</td> </tr> <tr> <td>EP10/US15</td> <td>Eliminación de Entidad Local</td> <td>Como desarrollador, quiero implementar la lógica para eliminar la información de un Local.</td> <td> <h5>Escenario 01: Eliminación Correcta</h5> Dado que se recibe una solicitud de eliminación. Entonces se elimina el registro correspondiente de la tabla de datos de la entidad Local en la base de datos. </td> <td>EP10</td> </tr> <tr> <td>EP10/US16</td> <td>Eliminación de Entidad Reserva</td> <td>Como desarrollador, quiero implementar la lógica para eliminar la información de una Reserva.</td> <td> <h5>Escenario 01: Eliminación Correcta</h5> Dado que se recibe una solicitud de eliminación. Entonces se elimina el registro correspondiente de la tabla de datos de la entidad Reserva en la base de datos. </td> <td>EP10</td> </tr> <tr> <td>EP10/US17</td> <td>Eliminación de Entidad Usuario</td> <td>Como desarrollador, quiero implementar la lógica para eliminar la información de un Usuario.</td> <td> <h5>Escenario 01: Eliminación Correcta</h5> Dado que se recibe una solicitud de eliminación. Entonces se elimina el registro correspondiente de la tabla de datos de la entidad Usuario en la base de datos. </td> <td>EP10</td> </tr> </tbody> </table>
 
-
 ### 2.4.3. Impact Mapping
-
 
 **Propietario de Espacio para Eventos**
 ![ImpactMapPropietario](/assets/impact-mapping/Impact_map_propietario.png)
@@ -912,7 +954,6 @@ Los organizadores de eventos también presentan necesidades específicas al util
 ![ImpactMapUsuario](/assets/impact-mapping/Impact_map_usuario.png)
 
 ### 2.4.4. Product Backlog
-
 
 Utilizamos la escala de Fibonacci para la estimación de los Story Points
 
@@ -995,9 +1036,10 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points
     </tbody>
 </table>
 
-
 ## 3.1. Product Design
+
 ### 3.1.1. Style Guidelines.
+
 Un Style Guideline es un conjunto de directrices y estándares que establecen la forma correcta de redactar, diseñar o presentar documentos, contenido web, software y otros tipos de trabajos creativos. A continuación, se presentan las especificaciones de los parámetros aplicados en la estructura del proyecto.
 
 #### 3.1.1.1. General Style Guidelines
@@ -1243,6 +1285,7 @@ Para los sistemas de etiquetado, hemos decidido organizar el contenido mediante 
 </table>
 
 #### 3.1.2.3. SEO Tags and Meta Tags
+
 Las meta etiquetas permiten codificar y especificar metadatos en una página web. Aunque no son visibles para los usuarios, los navegadores y rastreadores web pueden leerlas. Estas etiquetas facilitan el análisis de archivos HTML y apoyan el mantenimiento del contenido, además de influir en el posicionamiento de la página en los motores de búsqueda.<br>
 
 **Título**
@@ -1267,19 +1310,23 @@ Las meta etiquetas permiten codificar y especificar metadatos en una página web
 `<meta name="copyright" content="Copyright NestHub team"/>`
 
 #### 3.1.2.4. Searching Systems
+
 <td>El motor de búsqueda es esencial para que los usuarios encuentren rápidamente información específica.</td>
 <br><br>
 
 **Características principales**
-- *Búsqueda por ubicación:* <td>Los usuarios podrán buscar centros para eventos cercanos a su ubicación actual o especificar una ubicación deseada.</td>
-- *Búsqueda por características:* <td>Los usuarios podrán buscar centros que cumplan con características específicas, como piscina, parrilla, que acepten mascotas o que cuenten con vigilancia.</td>
-- *Filtros avanzados:* <td>Se ofrecerán filtros para refinar la búsqueda, como calificaciones, precios y disponibilidad.</td>
-- *Resultados relevantes:* <td>El sistema de búsqueda presentará resultados relevantes y los organizará según la ubicación y otros criterios.</td>
+
+- _Búsqueda por ubicación:_ <td>Los usuarios podrán buscar centros para eventos cercanos a su ubicación actual o especificar una ubicación deseada.</td>
+- _Búsqueda por características:_ <td>Los usuarios podrán buscar centros que cumplan con características específicas, como piscina, parrilla, que acepten mascotas o que cuenten con vigilancia.</td>
+- _Filtros avanzados:_ <td>Se ofrecerán filtros para refinar la búsqueda, como calificaciones, precios y disponibilidad.</td>
+- _Resultados relevantes:_ <td>El sistema de búsqueda presentará resultados relevantes y los organizará según la ubicación y otros criterios.</td>
 
 #### 3.1.2.5. Navigation Systems
+
 El Sistema de Navegación es la estructura que facilita a los usuarios moverse de manera eficiente entre las diferentes secciones y páginas de la aplicación.<br><br>
 
 **Estructura de navegación:** El Sistema de Navegación incluirá las siguientes secciones principales en la barra de navegación:
+
 - Lugares
 - Publica
 - Variedad
@@ -1289,17 +1336,17 @@ El Sistema de Navegación es la estructura que facilita a los usuarios moverse d
 
 Después, la vista del usuario se dirigirá a la opción "Alquilar centro" y, finalmente, accederá a un panel con ciudades destacadas.
 
-
 ### 3.1.3. Landing Page UI Design
+
 #### 3.1.3.1. Landing Page Wireframe
 
 <img src="assets/mock-ups/Landing Page Wireframe (Mobile Web Browser).png">
 
 ### 3.1.4. Mobile Applications UX/UI Design
+
 #### 3.1.4.1. Mobile Applications Wireframes
 
 <img src="assets/wireframes/Frame 8Mobile App wireframes.png">
-
 
 #### 3.1.4.2. Mobile Applications Wireflow Diagram
 
@@ -1319,6 +1366,7 @@ Después, la vista del usuario se dirigirá a la opción "Alquilar centro" y, fi
 <img src="assets/wireflow/registro.png">
 
 #### 3.1.4.3. Mobile Applications Mock-ups
+
 <img src="assets/mock-ups/Mobile app - Mock upsMobile App wireframes.png">
 
 <img src="assets/mock-ups/Sign up.png">
@@ -1343,7 +1391,6 @@ Después, la vista del usuario se dirigirá a la opción "Alquilar centro" y, fi
 
 #### 3.1.4.4. Mobile Applications User Flow Diagram
 
-
 <img src="assets/userflow/userflow 3.png">
 
 Explicación del flujo: El proceso comienza con el usuario accediendo a la aplicación desplegada. Luego, se le presentará un formulario en pantalla donde deberá ingresar su correo electrónico y contraseña para iniciar sesión. Si los datos son válidos, el sistema lo redirigirá a la página principal del aplicativo. En caso contrario, permanecerá en la página de inicio de sesión y se le pedirá que vuelva a ingresar sus credenciales.
@@ -1358,22 +1405,30 @@ Explicación del flujo: En la aplicación, siempre se mostrará una barra de nav
 
 <img src="assets/userflow/userflow1.png">
 
-
 #### 3.1.4.5. Mobile Applications Prototyping
+
 <img src="assets/prototype.png">
 
 ## 3.2. Architecture Overview
+
 ### 3.2.1. Domain-Driven Software Architecture
+
 A continuación se visualizarán los diagramas C4.
+
 #### 3.2.1.1. Software Architecture Context Level Diagram
+
 Se puede visualizar el diagrama de contexto que representa un panorama general de la comunicación entre nuestros segmentos objetivo y la aplicación.
 
 ![contextDiagram](assets/c4/context_diagram.png)
+
 #### 3.2.1.2. Software Architecture Container Level Diagram
+
 En este diagrama se puede apreciar el funcionamiento que tendrá la aplicación y las relaciones con los bounded context correspondientes, se busca organizarlos de tal forma que no generen dependencias fuertes que perjudiquen migraciones a future.
 
 ![containerDiagram](assets/c4/containerDiagramA.png)
+
 #### 3.2.1.3. Software Architecture Components Diagram
+
 En este diagrama se presenta de forma detallada las conexiones entre controllers, services y repositories de las entidades que contiene el bounded context.
 
 <p style="text-align: center;"><strong>User Context</strong></p>
@@ -1394,12 +1449,16 @@ En este diagrama se presenta de forma detallada las conexiones entre controllers
 
 <p style="text-align: center;"><strong>Reservations Context</strong></p>
 
-
 ![componentDiagram](assets/c4/component-5.png)
+
 ### 3.2.2. Software Object-Oriented Design
+
 #### 3.2.2.1. Class Diagrams
+
 ![diagramClass](assets/c4/AlquilaFacilDiagram.png)
+
 #### 3.2.2.2. Class Dictionary
+
 <table style="text-aling:center">
     <thead>
         <tr>
@@ -1483,20 +1542,25 @@ Representa los diferentes planes de suscripción que la plataforma puede ofrecer
 
 Almacena la información de las suscripciones de los propietarios y organizadores de eventos a los distintos planes disponibles. Lleva el control de las fechas de inicio y finalización de la suscripción, el estado (activa, expirada) y los beneficios asociados a cada plan.
 
-
 #### 3.2.2.4. Database Diagram
+
 ![dataBaseDiagram](assets/c4/db-alquilaf.jpg)
 
 # Capítulo IV: Backend Product Implementation & Validation
+
 ## 4.1. Software Configuration Management
+
 ### 4.1.1. Software Development Environment Configuration
+
 A continuación se presenta un resumen de las herramientas utilizadas en el proyecto, que permiten al equipo avanzar en cada aspecto del trabajo:
 
 - Rider: IDE que utilizamos para el desarrollo backend en .NET y C#.
 - GitHub: Repositorio en la nube para colaboración en proyectos.
 - Swagger: Herramienta para documentar y probar las APIs desarrolladas en el backend.
 - MySQL Workbench: Herramienta gráfica para administrar la base de datos MySQL, utilizada para modelar, consultar y gestionar la base de datos del backend.
+
 ### 4.1.2. Source Code Management
+
 Trabajamos con dos ramas principales:
 
 - Main: La rama principal utilizada para publicar nuestras versiones oficiales.
@@ -1504,13 +1568,16 @@ Trabajamos con dos ramas principales:
 - feature/Locals: Rama dedicada al desarrollo de las funcionalidades relacionadas con la gestión de locales.
 - feature/contacts: Rama enfocada en la implementación de las funcionalidades relacionadas con la gestión de contactos.
 - feature/profiles: Rama destinada al desarrollo e integración de las funcionalidades de perfiles de usuarios.
+
 ### 4.1.3. Source Code Style Guide & Conventions
+
 Para realizar nuestro proyecto, hemos utilizado:
 
 - Tecnologías: Utilizamos lenguajes y tecnologías como C# y ASP.NET Core para el desarrollo del backend de nuestra aplicación.
 - Herramientas: Optamos por herramientas recomendadas y ampliamente utilizadas en el desarrollo backend, como Rider para el entorno de desarrollo integrado (IDE) y Workbench para la gestión de bases de datos.
 
 ### 4.1.4. Software Deployment Configuration
+
 A continuación, explicamos el proceso de implementación del backend en GitHub:
 
 - Primero, creamos un repositorio remoto en GitHub para alojar el código del backend.
@@ -1521,8 +1588,11 @@ A continuación, explicamos el proceso de implementación del backend en GitHub:
 - Finalmente, verificamos que el despliegue del backend se haya realizado exitosamente y que la aplicación funcione según lo esperado.
 
 ## 4.2. Software Development & Implementation
+
 ### 4.2.1. Sprint 1
+
 #### 4.2.1.1. Sprint Planning 1
+
 <table style="text-align: center;">
     <tbody>
         <tr>
@@ -1573,6 +1643,7 @@ A continuación, explicamos el proceso de implementación del backend en GitHub:
 </table>
 
 #### 4.2.1.2. Sprint Backlog 1
+
 <table>
 	<tbody>
 		<tr>
@@ -1674,33 +1745,34 @@ A continuación, explicamos el proceso de implementación del backend en GitHub:
     </tbody>
 </table>
 
-
 #### 4.2.1.3. Development Evidence for Sprint Review
 
-| Repository | Branch | Commit ID                                | Commit Message                            | Commit Message Body                    | Commited on (Date) |
-|------------|--------|------------------------------------------|-------------------------------------------|----------------------------------------|--------------------|
-| Backend    | main   | 5d3eede7981780e5bc96fa4067df4ff3f1472a85 | chore: initial commit                     | Initial setup                          | 14/09/2024         |
-| Backend    | main   | 2200e6526ebdde4d400fcf5bab5720882cdb4596 | chore: added shared folder                | Added shared folder                    | 14/09/2024         |
-| Backend    | main   | 7f30747276c3a935a9564e79489b82ae0ce7d645 | feat: add contacts service                | Added contacts service                 | 14/09/2024         |
-| Backend    | main   | 798e808dfbc0c51da7f8a724727a1475ba356c8f | feat: added bounded context for local     | Added bounded context for local        | 14/09/2024         |
-| Backend    | main   | c99c0683833aa5d576b9d939610afca73f7c96c4 | feat: added profiles bounded context      | Added profiles bounded context         | 14/09/2024         |
+| Repository | Branch | Commit ID                                | Commit Message                        | Commit Message Body             | Commited on (Date) |
+| ---------- | ------ | ---------------------------------------- | ------------------------------------- | ------------------------------- | ------------------ |
+| Backend    | main   | 5d3eede7981780e5bc96fa4067df4ff3f1472a85 | chore: initial commit                 | Initial setup                   | 14/09/2024         |
+| Backend    | main   | 2200e6526ebdde4d400fcf5bab5720882cdb4596 | chore: added shared folder            | Added shared folder             | 14/09/2024         |
+| Backend    | main   | 7f30747276c3a935a9564e79489b82ae0ce7d645 | feat: add contacts service            | Added contacts service          | 14/09/2024         |
+| Backend    | main   | 798e808dfbc0c51da7f8a724727a1475ba356c8f | feat: added bounded context for local | Added bounded context for local | 14/09/2024         |
+| Backend    | main   | c99c0683833aa5d576b9d939610afca73f7c96c4 | feat: added profiles bounded context  | Added profiles bounded context  | 14/09/2024         |
 
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
 Esta sección ha sido omitida porque aún no contamos con el conocimiento necesario para llevar a cabo pruebas automatizadas, las cuales están previstas para el próximo sprint.
+
 #### 4.2.1.5. Execution Evidence for Sprint Review
+
 ![bd](assets/bd.png)
 ![swagger](assets/swagger-contact.png)
 ![swagger](assets/swagger-local.png)
 ![swagger](assets/swgger-profile.png)
+
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
 
-| Nombre del Endpoint         | Acciones Implementadas | Sintaxis de Llamada                                                   | Especificación de Parámetros                         | Ejemplo de Llamada                                                                                                                                                                                                                                                                                                             | Explicación del Response                                                                                                                      |
-|-----------------------------|------------------------|-----------------------------------------------------------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| profiles-api.service.json   | GET                    | (Not used)                                                            | Ya que es un GET, los parámetros que se piden son id | ```fetch('src/app/profiles/services/profiles-api.service.json')```<br>```.then(response => response.json())```<br>```.then(data => {```<br>```this.profiles = data;```<br>```});```                                                                                                                              | En este caso, se está devolviendo el valor de todos los objetos "profiles" alojados en el json con el nombre 'profiles-api.service.json'.   |
-| contact-api.service.json    | GET                    | ```axios.get("src/app/services/contact-api.service.json")```            | Ya que es un GET, los parámetros que se piden son id | ```fetchContacts() {```<br>```axios.get("src/app/services/contact-api.service.json")```<br>```.then(response => {```<br>```console.log(response.data);```<br>```this.contacts = response.data.contacts;```<br>```})```<br>```.catch(error => {```<br>```console.error('Error fetching contacts:', error);```<br>```});```<br>```}``` | En este caso, se está devolviendo el valor de todos los objetos "contacts" alojados en el json con el nombre 'contact-api.service.json'.  |
-| local-api.service.json      | GET                    | ```fetch('src/app/local/services/local-api.service.json')```    | Ya que es un GET, los parámetros que se piden son id | ```fetch('src/app/local/services/local-api.service.json')```<br>```.then(response => response.json())```<br>```.then(data => {```<br>```this.localData = data;```<br>```});```                                                                                                                                            | En este caso, se está devolviendo el valor de todos los objetos "local" alojados en el json con el nombre 'local-api.service.json'.      |
-
+| Nombre del Endpoint       | Acciones Implementadas | Sintaxis de Llamada                                      | Especificación de Parámetros                         | Ejemplo de Llamada                                                                                                                                                                                                                                                                           | Explicación del Response                                                                                                                  |
+| ------------------------- | ---------------------- | -------------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| profiles-api.service.json | GET                    | (Not used)                                               | Ya que es un GET, los parámetros que se piden son id | `fetch('src/app/profiles/services/profiles-api.service.json')`<br>`.then(response => response.json())`<br>`.then(data => {`<br>`this.profiles = data;`<br>`});`                                                                                                                              | En este caso, se está devolviendo el valor de todos los objetos "profiles" alojados en el json con el nombre 'profiles-api.service.json'. |
+| contact-api.service.json  | GET                    | `axios.get("src/app/services/contact-api.service.json")` | Ya que es un GET, los parámetros que se piden son id | `fetchContacts() {`<br>`axios.get("src/app/services/contact-api.service.json")`<br>`.then(response => {`<br>`console.log(response.data);`<br>`this.contacts = response.data.contacts;`<br>`})`<br>`.catch(error => {`<br>`console.error('Error fetching contacts:', error);`<br>`});`<br>`}` | En este caso, se está devolviendo el valor de todos los objetos "contacts" alojados en el json con el nombre 'contact-api.service.json'.  |
+| local-api.service.json    | GET                    | `fetch('src/app/local/services/local-api.service.json')` | Ya que es un GET, los parámetros que se piden son id | `fetch('src/app/local/services/local-api.service.json')`<br>`.then(response => response.json())`<br>`.then(data => {`<br>`this.localData = data;`<br>`});`                                                                                                                                   | En este caso, se está devolviendo el valor de todos los objetos "local" alojados en el json con el nombre 'local-api.service.json'.       |
 
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -1712,7 +1784,9 @@ Hasta la fecha, aún no hemos realizado el despliegue de la aplicación. La evid
 ![swagger](assets/insight-2.png)
 
 ### 4.2.2. Sprint 2
+
 #### 4.2.2.1. Sprint Planning 2
+
 <table style="text-align: center;">
     <tbody>
         <tr>
@@ -1763,6 +1837,7 @@ Hasta la fecha, aún no hemos realizado el despliegue de la aplicación. La evid
 </table>
 
 #### 4.2.2.2. Sprint Backlog 2
+
 <table>
 	<tbody>
 		<tr>
@@ -1848,16 +1923,15 @@ Hasta la fecha, aún no hemos realizado el despliegue de la aplicación. La evid
     </tbody>
 </table>
 
-
 #### 4.2.2.3. Development Evidence for Sprint Review
 
-| Repository | Branch | Commit ID                                | Commit Message                            | Commit Message Body                    | Commited on (Date) |
-|------------|--------|------------------------------------------|-------------------------------------------|----------------------------------------|--------------------|
-| NestHub  | master   | 755dbc9e22aa04dc07a587f1da1c934083f4b8d2 | chore: initial commit                     | -                          | 27/09/2024         |
-| NestHub  | master   | c27e75cab5150eed99ad2b80f511eea6f4b96d60 | feat: Add auth login                | -                    | 28/09/2024         |
-| NestHub  | master   | 7ef9e3459929f2ce6b8f248a8b8079e40ef1567b | feat: add screens                | -                 | 28/09/2024         |
-| Landing-Page | main   | 2d0bba33a51687c6a9258711e869f1201fc5fe58 | Initial commit     | -        | 28/09/2024         |
-| Landing-Page | main   | 3aaae9e79383104ed724ac2c08ddb2da94e68da6 | feat: add landing      | -         | 28/09/2024         |
+| Repository   | Branch | Commit ID                                | Commit Message        | Commit Message Body | Commited on (Date) |
+| ------------ | ------ | ---------------------------------------- | --------------------- | ------------------- | ------------------ |
+| NestHub      | master | 755dbc9e22aa04dc07a587f1da1c934083f4b8d2 | chore: initial commit | -                   | 27/09/2024         |
+| NestHub      | master | c27e75cab5150eed99ad2b80f511eea6f4b96d60 | feat: Add auth login  | -                   | 28/09/2024         |
+| NestHub      | master | 7ef9e3459929f2ce6b8f248a8b8079e40ef1567b | feat: add screens     | -                   | 28/09/2024         |
+| Landing-Page | main   | 2d0bba33a51687c6a9258711e869f1201fc5fe58 | Initial commit        | -                   | 28/09/2024         |
+| Landing-Page | main   | 3aaae9e79383104ed724ac2c08ddb2da94e68da6 | feat: add landing     | -                   | 28/09/2024         |
 
 #### 4.2.2.4. Testing Suite Evidence for Sprint Review
 
@@ -1881,6 +1955,7 @@ Hasta la fecha, aún no hemos realizado el despliegue de la aplicación. La evid
 </table>
 
 #### 4.2.2.5. Execution Evidence for Sprint Review
+
 ![landing-page1](assets/landing1.png)
 ![landing-page2](assets/landing2.png)
 ![landing-page3](assets/landing3.png)
@@ -1900,7 +1975,7 @@ Para el presente sprint, se ha desarrollado el landing page. Para el desarrollo 
 
 - GitHub: Plataforma que facilitó la colaboración en equipo para almacenar las versiones de nuestro proyecto. GitHub es un servicio web que utiliza Git para alojar repositorios remotos y fomentar la colaboración entre programadores. Con GitHub, podemos cargar nuestro código en la nube, compartirlo con otros usuarios, recibir comentarios y sugerencias, hacer seguimiento de tareas y problemas, y acceder a una amplia gama de proyectos de código abierto.
 
-- Firebase: Servicio que nos permitió publicar nuestro landing page directamente desde nuestro repositorio de GitHub. 
+- Firebase: Servicio que nos permitió publicar nuestro landing page directamente desde nuestro repositorio de GitHub.
 
 https://nesthublandingpage.web.app/
 
@@ -1912,7 +1987,9 @@ https://nesthublandingpage.web.app/
 --
 
 ### 4.2.3. Sprint 3
+
 #### 4.2.3.1. Sprint Planning 3
+
 <table style="text-align: center;">
     <tbody>
         <tr>
@@ -1963,6 +2040,7 @@ https://nesthublandingpage.web.app/
 </table>
 
 #### 4.2.3.2. Sprint Backlog 3
+
 <table>
 	<tbody>
 		<tr>
@@ -2016,15 +2094,14 @@ https://nesthublandingpage.web.app/
     </tbody>
 </table>
 
-
 #### 4.2.3.3. Development Evidence for Sprint Review
 
-| Repository | Branch | Commit ID                                | Commit Message                            | Commit Message Body                    | Commited on (Date) |
-|------------|--------|------------------------------------------|-------------------------------------------|----------------------------------------|--------------------|
-| NestHubApp  | main   | dea17c403b7db350a2c39d64649995b52631addd | chore  | -                          | 25/10/2024 |
-| NestHubApp  | main   | 4d0be2afa0c44a382b46329b88074991ade91bbd | feat: added publishing steps | -                    | 25/10/2024  |
-| NestHubApp  | main   | 4d1b4b402584e62c81db02a36ea52a88d461905f | feat: added user profile screen | -                 | 25/10/2024  |
-| NestHubApp | main   | 4c506ec6ffe22441ec75a942479433bad847f8d9 | feat: added messages screen | -        | 26/10/2024 |
+| Repository | Branch | Commit ID                                | Commit Message                  | Commit Message Body | Commited on (Date) |
+| ---------- | ------ | ---------------------------------------- | ------------------------------- | ------------------- | ------------------ |
+| NestHubApp | main   | dea17c403b7db350a2c39d64649995b52631addd | chore                           | -                   | 25/10/2024         |
+| NestHubApp | main   | 4d0be2afa0c44a382b46329b88074991ade91bbd | feat: added publishing steps    | -                   | 25/10/2024         |
+| NestHubApp | main   | 4d1b4b402584e62c81db02a36ea52a88d461905f | feat: added user profile screen | -                   | 25/10/2024         |
+| NestHubApp | main   | 4c506ec6ffe22441ec75a942479433bad847f8d9 | feat: added messages screen     | -                   | 26/10/2024         |
 
 #### 4.2.3.4. Testing Suite Evidence for Sprint Review
 
@@ -2048,6 +2125,7 @@ https://nesthublandingpage.web.app/
 </table>
 
 #### 4.2.3.5. Execution Evidence for Sprint Review
+
 ![web-app](assets/evidences/1.jpg)
 ![web-app](assets/evidences/2.jpg)
 ![web-app](assets/evidences/3.jpg)
@@ -2091,7 +2169,9 @@ https://nesthubplatform-0a5eeee622eb.herokuapp.com/
 --
 
 ### 4.2.4. Sprint 4
+
 #### 4.2.4.1. Sprint Planning 4
+
 <table style="text-align: center;">
     <tbody>
         <tr>
@@ -2142,6 +2222,7 @@ https://nesthubplatform-0a5eeee622eb.herokuapp.com/
 </table>
 
 #### 4.2.4.2. Sprint Backlog 4
+
 <table>
 	<tbody>
 		<tr>
@@ -2195,15 +2276,14 @@ https://nesthubplatform-0a5eeee622eb.herokuapp.com/
     </tbody>
 </table>
 
-
 #### 4.2.4.3. Development Evidence for Sprint Review
 
-| Repository | Branch | Commit ID                                | Commit Message                            | Commit Message Body                    | Commited on (Date) |
-|------------|--------|------------------------------------------|-------------------------------------------|----------------------------------------|--------------------|
-| NestHubApp  | main   | dea17c403b7db350a2c39d64649995b52631addd | chore  | -                          | 25/10/2024 |
-| NestHubApp  | main   | 4d0be2afa0c44a382b46329b88074991ade91bbd | feat: added publishing steps | -                    | 25/10/2024  |
-| NestHubApp  | main   | 4d1b4b402584e62c81db02a36ea52a88d461905f | feat: added user profile screen | -                 | 25/10/2024  |
-| NestHubApp | main   | 4c506ec6ffe22441ec75a942479433bad847f8d9 | feat: added messages screen | -        | 26/10/2024 |
+| Repository | Branch | Commit ID                                | Commit Message                  | Commit Message Body | Commited on (Date) |
+| ---------- | ------ | ---------------------------------------- | ------------------------------- | ------------------- | ------------------ |
+| NestHubApp | main   | dea17c403b7db350a2c39d64649995b52631addd | chore                           | -                   | 25/10/2024         |
+| NestHubApp | main   | 4d0be2afa0c44a382b46329b88074991ade91bbd | feat: added publishing steps    | -                   | 25/10/2024         |
+| NestHubApp | main   | 4d1b4b402584e62c81db02a36ea52a88d461905f | feat: added user profile screen | -                   | 25/10/2024         |
+| NestHubApp | main   | 4c506ec6ffe22441ec75a942479433bad847f8d9 | feat: added messages screen     | -                   | 26/10/2024         |
 
 #### 4.2.4.4. Testing Suite Evidence for Sprint Review
 
@@ -2227,6 +2307,7 @@ https://nesthubplatform-0a5eeee622eb.herokuapp.com/
 </table>
 
 #### 4.2.4.5. Execution Evidence for Sprint Review
+
 ![web-app](assets/evidences/1.jpg)
 ![web-app](assets/evidences/2.jpg)
 ![web-app](assets/evidences/3.jpg)
@@ -2318,7 +2399,6 @@ Evidencia de la entrevista:
 ![entrevista 2](assets/validation-interiew1.png)
 [Link de entrevisa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201721995_upc_edu_pe/EZ_cpKrgumtCo8VMVXQkjkgBIIcBZKf0ebap3ERUnCyygA?e=pOfhgJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-
 **Entrevista 3:**
 
 Nombre: Bryan Alexander
@@ -2344,6 +2424,7 @@ Evidencia de la entrevista:
 [Link del video](https://upcedupe-my.sharepoint.com/personal/u201721995_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201721995%5Fupc%5Fedu%5Fpe%2FDocuments%2F2024%2D11%2D10%2D20%2D59%2D14%5FgKqBdlHC%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6670c700%2D2cf9%2D4380%2D8060%2D1bf3dff1283e)
 
 ## [Conclusiones](#conclusiones)
+
 ## [bibliografía](#bibliografía)
 
 Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más. (s. f.). Airbnb. https://www.airbnb.com.pe/
@@ -2355,5 +2436,3 @@ Booking.com: The largest selection of hotels, homes, and vacation rentals. (s. 
 Instituto Nacional de Estadística e Informática - INEI. (s. f.). Plataforma del Estado Peruano. https://www.gob.pe/inei/
 
 ## [Anexos](#anexos)
-
-
