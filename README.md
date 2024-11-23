@@ -312,7 +312,7 @@ necesario, utilizando estrategias deaprendizaje apropiadas.*
             <br>TF:<br>
 	  	    Cancho Corilla, Angel Antonio:
             <br>
-            <br>Carpio Cornejo, Miguel: <br><br>
+            <br>Carpio Cornejo, Miguel:<br> Se llevaron a cabo sesiones de brainstorming y análisis crítico para identificar soluciones innovadoras a la problemática planteada. Estas actividades permitieron no solo la generación de ideas creativas, sino también una planificación estratégica que define los pasos a seguir. Asimismo, se realizaron actualizaciones en el backend del proyecto, ajustándolo para su despliegue con configuraciones óptimas. Estas acciones reflejan un enfoque metódico y colaborativo, esencial para garantizar la efectividad del proyecto. <br><br>
             Gamio Upiachihua, Brenda Lucía:<br> 
             </td>
             <td>Se destaca la importancia de mantener actualizados los conocimientos y conceptos necesarios para el desarrollo profesional, especialmente en el área de soluciones de software. Un enfoque metodológico y colaborativo, como se menciona en las conclusiones, representa una práctica eficaz para el desarrollo de proyectos en este sector, garantizando el uso de las mejores prácticas y herramientas disponibles para cumplir con los objetivos establecidos.</td>           
@@ -337,7 +337,7 @@ necesario, utilizando estrategias deaprendizaje apropiadas.*
             <br>TF:<br>
 	  	    Cancho Corilla, Angel Antonio:
             <br>
-            <br>Carpio Cornejo, Miguel: <br><br>
+            <br>Carpio Cornejo, Miguel:<br>Durante el desarrollo del proyecto, se implementó un enfoque iterativo que incluyó pruebas constantes y retroalimentación del equipo. Esta dinámica no solo ayudó a mejorar la calidad del software, sino que también potenció el aprendizaje continuo. Además, se invirtió tiempo en consultar foros, videos y documentación técnica, integrando conocimientos actuales en las implementaciones del proyecto. Este proceso destaca la importancia del aprendizaje constante como un pilar en la mejora de las competencias profesionales y en la entrega de soluciones efectivas en ingeniería de software. <br><br>
             Gamio Upiachihua, Brenda Lucía:<br> 
             </td>
             <td>Se enfatiza la relevancia del aprendizaje continuo en el desarrollo profesional y en los proyectos de soluciones de software. La investigación constante, la adopción de herramientas actualizadas y el análisis de experiencias previas reflejan un compromiso con el aprendizaje permanente, lo cual es crucial para mejorar continuamente el desempeño y la calidad de los proyectos.</td>  
