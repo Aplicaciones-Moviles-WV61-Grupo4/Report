@@ -284,8 +284,8 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
 
 # Student Outcome
 
-ABET – EAC - Student Outcome 7: _La capacidad de adquirir y aplicar nuevos conocimientos según sea
-necesario, utilizando estrategias deaprendizaje apropiadas._
+ABET – EAC - Student Outcome 7: *La capacidad de adquirir y aplicar nuevos conocimientos según sea
+necesario, utilizando estrategias deaprendizaje apropiadas.*
 
 <table >
         <tr>
@@ -308,12 +308,14 @@ necesario, utilizando estrategias deaprendizaje apropiadas._
 		    Gamio Upiachihua, Brenda Lucía:<br>
 		    He mejorado mis conocimientos en desarrollo de aplicaciones móviles al optimizar la navegación de la app, lo que mejora la experiencia del usuario. También he actualizado los reportes para que reflejen con precisión los datos del proyecto. Estas acciones refuerzan mis habilidades técnicas y contribuyen al avance de mi proyecto en soluciones de ingeniería de software.<br>
             <br>Carpio Cornejo, Miguel: <br>
-            He actulizado el backend para poder así desplegarlo con sus respectivas configuras previas. Además he actualizado el reporte mostrando el avance del proyecto como grupo.
+            He actulizado el backend para poder así desplegarlo con sus respectivas configuras previas. Además he actualizado el reporte mostrando el avance del proyecto como grupo.<br>
+            <br>TF:<br>
+	  	    Cancho Corilla, Angel Antonio:
+            <br>
+            <br>Carpio Cornejo, Miguel: <br><br>
+            Gamio Upiachihua, Brenda Lucía:<br> 
             </td>
-            <td>Se destaca la importancia de mantener actualizados los conocimientos y conceptos necesarios para el desarrollo profesional, especialmente en el área de soluciones de software. Un enfoque metodológico y colaborativo, como se menciona en las conclusiones, representa una práctica eficaz para el desarrollo de proyectos en este sector, garantizando el uso de las mejores prácticas y herramientas disponibles para cumplir con los objetivos establecidos.</td>
-            <br>TB3:<br>
-	  	Cancho Corilla, Angel Antonio:<br>
-            
+            <td>Se destaca la importancia de mantener actualizados los conocimientos y conceptos necesarios para el desarrollo profesional, especialmente en el área de soluciones de software. Un enfoque metodológico y colaborativo, como se menciona en las conclusiones, representa una práctica eficaz para el desarrollo de proyectos en este sector, garantizando el uso de las mejores prácticas y herramientas disponibles para cumplir con los objetivos establecidos.</td>           
         </tr>  
         <tr>
             <td align = "left"> Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de tecnologías de ingeniería de software.</td>
@@ -331,10 +333,15 @@ necesario, utilizando estrategias deaprendizaje apropiadas._
 		    <br>Gamio Upiachihua, Brenda Lucía:<br>
 		    He reconocido la importancia del aprendizaje continuo al mejorar la navegación y actualizar reportes en la aplicación móvil. Estas acciones optimizan la funcionalidad del proyecto y amplían mis habilidades, asegurando que permanezca competente en el campo de la ingeniería de software.<br>
             <br> Carpio Cornejo, Miguel: <br>
-            Consultó foros, videos, documentación para mantenerse actualizado y así implementar lo aprendido a la hora de hacer despliegues utilizando tecnlogías actuales y competentes. Reconoció la importancia de dicho aprendizaje para mejorar la calidad de software.
+            Consultó foros, videos, documentación para mantenerse actualizado y así implementar lo aprendido a la hora de hacer despliegues utilizando tecnlogías actuales y competentes. Reconoció la importancia de dicho aprendizaje para mejorar la calidad de software.<br>
+            <br>TF:<br>
+	  	    Cancho Corilla, Angel Antonio:
+            <br>
+            <br>Carpio Cornejo, Miguel: <br><br>
+            Gamio Upiachihua, Brenda Lucía:<br> 
             </td>
             <td>Se enfatiza la relevancia del aprendizaje continuo en el desarrollo profesional y en los proyectos de soluciones de software. La investigación constante, la adopción de herramientas actualizadas y el análisis de experiencias previas reflejan un compromiso con el aprendizaje permanente, lo cual es crucial para mejorar continuamente el desempeño y la calidad de los proyectos.</td>  
-        </tr>
+        </tr>  
 
 </table >
 
